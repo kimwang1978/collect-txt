@@ -3944,6 +3944,7 @@ CHC 家庭影院「回看」,https://tv-1.iill.top/migu/chcjt
 新片放映「回看」,https://tv-1.iill.top/migu/xpfy
 高清大片「回看」,https://tv-1.iill.top/migu/gqdp
 高能悬疑「回看」,https://tv-1.iill.top/migu/gnxy
+经典香港电影「回看」,https://tv-1.iill.top/migu/hkdy
 抗战经典影片「回看」,https://tv-1.iill.top/migu/kzjd
 血色山河·抗日战争影像志「回看」,https://tv-1.iill.top/migu/xssh
 咪咕24小时体育「回看」,https://tv-1.iill.top/migu/mgty
@@ -3952,187 +3953,83 @@ CHC 家庭影院「回看」,https://tv-1.iill.top/migu/chcjt
 掼蛋精英赛「回看」,https://tv-1.iill.top/migu/gdjs
 体坛名栏汇「回看」,https://tv-1.iill.top/migu/ttmh
 和美乡途轮播「回看」,https://tv-1.iill.top/migu/hmxt
-深度对话「回看」,https://tv-1.iill.top/migu/sddh
 最强综艺趴「回看」,https://tv-1.iill.top/migu/zqzyp
 嘉佳卡通「回看」,https://tv-1.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv-1.iill.top/migu/xdll
 钱塘江「回看」,https://tv-1.iill.top/migu/qtj
-「英超」00:15 联赛 利兹联 vs 纽卡斯尔联 苗锟,https://tv-1.iill.top/FB/e8MvSr
-「英超」00:15 联赛 利兹联 vs 纽卡斯尔联 赛场原声,https://tv-1.iill.top/FB/EhvQa8
-「英超」00:15 联赛 利兹联 vs 纽卡斯尔联 英文原声,https://tv-1.iill.top/FB/fwvenK
-「德甲」00:15 联赛 奥格斯堡 vs 拜仁慕尼黑 胡小凡 张力,https://tv-1.iill.top/FB/xllqSq
-「德甲」00:15 联赛 奥格斯堡 vs 拜仁慕尼黑 赛场原声,https://tv-1.iill.top/FB/fJ45Yy
-「意甲」00:15 联赛 帕尔马 vs 亚特兰大 刘腾,https://tv-1.iill.top/FB/PdJ5tt
-「意甲」00:15 联赛 帕尔马 vs 亚特兰大 赛场原声,https://tv-1.iill.top/FB/vtBbp4
-「意甲」00:15 联赛 博洛尼亚 vs 科莫 乔迁,https://tv-1.iill.top/FB/B8Xk3n
-「意甲」00:15 联赛 博洛尼亚 vs 科莫 赛场原声,https://tv-1.iill.top/FB/QTi9jA
-「法甲」00:45 联赛 南特 vs 欧塞尔 盛斌,https://tv-1.iill.top/FB/kkW6Rp
-「法甲」00:45 联赛 南特 vs 欧塞尔 赛场原声,https://tv-1.iill.top/FB/IwawKI
-「西甲」00:45 联赛 皇家奥维耶多 vs 皇家社会 周楚雄,https://tv-1.iill.top/FB/5oUzlG
-「西甲」00:45 联赛 皇家奥维耶多 vs 皇家社会 赛场原声,https://tv-1.iill.top/FB/tsEDhh
-「西甲」01:15 联赛 赫罗纳 vs 塞维利亚 李霄,https://tv-1.iill.top/FB/3GO5Sj
-「西甲」01:15 联赛 赫罗纳 vs 塞维利亚 赛场原声,https://tv-1.iill.top/FB/1VAuCl
-「意甲」02:30 联赛 那不勒斯 vs 卡利亚里 鲁靖明,https://tv-1.iill.top/FB/rrjELa
-「意甲」02:30 联赛 那不勒斯 vs 卡利亚里 赛场原声,https://tv-1.iill.top/FB/Mdmn7A
-「意甲」02:30 联赛 比萨 vs 罗马 谭逸雄,https://tv-1.iill.top/FB/xoOP7W
-「意甲」02:30 联赛 比萨 vs 罗马 赛场原声,https://tv-1.iill.top/FB/mW49W3
-「法甲」02:50 联赛 图卢兹 vs 巴黎圣日耳曼 鹿中原 王宇,https://tv-1.iill.top/FB/O6DEw6
-「法甲」02:50 联赛 图卢兹 vs 巴黎圣日耳曼 赛场原声,https://tv-1.iill.top/FB/m8is0X
-「西甲」03:15 联赛 皇家马德里 vs 马略卡 孙雷 贺宇,https://tv-1.iill.top/FB/xtP3eY
-「西甲」03:15 联赛 皇家马德里 vs 马略卡 赛场原声,https://tv-1.iill.top/FB/gFRrym
-「中超」18:30 联赛 武汉三镇 vs 上海申花 李欣 董路,https://tv-1.iill.top/FB/cNKBWn
-「中超」18:30 联赛 武汉三镇 vs 上海申花 赛场原声,https://tv-1.iill.top/FB/HQjMiD
-「中超」19:00 联赛 山东泰山 vs 北京国安 娄一晨 刘越 孙蕊,https://tv-1.iill.top/FB/lcXxet
-「中超」19:00 联赛 山东泰山 vs 北京国安 4K赛场原声,https://tv-1.iill.top/FB/4jcugt
-「中超」19:20 联赛 深圳新鹏城 vs 梅州客家 张天翼 雷腾龙,https://tv-1.iill.top/FB/E3C8D2
-「中超」19:20 联赛 深圳新鹏城 vs 梅州客家 赛场原声,https://tv-1.iill.top/FB/mET5D9
-「英超」20:45 联赛 诺丁汉森林 vs 西汉姆联 黄航,https://tv-1.iill.top/FB/QcPuU5
-「英超」20:45 联赛 诺丁汉森林 vs 西汉姆联 赛场原声,https://tv-1.iill.top/FB/cww3tH
-「英超」20:45 联赛 诺丁汉森林 vs 西汉姆联 英文原声,https://tv-1.iill.top/FB/TXIY6Z
-「英超」20:30 联赛 布赖顿 vs 曼城 苏东 黄健翔 李子琪,https://tv-1.iill.top/FB/7XrPBg
-「英超」20:45 联赛 布赖顿 vs 曼城 赛场原声,https://tv-1.iill.top/FB/oZ6XWV
-「英超」20:45 联赛 布赖顿 vs 曼城 英文原声,https://tv-1.iill.top/FB/3yCvK0
-「法甲」20:45 联赛 昂热 vs 雷恩 解说,https://tv-1.iill.top/FB/C12g7v
-「法甲」20:45 联赛 昂热 vs 雷恩 赛场原声,https://tv-1.iill.top/FB/yqwRDs
-「德甲」21:15 联赛 沃尔夫斯堡 vs 美因茨 吴子越,https://tv-1.iill.top/FB/8AVEMB
-「德甲」21:15 联赛 沃尔夫斯堡 vs 美因茨 赛场原声,https://tv-1.iill.top/FB/uEGv0F
-「西甲」22:45 联赛 塞尔塔 vs 比利亚雷亚尔 梁祥宇,https://tv-1.iill.top/FB/3SsoG4
-「西甲」22:45 联赛 塞尔塔 vs 比利亚雷亚尔 赛场原声,https://tv-1.iill.top/FB/t5MAZf
-「法甲」23:00 联赛 勒阿弗尔 vs 尼斯 刘一臻,https://tv-1.iill.top/FB/zACmoY
-「法甲」23:00 联赛 勒阿弗尔 vs 尼斯 赛场原声,https://tv-1.iill.top/FB/uN978q
-「法甲」23:00 联赛 摩纳哥 vs 斯特拉斯堡 盛斌,https://tv-1.iill.top/FB/0f1Rd8
-「法甲」23:00 联赛 摩纳哥 vs 斯特拉斯堡 赛场原声,https://tv-1.iill.top/FB/dFPMOr
-「法甲」23:00 联赛 巴黎 vs 梅斯 李永熙,https://tv-1.iill.top/FB/OlFqTc
-「法甲」23:00 联赛 巴黎 vs 梅斯 赛场原声,https://tv-1.iill.top/FB/uNjDWd
-「英超」22:30 联赛 利物浦 vs 阿森纳 詹俊 张路 林梦鸽,https://tv-1.iill.top/FB/5ES9Qs
-「英超」23:15 联赛 利物浦 vs 阿森纳 英文原声,https://tv-1.iill.top/FB/CVOoEY
-「英超」23:15 联赛 利物浦 vs 阿森纳 赛场原声,https://tv-1.iill.top/FB/66pN7I
-「英超」23:15 联赛 利物浦 vs 阿森纳 洪荒,https://tv-1.iill.top/FB/iswIKI
-「英超」23:15 联赛 利物浦 vs 阿森纳 陈渤胄,https://tv-1.iill.top/FB/aZGkMe
-「英超」23:15 联赛 利物浦 vs 阿森纳 江忠德,https://tv-1.iill.top/FB/a4QT9I
-「德甲」23:15 联赛 多特蒙德 vs 柏林联合 沈云怡 涂远,https://tv-1.iill.top/FB/Ss2CtO
-「德甲」23:15 联赛 多特蒙德 vs 柏林联合 赛场原声,https://tv-1.iill.top/FB/teWy9X
-「美国网球公开赛」10:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 玛雅vs萨卡里,https://tv-1.iill.top/Migu/IOBHk5
-「美国网球公开赛」07:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 兹维列夫vs阿利亚西姆,https://tv-1.iill.top/Migu/jhSR6M
-「美国网球公开赛」07:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 卡林斯卡娅vs斯瓦泰克,https://tv-1.iill.top/Migu/6XyaVE
-「美国网球公开赛」09:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 布勃利克vs保罗,https://tv-1.iill.top/Migu/lXUEae
-「美国网球公开赛」07:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 卡林斯卡娅vs斯瓦泰克（清流）,https://tv-1.iill.top/Migu/Q7XrW8
-「美国网球公开赛」07:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 卡林斯卡娅vs斯瓦泰克（英文解说）,https://tv-1.iill.top/Migu/PNA5jU
-「美国网球公开赛」09:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 布勃利克vs汤米·保罗（清流）,https://tv-1.iill.top/Migu/TZ2tEv
-「美国网球公开赛」09:00 黄泽林惜败 斯瓦泰克、兹维列夫出战 黄泽林惜败 斯瓦泰克、兹维列夫出战 布勃利克vs保罗（英文解说）,https://tv-1.iill.top/Migu/qmKdHR
-「逐马计划」07:15 哈尔滨银行2025哈尔滨马拉松 哈尔滨银行2025哈尔滨马拉松 比赛视角,https://tv-1.iill.top/Migu/RIQzz9
-「马拉松系列赛」07:20 2025乌鲁木齐马拉松 2025乌鲁木齐马拉松 清流播出,https://tv-1.iill.top/Migu/GTqIpN
-「高尔夫尊中国公开赛」09:00 2025 决赛轮 2025 决赛轮 解说,https://tv-1.iill.top/Migu/aa0qw6
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 小马哥,https://tv-1.iill.top/Migu/NECSm9
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 周冠达,https://tv-1.iill.top/Migu/GtWU80
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 1号桌,https://tv-1.iill.top/Migu/H2oYR1
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 2号桌,https://tv-1.iill.top/Migu/7YPwqZ
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 3号桌,https://tv-1.iill.top/Migu/vkM6jp
-「乒超」11:00 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 5号桌,https://tv-1.iill.top/Migu/aQcuM2
-「乒超」11:50 孙颖莎率队迎战王曼昱、陈幸同 孙颖莎率队迎战王曼昱、陈幸同 混采区,https://tv-1.iill.top/Migu/vs2Fnr
-「超三联赛」13:55 济源卫星赛第2站 淘汰赛 济源卫星赛第2站 淘汰赛 清流播出,https://tv-1.iill.top/Migu/1OWBG0
-「中乙」15:50 联赛 广东铭途vs杭州临平吴越 解说,https://tv-1.iill.top/Migu/dODrSK
-「中乙」15:50 联赛 昆明城星vs山西崇德荣海 解说,https://tv-1.iill.top/Migu/mAVGN4
-「广东省城市足球超级联赛」16:00 增城猎风VS英德英州 增城猎风VS英德英州 2025: 增城猎风VS英德英州,https://tv-1.iill.top/Migu/MLTvJn
-「广东省城市足球超级联赛」16:00 汕头抽象VS珠海聚杰 汕头抽象VS珠海聚杰 2025: 汕头抽象VS珠海聚杰,https://tv-1.iill.top/Migu/RR5MWq
-「LPL」16:30 WE vs EDG WE vs EDG 官方解说,https://tv-1.iill.top/Migu/B1Megv
-「中乙」16:50 联赛 无锡吴钩vs深圳二零二八 解说,https://tv-1.iill.top/Migu/pYZvEd
-「PEL」17:15 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 官方解说,https://tv-1.iill.top/Migu/ne5VIP
-「PEL」17:15 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 清流,https://tv-1.iill.top/Migu/FtFQYj
-「PEL」17:50 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 明星视角1,https://tv-1.iill.top/Migu/P38v9T
-「PEL」17:50 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 明星视角2,https://tv-1.iill.top/Migu/F9cfjA
-「PEL」17:50 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 明星视角3,https://tv-1.iill.top/Migu/dQRRNo
-「PEL」17:50 2025夏季赛 第七周 第四天 2025夏季赛 第七周 第四天 地图流,https://tv-1.iill.top/Migu/oD80lM
-「国际马联」17:20 盛装舞步欧锦赛 盛装舞步欧锦赛 清流播出,https://tv-1.iill.top/Migu/X7nwGi
-「中乙」17:50 联赛 湖北青年星vs泉州亚新 解说,https://tv-1.iill.top/Migu/dqzN5i
-「超三联赛」17:50 无锡赛区第2站淘汰赛及决赛 无锡赛区第2站淘汰赛及决赛 字诚,https://tv-1.iill.top/Migu/O9k5UR
-「中乙」18:50 联赛 北京理工vs武汉三镇B队 解说,https://tv-1.iill.top/Migu/Yop2dt
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 小马哥,https://tv-1.iill.top/Migu/4C6Zez
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 周冠达,https://tv-1.iill.top/Migu/fAqqUW
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 1号桌,https://tv-1.iill.top/Migu/lJSFbH
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 2号桌,https://tv-1.iill.top/Migu/AjWRb9
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 3号桌,https://tv-1.iill.top/Migu/mdkRJq
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 4号桌,https://tv-1.iill.top/Migu/A8MOAr
-「乒超」19:00 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 5号桌,https://tv-1.iill.top/Migu/L45sGE
-「乒超」19:50 王楚钦、梁靖崑带队迎战山东鲁能 王楚钦、梁靖崑带队迎战山东鲁能 混采区,https://tv-1.iill.top/Migu/P9l634
-「广东省城市足球超级联赛」19:00 顺德东方VS清远恒大足校 顺德东方VS清远恒大足校 2025: 顺德东方VS清远恒大足校,https://tv-1.iill.top/Migu/Hsxhle
-「超三联赛」18:55 济源卫星赛第2站 半决赛及决赛 济源卫星赛第2站 半决赛及决赛 清流播出,https://tv-1.iill.top/Migu/k3DiNk
-「武汉城市足球超级联赛」18:55 汉超第3轮 黄陂区vs江汉区 汉超第3轮 黄陂区vs江汉区 2025赛季: 汉超第3轮 黄陂区vs江汉区,https://tv-1.iill.top/Migu/VyIZi7
-「江苏城市足球联赛」18:50 镇江队vs南京队 解说,https://tv-1.iill.top/Migu/ntVvts
-「江苏城市足球联赛」18:50 南通队vs苏州队 解说,https://tv-1.iill.top/Migu/nDq9JJ
-「江西省城市足球超级联赛」19:30 景德镇VS九江 景德镇VS九江 解说,https://tv-1.iill.top/Migu/ZHOzr9
-「江西省城市足球超级联赛」17:30 景德镇VS九江 景德镇VS九江 解说,https://tv-1.iill.top/Migu/Tw7qxo
-「江西省城市足球超级联赛」19:30 赣州VS吉安 赣州VS吉安 解说,https://tv-1.iill.top/Migu/gTMm12
-「江西省城市足球超级联赛」17:30 赣州VS吉安 赣州VS吉安 解说,https://tv-1.iill.top/Migu/2bXmIQ
-「江西省城市足球超级联赛」19:30 抚州VS萍乡 抚州VS萍乡 解说,https://tv-1.iill.top/Migu/k38E2r
-「江西省城市足球超级联赛」17:30 抚州VS萍乡 抚州VS萍乡 解说,https://tv-1.iill.top/Migu/Qe1FHQ
-「中乙」19:20 联赛 成都蓉城B队vs海门珂缔缘 解说,https://tv-1.iill.top/Migu/fuD0a2
-「中乙」19:20 联赛 温州俱乐部中胤vs兰州陇原竞技 解说,https://tv-1.iill.top/Migu/dth5mj
-「美国网球公开赛」19:30 精选回顾：郑钦文VS维基奇 精选回顾：郑钦文VS维基奇 单文强,https://tv-1.iill.top/Migu/nVui6P
-「浙江省城市篮球联赛城市争霸赛」19:30 湖州VS诸暨 湖州VS诸暨 2025赛季浙江省城市篮球联赛: 湖州VS诸暨,https://tv-1.iill.top/Migu/LFuY5D
-「浙江省城市篮球联赛城市争霸赛」19:30 金华VS杭州 金华VS杭州 2025赛季浙江省城市篮球联赛: 金华VS杭州,https://tv-1.iill.top/Migu/OjC5hr
-「NBL」19:15 半决赛 合肥狂风峻茂 VS 长沙勇胜 解说,https://tv-1.iill.top/Migu/w0XPR9
-「NBL」19:15 半决赛 合肥狂风峻茂 VS 长沙勇胜 清流播出,https://tv-1.iill.top/Migu/fD48yc
-「江苏城市足球联赛」18:55 连云港队vs扬州队 解说,https://tv-1.iill.top/Migu/nL5mBI
-「美国网球公开赛」20:00 《早安美网》第7期 《早安美网》第7期 《早安美网》第7期,https://tv-1.iill.top/Migu/iJVWDJ
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/xakPzA
-「美国网球公开赛」23:30 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/zscrZV
-「美国网球公开赛」23:30 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/PdFa0E
-「美国网球公开赛」23:30 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/oYQFs4
-「美国网球公开赛」23:30 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/RpN3Pb
-「美国网球公开赛」23:30 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 英文原声,https://tv-1.iill.top/Migu/qQPDaW
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/2NxYNF
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/m4g7MG
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/hlMa43
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/B1eZQF
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/HX7x8s
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/sESp7D
-「美国网球公开赛」23:00 男女单打第四轮、双打第二轮 男女单打第四轮、双打第二轮 赛场原声,https://tv-1.iill.top/Migu/nOjqZK
-晴彩广场舞,https://tv.iill.top/itv/qc-dance
-晴彩少年,https://tv.iill.top/itv/qc-youth
-晴彩竞技,https://tv.iill.top/itv/qc-sports
-晴彩篮球,https://tv.iill.top/itv/qc-basket
-咪咕直播 𝟙,https://tv.iill.top/itv/migu-1
-咪咕直播 𝟚,https://tv.iill.top/itv/migu-2
-咪咕直播 𝟛,https://tv.iill.top/itv/migu-3
-咪咕直播 𝟜,https://tv.iill.top/itv/migu-4
-咪咕直播 𝟝,https://tv.iill.top/itv/migu-5
-咪咕直播 𝟞,https://tv.iill.top/itv/migu-6
-咪咕直播 𝟟,https://tv.iill.top/itv/migu-7
-咪咕直播 𝟠,https://tv.iill.top/itv/migu-8
-咪咕直播 𝟡,https://tv.iill.top/itv/migu-9
-咪咕直播 𝟙𝟘,https://tv.iill.top/itv/migu-10
-咪咕直播 𝟙𝟙,https://tv.iill.top/itv/migu-11
-咪咕直播 𝟙𝟚,https://tv.iill.top/itv/migu-12
-咪咕直播 𝟙𝟛,https://tv.iill.top/itv/migu-13
-咪咕直播 𝟙𝟜,https://tv.iill.top/itv/migu-14
-咪咕直播 𝟙𝟝,https://tv.iill.top/itv/migu-15
-咪咕直播 𝟙𝟞,https://tv.iill.top/itv/migu-16
-咪咕直播 𝟙𝟟,https://tv.iill.top/itv/migu-17
-咪咕直播 𝟙𝟠,https://tv.iill.top/itv/migu-18
-咪咕直播 𝟙𝟡,https://tv.iill.top/itv/migu-19
-咪咕直播 𝟚𝟘,https://tv.iill.top/itv/migu-20
-咪咕直播 𝟚𝟙,https://tv.iill.top/itv/migu-21
-咪咕直播 𝟚𝟚,https://tv.iill.top/itv/migu-22
-咪咕直播 𝟚𝟛,https://tv.iill.top/itv/migu-23
-咪咕直播 𝟚𝟜,https://tv.iill.top/itv/migu-24
-咪咕直播 𝟚𝟝,https://tv.iill.top/itv/migu-25
-咪咕直播 𝟚𝟞,https://tv.iill.top/itv/migu-26
-咪咕直播 𝟚𝟟,https://tv.iill.top/itv/migu-27
-咪咕直播 𝟚𝟠,https://tv.iill.top/itv/migu-28
-咪咕直播 𝟚𝟡,https://tv.iill.top/itv/migu-29
-咪咕直播 𝟛𝟘,https://tv.iill.top/itv/migu-30
-咪咕直播 𝟛𝟙,https://tv.iill.top/itv/migu-31
-咪咕直播 𝟛𝟚,https://tv.iill.top/itv/migu-32
-咪咕直播 𝟛𝟛,https://tv.iill.top/itv/migu-33
-咪咕直播 𝟛𝟜,https://tv.iill.top/itv/migu-34
-咪咕直播 𝟛𝟝,https://tv.iill.top/itv/migu-35
-咪咕直播 𝟛𝟞,https://tv.iill.top/itv/migu-36
-咪咕直播 𝟛𝟟,https://tv.iill.top/itv/migu-37
-咪咕直播 𝟛𝟠,https://tv.iill.top/itv/migu-38
+「意甲」00:15 联赛 都灵 vs 佛罗伦萨 刘焕,https://tv-1.iill.top/FB/XjE8ca
+「意甲」00:15 联赛 都灵 vs 佛罗伦萨 赛场原声,https://tv-1.iill.top/FB/wzBx5b
+「意甲」00:00 联赛 热那亚 vs 尤文图斯 石庆圣 李彦,https://tv-1.iill.top/FB/6C25zV
+「意甲」00:15 联赛 热那亚 vs 尤文图斯 赛场原声,https://tv-1.iill.top/FB/DksfAn
+「西甲」00:45 联赛 皇家贝蒂斯 vs 毕尔巴鄂竞技 兰子非,https://tv-1.iill.top/FB/PyYrc8
+「西甲」00:45 联赛 皇家贝蒂斯 vs 毕尔巴鄂竞技 赛场原声,https://tv-1.iill.top/FB/dD7EQJ
+「西甲」01:15 联赛 西班牙人 vs 奥萨苏纳 张天翼,https://tv-1.iill.top/FB/VsVjnp
+「西甲」01:15 联赛 西班牙人 vs 奥萨苏纳 赛场原声,https://tv-1.iill.top/FB/fhjIEt
+「德甲」01:15 联赛 科隆 vs 弗赖堡 周楚雄,https://tv-1.iill.top/FB/a4ER1f
+「德甲」01:15 联赛 科隆 vs 弗赖堡 赛场原声,https://tv-1.iill.top/FB/vN0U9R
+「英超」01:45 联赛 阿斯顿维拉 vs 水晶宫 涂远,https://tv-1.iill.top/FB/buPDeu
+「英超」01:45 联赛 阿斯顿维拉 vs 水晶宫 赛场原声,https://tv-1.iill.top/FB/FuoIfx
+「英超」01:45 联赛 阿斯顿维拉 vs 水晶宫 英文原声,https://tv-1.iill.top/FB/rCbqiP
+「法甲」02:30 联赛 里昂 vs 马赛 乔迁,https://tv-1.iill.top/FB/FqHeOV
+「法甲」02:30 联赛 里昂 vs 马赛 赛场原声,https://tv-1.iill.top/FB/G5wFLP
+「意甲」02:30 联赛 拉齐奥 vs 维罗纳 梁祥宇,https://tv-1.iill.top/FB/C37fqx
+「意甲」02:30 联赛 拉齐奥 vs 维罗纳 赛场原声,https://tv-1.iill.top/FB/BrECBx
+「意甲」02:30 联赛 国际米兰 vs 乌迪内斯 刘腾 贺宇,https://tv-1.iill.top/FB/TvDMwb
+「意甲」02:30 联赛 国际米兰 vs 乌迪内斯 赛场原声,https://tv-1.iill.top/FB/9ciRin
+「西甲」03:15 联赛 巴列卡诺 vs 巴塞罗那 张昊泽 李欣,https://tv-1.iill.top/FB/2U8blX
+「西甲」03:15 联赛 巴列卡诺 vs 巴塞罗那 赛场原声,https://tv-1.iill.top/FB/fi6KxM
+「美国网球公开赛」07:00 德约、萨巴出战 克雷吉茨科娃惊天逆转 德约、萨巴出战 克雷吉茨科娃惊天逆转 德约科维奇 vs 施特鲁夫（单文强）,https://tv-1.iill.top/Migu/0YzRci
+「美国网球公开赛」09:30 德约、萨巴出战 克雷吉茨科娃惊天逆转 德约、萨巴出战 克雷吉茨科娃惊天逆转 莱巴金娜 vs 万卓索娃（单文强）,https://tv-1.iill.top/Migu/M0Qy0W
+「美国网球公开赛」09:30 德约、萨巴出战 克雷吉茨科娃惊天逆转 德约、萨巴出战 克雷吉茨科娃惊天逆转 莱巴金娜 vs 万卓索娃（清流）,https://tv-1.iill.top/Migu/EoC7GD
+「美国网球公开赛」09:30 德约、萨巴出战 克雷吉茨科娃惊天逆转 德约、萨巴出战 克雷吉茨科娃惊天逆转 莱巴金娜 vs 万卓索娃（英文解说）,https://tv-1.iill.top/Migu/G4ZUAG
+「WTA」10:30 125长沙站第一日 125长沙站第一日 清流播出,https://tv-1.iill.top/Migu/0U5OaY
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 小马哥,https://tv-1.iill.top/Migu/ZVpdvs
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 周冠达,https://tv-1.iill.top/Migu/ThrsEK
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 1号桌,https://tv-1.iill.top/Migu/RSJrhD
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 2号桌,https://tv-1.iill.top/Migu/LvBoey
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 3号桌,https://tv-1.iill.top/Migu/xYqm12
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 4号桌,https://tv-1.iill.top/Migu/OJMNiF
+「乒超」11:00 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 5号桌,https://tv-1.iill.top/Migu/8o7HXO
+「乒超」11:50 林诗栋领衔黄石华新出战 林诗栋领衔黄石华新出战 混采区,https://tv-1.iill.top/Migu/tRLF4A
+「LPL」16:30 WBG vs UP WBG vs UP 官方解说,https://tv-1.iill.top/Migu/ADiY7y
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 1号桌,https://tv-1.iill.top/Migu/BdzS7q
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 2号桌,https://tv-1.iill.top/Migu/oVI5qf
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 3号桌,https://tv-1.iill.top/Migu/80q0j5
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 4号桌,https://tv-1.iill.top/Migu/NHJHSR
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 5号桌,https://tv-1.iill.top/Migu/Tv7yjj
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 6号桌,https://tv-1.iill.top/Migu/q4AAks
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 7号桌,https://tv-1.iill.top/Migu/YjO3Tn
+「斯诺克」17:00 西安公开赛资格赛 Day1下午场 西安公开赛资格赛 Day1下午场 朱峰立,https://tv-1.iill.top/Migu/jeWWi1
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 小马哥,https://tv-1.iill.top/Migu/x7xkXn
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 周冠达,https://tv-1.iill.top/Migu/IcZJHj
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 1号桌,https://tv-1.iill.top/Migu/2jPxMI
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 2号桌,https://tv-1.iill.top/Migu/s1P2nn
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 3号桌,https://tv-1.iill.top/Migu/YHj79I
+「乒超」19:00 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 5号桌,https://tv-1.iill.top/Migu/y9Lrjm
+「乒超」19:50 王楚钦领衔山东魏桥迎战黄石华新 王楚钦领衔山东魏桥迎战黄石华新 混采区,https://tv-1.iill.top/Migu/iRviiV
+「美国网球公开赛」19:30 精选回顾：郑钦文VS萨巴伦卡 精选回顾：郑钦文VS萨巴伦卡 房朕 刘钟鸣,https://tv-1.iill.top/Migu/miolyY
+「美国网球公开赛」20:00 《早安美网》第8期 《早安美网》第8期 《早安美网》第8期,https://tv-1.iill.top/Migu/qozxsV
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 1号桌,https://tv-1.iill.top/Migu/Yf65Nb
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 4号桌,https://tv-1.iill.top/Migu/J8OWbq
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 2号桌,https://tv-1.iill.top/Migu/PsVSNC
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 5号桌,https://tv-1.iill.top/Migu/bn5GFd
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 3号桌,https://tv-1.iill.top/Migu/SWRkSz
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 6号桌,https://tv-1.iill.top/Migu/mFNXJX
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 7号桌,https://tv-1.iill.top/Migu/TfqJK8
+「斯诺克」21:30 西安公开赛资格赛 Day1晚场 西安公开赛资格赛 Day1晚场 柏林,https://tv-1.iill.top/Migu/PZ9Vzo
+「美国网球公开赛」23:00 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/7IhAoo
+「美国网球公开赛」23:30 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/tFSyWA
+「美国网球公开赛」23:30 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/8ddEHa
+「美国网球公开赛」23:30 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 英文原声,https://tv-1.iill.top/Migu/UvqS30
+「美国网球公开赛」23:30 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/6d1ixj
+「美国网球公开赛」23:30 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/1fy4Yi
+「美国网球公开赛」23:00 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/r2lD3F
+「美国网球公开赛」23:00 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/VkTSQn
+「美国网球公开赛」23:00 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/6VQhUa
+「美国网球公开赛」23:00 男女单第四轮、男双第二轮及女双第三轮 男女单第四轮、男双第二轮及女双第三轮 赛场原声,https://tv-1.iill.top/Migu/ROcnhH
 測試分組..穩定性未知？,https://epg-1.iill.top/v/302.mp4
 CCTV 5 体育,https://tv-1.iill.top/x/cctv5
-CCTV 5+ 体育赛事,https://tv-1.iill.top/x/cctv5p
+CCTV 5+ 体育赛事,https://tv-1.iill.top/x/cctv5+
 CCTV 13 新闻,https://tv-1.iill.top/x/cctv13
 湖南卫视,https://tv-1.iill.top/x/hnws
 浙江卫视,https://tv-1.iill.top/x/zjws
@@ -4312,22 +4209,25 @@ TV5MONDE Style 生活時尚「4gTV」,https://tv-1.iill.top/4gtv/4gtv-live122
 广州法治,http://dns.yiandrive.com:13571/gztv/fazhi
 广州影视,http://dns.yiandrive.com:13571/gztv/yingshi
 广州南国都市,http://dns.yiandrive.com:13571/gztv/shenghuo
-CCTV13,https://cdn3.163189.xyz/163189/cctv13
-深圳卫视 4K,https://cdn3.163189.xyz/163189/szws4k
-深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
 鳳凰衛視·資訊,http://r.jdshipin.com/0Rp07
 鳳凰衛視·香港,http://r.jdshipin.com/yDoTN
 翡翠台 4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB Plus,http://r.jdshipin.com/ndGgS
 無綫新聞台,http://r.jdshipin.com/CkuBd
 now新聞台,https://cdn.163189.xyz/163189/now
+now財經台,http://iptv.4666888.xyz/iptv.php?id=20085
+now星影台,http://iptv.4666888.xyz/iptv.php?id=20086
+now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
+now華劇台,http://iptv.4666888.xyz/iptv.php?id=20091
+Now Sports 英超1台,http://iptv.4666888.xyz/iptv.php?id=20092
+Now Sports 英超2台,http://iptv.4666888.xyz/iptv.php?id=20093
+愛爾達體育1台,http://iptv.4666888.xyz/iptv.php?id=20232
+愛爾達體育2台,http://iptv.4666888.xyz/iptv.php?id=20233
 ViuTV,http://r.jdshipin.com/vSJvl
 Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
