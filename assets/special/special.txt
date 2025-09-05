@@ -4181,13 +4181,6 @@ CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
 Hub娛家,http://iptv.4666888.xyz/iptv.php?id=20287
 Hub都會,http://iptv.4666888.xyz/iptv.php?id=20288
-中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181
-緯來日本,http://iptv.4666888.xyz/iptv.php?id=20226
-緯來體育,http://iptv.4666888.xyz/iptv.php?id=20225
-EYE TV戲劇,http://iptv.4666888.xyz/iptv.php?id=20230
-龍祥時代,http://iptv.4666888.xyz/iptv.php?id=20247
-好萊塢電影,http://iptv.4666888.xyz/iptv.php?id=20248
-國興衛視,http://iptv.4666888.xyz/iptv.php?id=20315
 「B站」热门赛事,https://live.iill.top/bilibili/2162281110
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
