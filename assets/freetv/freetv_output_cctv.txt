@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250908 07:48:21,url
+20250909 07:48:12,url
 
 
 freetv_cctv,#genre#
@@ -188,4 +188,6 @@ CCTV9,https://stream1.freetv.fun/cctv9-50.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-56.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-67.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-77.m3u8
+CCTV第一剧场,https://stream1.freetv.fun/cctvdi-yi-ju-chang-7.m3u8
 CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-16.m3u8
+CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-24.m3u8
