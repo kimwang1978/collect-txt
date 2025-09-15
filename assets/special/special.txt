@@ -3901,8 +3901,8 @@ bang派,https://live.metshop.top/huya/11336719
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免費訂閲：請勿販賣...,https://epg-1.iill.top/v/302.mp4
-維護時間：2025-8-20 #佛系維護...,https://epg-1.iill.top/v/301.mp4
-維護内容：維護 Gather「新增 •咪咕「海外」/ 優化 "廣告"」,https://epg-1.iill.top/v/302.mp4
+維護時間：2025-9-15 #佛系維護...,https://epg-1.iill.top/v/301.mp4
+維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg-1.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg-1.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg-1.iill.top/v/302.mp4
 CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
@@ -3939,8 +3939,6 @@ CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
 上海新闻综合「回看」,https://tv.iill.top/migu/shxw
 上视东方影视「回看」,https://tv.iill.top/migu/shys
 CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 新片放映「回看」,https://tv.iill.top/migu/xpfy
 高清大片「回看」,https://tv.iill.top/migu/gqdp
 高能悬疑「回看」,https://tv.iill.top/migu/gnxy
@@ -3957,41 +3955,46 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「WTA」02:00 圣保罗站决赛：拉乔纳 2 0 曾丽美 女单决赛：拉乔纳 2 0 曾丽美,https://tv.iill.top/Migu/eGMTqO
-「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [1号桌],https://tv.iill.top/Migu/mumBVr
-「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [2号桌],https://tv.iill.top/Migu/M0Uk2Q
-「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [3号桌],https://tv.iill.top/Migu/d4gLfI
-「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [4号桌],https://tv.iill.top/Migu/NZ1iGz
-「斯诺克」02:00 2025英格兰公开赛：巩晨智、贺国强晋级 [朱峰立],https://tv.iill.top/Migu/ut7GkK
-「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [刘钟鸣],https://tv.iill.top/Migu/hc0qfr
-「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [赛场原声],https://tv.iill.top/Migu/lPV39q
-「WTA」07:30 瓜达拉哈拉站决赛：约维奇PK阿朗戈争冠 [英文原声],https://tv.iill.top/Migu/sWi1Q9
-「河南省女子排球城市联赛」10:00 豫南赛区第二轮 第一阶段（南赛区）第二轮,https://tv.iill.top/Migu/uoUNFY
-「河南省女子排球城市联赛」13:00 豫北赛区第二轮 第一阶段（北赛区）第二轮,https://tv.iill.top/Migu/07l3li
-「超三联赛」14:00 阜阳卫星赛 淘汰赛,https://tv.iill.top/Migu/8s4Y2N
-「乒乓球经典赛事」14:00 【赛事放映厅】重温WTT中国大满贯：孙颖莎VS伊藤美诚 再战伊藤！孙颖莎强势横扫,https://tv.iill.top/Migu/4FtXO3
-「全国女子篮球锦标赛」14:30 赣州赣星vs四川远达美乐,https://tv.iill.top/Migu/KAkmzt
-「LPL」16:30 TES vs BLG,https://tv.iill.top/Migu/Aa5wUC
-「全国女子篮球锦标赛」17:00 山西竹叶青酒vs石家庄英励,https://tv.iill.top/Migu/1SoGYX
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [1号桌],https://tv.iill.top/Migu/ziMWwx
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [丁文钧],https://tv.iill.top/Migu/JHrdgo
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [柏林],https://tv.iill.top/Migu/1Rt5R3
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [2号桌],https://tv.iill.top/Migu/0e1CW9
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [3号桌],https://tv.iill.top/Migu/vhAnVU
-「斯诺克」17:00 2025英格兰公开赛：丁俊晖、斯佳辉登场 [4号桌],https://tv.iill.top/Migu/0w1XHJ
-「超三联赛」19:00 阜阳卫星赛 半决赛及决赛,https://tv.iill.top/Migu/OroRQb
-「全国女子篮球锦标赛」19:30 黑龙江上东vs厦门白鹭,https://tv.iill.top/Migu/azTESR
 CCTV 1 综合,https://tv.iill.top/x/cctv1
+CCTV 2 财经,https://tv.iill.top/x/cctv2
+CCTV 3 综艺,https://tv.iill.top/x/cctv3
+CCTV 4 中文国际,https://tv.iill.top/x/cctv4
 CCTV 5 体育,https://tv.iill.top/x/cctv5
 CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
+CCTV 6 电影,https://tv.iill.top/x/cctv6
+CCTV 7 国防军事,https://tv.iill.top/x/cctv7
+CCTV 8 电视剧,https://tv.iill.top/x/cctv8
+CCTV 9 纪录,https://tv.iill.top/x/cctv9
+CCTV 10 科教,https://tv.iill.top/x/cctv10
+CCTV 11 戏曲,https://tv.iill.top/x/cctv11
+CCTV 12 社会与法,https://tv.iill.top/x/cctv12
 CCTV 13 新闻,https://tv.iill.top/x/cctv13
+CCTV 14 少儿,https://tv.iill.top/x/cctv14
+CCTV 15 音乐,https://tv.iill.top/x/cctv15
 CCTV 16 奥林匹克,https://tv.iill.top/x/cctv16
+CCTV 17 农村农业,https://tv.iill.top/x/cctv17
 北京卫视,https://tv.iill.top/x/bjws
 江苏卫视,https://tv.iill.top/x/jsws
 东方卫视,https://tv.iill.top/x/dfws
 湖南卫视,https://tv.iill.top/x/hnws
 浙江卫视,https://tv.iill.top/x/zjws
 广东卫视,https://tv.iill.top/x/gdws
+广西卫视,https://tv.iill.top/x/gxws
+深圳卫视,https://tv.iill.top/x/szws
+四川卫视,https://tv.iill.top/x/scws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="•央卫「海外」"重庆卫视,https://tv.iill.top/x/cqws
+海南卫视,https://tv.iill.top/x/hainws
+湖北卫视,https://tv.iill.top/x/hbws
+江西卫视,https://tv.iill.top/x/jxws
+贵州卫视,https://tv.iill.top/x/gzws
+东南卫视,https://tv.iill.top/x/dnws
+河南卫视,https://tv.iill.top/x/henws
+天津卫视,https://tv.iill.top/x/tjws
+山东卫视,https://tv.iill.top/x/sdws
+黑龙江卫视,https://tv.iill.top/x/hljws
+安徽卫视,https://tv.iill.top/x/ahws
+吉林卫视,https://tv.iill.top/x/jlws
+辽宁卫视,https://tv.iill.top/x/lnws
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 now新聞台,https://yang-1989.eu.org/live/now-332
