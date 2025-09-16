@@ -3982,7 +3982,7 @@ CCTV 17 农村农业,https://tv.iill.top/x/cctv17
 广西卫视,https://tv.iill.top/x/gxws
 深圳卫视,https://tv.iill.top/x/szws
 四川卫视,https://tv.iill.top/x/scws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="•央卫「海外」"重庆卫视,https://tv.iill.top/x/cqws
+重庆卫视,https://tv.iill.top/x/cqws
 海南卫视,https://tv.iill.top/x/hainws
 湖北卫视,https://tv.iill.top/x/hbws
 江西卫视,https://tv.iill.top/x/jxws
