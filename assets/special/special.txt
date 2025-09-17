@@ -3927,6 +3927,14 @@ CCTV 17 农村农业「回看」,https://tv.iill.top/migu/cctv17
 CETV 1 中国教育「回看」,https://tv.iill.top/migu/cetv1
 CETV 2 中国教育「回看」,https://tv.iill.top/migu/cetv2
 CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
+CGTN「回看」,https://tv.iill.top/CGTN/cgtn
+CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
+CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
+CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
+CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
+CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
+浙江卫视,https://tv.iill.top/migu/zjws
+湖南卫视「回看」,https://tv.iill.top/migu/hnws
 东方卫视「回看」,https://tv.iill.top/migu/dfws
 江苏卫视「回看」,https://tv.iill.top/migu/jsws
 广东卫视「回看」,https://tv.iill.top/migu/gdws
@@ -3935,10 +3943,13 @@ CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
 湖北卫视「回看」,https://tv.iill.top/migu/hubws
 东南卫视「回看」,https://tv.iill.top/migu/dnws
 海峡卫视「回看」,https://tv.iill.top/migu/hxws
+辽宁卫视「回看」,https://tv.iill.top/migu/lnws
 四海钓鱼「回看」,https://tv.iill.top/migu/shdy
 上海新闻综合「回看」,https://tv.iill.top/migu/shxw
 上视东方影视「回看」,https://tv.iill.top/migu/shys
 CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 新片放映「回看」,https://tv.iill.top/migu/xpfy
 高清大片「回看」,https://tv.iill.top/migu/gqdp
 高能悬疑「回看」,https://tv.iill.top/migu/gnxy
