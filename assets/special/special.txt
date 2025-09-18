@@ -4177,11 +4177,11 @@ TV5MONDE Style 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 東森購物 四「4gTV」,https://tv.iill.top/4gtv/4gtv-live049
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,http://dns.yiandrive.com:13571/gztv/zhonghe
-广州新闻,http://dns.yiandrive.com:13571/gztv/xinwen
-广州法治,http://dns.yiandrive.com:13571/gztv/fazhi
-广州影视,http://dns.yiandrive.com:13571/gztv/yingshi
-广州南国都市,http://dns.yiandrive.com:13571/gztv/shenghuo
+广州综合,http://i.iill.top:12838/gztv/zhonghe
+广州新闻,http://i.iill.top:12838/gztv/xinwen
+广州法治,http://i.iill.top:12838/gztv/fazhi
+广州影视,http://i.iill.top:12838/gztv/yingshi
+广州南国都市,http://i.iill.top:12838/gztv/shenghuo
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
