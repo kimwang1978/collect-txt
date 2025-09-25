@@ -4170,20 +4170,10 @@ TV5MONDE Style 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 TVB Plus,http://r.jdshipin.com/ndGgS
 無綫新聞台,http://r.jdshipin.com/CkuBd
 Now新聞台,https://cdn.163189.xyz/163189/now
-Now財經台,http://iptv.4666888.xyz/iptv.php?id=20085
-Now星影台,http://iptv.4666888.xyz/iptv.php?id=20086
-Now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
-Now華劇台,http://iptv.4666888.xyz/iptv.php?id=20091
-Now Sports 英超1台,http://iptv.4666888.xyz/iptv.php?id=20092
-Now Sports 2,http://iptv.4666888.xyz/iptv.php?id=20093
-Now Sports 3,http://iptv.4666888.xyz/iptv.php?id=20084
-愛爾達體育1台,http://iptv.4666888.xyz/iptv.php?id=20232
-愛爾達體育2台,http://iptv.4666888.xyz/iptv.php?id=20233
 Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB 星河「粤」,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB 星河「国」,http://iptv.4666888.xyz/iptv.php?id=20102
 亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
@@ -4194,8 +4184,6 @@ Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
-Hub娛家,http://iptv.4666888.xyz/iptv.php?id=20287
-Hub都會,http://iptv.4666888.xyz/iptv.php?id=20288
 「B站」热门赛事,https://live.iill.top/bilibili/2162281110
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
