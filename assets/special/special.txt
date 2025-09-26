@@ -4117,7 +4117,7 @@ MTV Live HD 音樂頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live025
 電影原聲 CMusic「4gTV」,https://tv.iill.top/4gtv/4gtv-live031
 Trace Urban「LiTV」,https://tv.iill.top/litv/4gtv-4gtv082
 Trace Sports「LiTV」,https://tv.iill.top/litv/4gtv-4gtv077
-GINX Esports TV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv053
+Ginx TV 電競頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv053
 DreamWorks 夢工廠動畫「4gTV」,https://tv.iill.top/4gtv/4gtv-live017
 精選動漫「4gTV」,https://tv.iill.top/4gtv/4gtv-live024
 經典卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-live022
