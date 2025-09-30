@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250930 07:47:59,url
+20251001 07:48:27,url
 
 
 freetv,#genre#
@@ -14,9 +14,9 @@ CCTV1,https://stream1.freetv.fun/cctv1-38.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-43.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-6.ctv$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-61.m3u8$[BD]cctv1
-CCTV1,https://stream1.freetv.fun/cctv1-7.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-73.ctv$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-74.m3u8$[BD]cctv1
+CCTV1,https://stream1.freetv.fun/cctv1-8.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-82.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-86.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-9.m3u8$[BD]cctv1
@@ -313,7 +313,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv$[BD]chc�
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8$[BD]chc影迷电影
 cetv1,https://stream1.freetv.fun/cetv1-12.ctv$[BD]cetv1
 cetv1,https://stream1.freetv.fun/cetv1-5.ctv$[BD]cetv1
-cetv1,https://stream1.freetv.fun/cetv1-6.m3u8$[BD]cetv1
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-4.m3u8$[BD]cetv1
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8$[BD]cetv1
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
@@ -475,7 +474,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8$[HD]凤凰香港
-刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8$[HD]刘德华
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8$[HD]剧集
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8$[BD]动漫秀场
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-3.ctv$[BD]动漫秀场
