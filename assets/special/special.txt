@@ -3966,35 +3966,94 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「NBA」00:00 季前赛 76人VS尼克斯 [邢晨],https://tv.iill.top/NBA/4EuKRA
-「NBA」00:00 季前赛 76人VS尼克斯 [英文原声],https://tv.iill.top/NBA/6jv3bl
-「NBA」17:30 季前赛 墨尔本联VS鹈鹕 [王凯],https://tv.iill.top/NBA/lLy6Gf
-「NBA」17:30 季前赛 墨尔本联VS鹈鹕 [英文原声],https://tv.iill.top/NBA/QeydCj
-「玄奘之路戈壁挑战赛」07:30 竞赛日Day2,https://tv.iill.top/Migu/KjysVX
-「WTA」10:00 苏州站第一日赛场原声,https://tv.iill.top/Migu/edMpmA
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [周泽昊 程靖淇],https://tv.iill.top/Migu/vQ1HUG
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [小马哥],https://tv.iill.top/Migu/FTI8Ey
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [李宏德],https://tv.iill.top/Migu/6Jtvt8
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [1号桌],https://tv.iill.top/Migu/g7Ihjm
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [2号桌],https://tv.iill.top/Migu/ab3w8T
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [智能字幕],https://tv.iill.top/Migu/msM2Df
-「WTT」11:00 中国大满贯：男女单打1/4决赛、双打半决赛 孙颖莎vs王艺迪！“头头”组合冲男双决赛 [李宏德],https://tv.iill.top/Migu/JPVYIs
-「中国网球公开赛」13:00 女子单双打1/4决赛：纳瓦罗PK佩古拉 谢淑薇/奥斯塔彭科冲四强 纳瓦罗PK佩古拉 谢淑薇/奥胖冲四强,https://tv.iill.top/Migu/nClIu3
-「全国马术三项赛青少年锦标赛」14:00 第三日,https://tv.iill.top/Migu/gpNtCz
-「四川省城市足球联赛」15:00 甘孜州有机牦牛队 VS 绵阳九洲长虹队,https://tv.iill.top/Migu/p2ofSl
-「四川省城市足球联赛」15:30 资阳中国牙谷队 VS 泸州老窖队,https://tv.iill.top/Migu/ImECER
-「玄奘之路戈壁挑战赛」17:30 咪咕OOH夜Day3 咪咕OOH夜 戈壁四天三晚不断播,https://tv.iill.top/Migu/Xs5bXx
-「WTT」18:00 中国大满贯：男女单打1/4决赛、混双决赛 争冠！莎头组合对阵黄友政/陈熠 [周泽昊],https://tv.iill.top/Migu/G6Crz7
-「WTT」18:00 中国大满贯：男女单打1/4决赛、混双决赛 争冠！莎头组合对阵黄友政/陈熠 [周冠达 周雨 侯英超],https://tv.iill.top/Migu/zySBPi
-「WTT」18:00 中国大满贯：男女单打1/4决赛、混双决赛 争冠！莎头组合对阵黄友政/陈熠 [1号桌],https://tv.iill.top/Migu/DfjK3D
-「WTT」18:00 中国大满贯：男女单打1/4决赛、混双决赛 争冠！莎头组合对阵黄友政/陈熠 [智能字幕],https://tv.iill.top/Migu/bFQoHl
-「浙江稠州银行杯职业篮球对抗赛」18:00 义乌市队vs浙江稠州三队,https://tv.iill.top/Migu/uwLDuJ
-「UFC前瞻与回顾」19:00 UFC巴西柔术大赛 第三期 [王琰博],https://tv.iill.top/Migu/iB89BH
-「浙江省城市篮球联赛」19:30 湖州VS柯城,https://tv.iill.top/Migu/Ncq7wf
-「浙江省城市篮球联赛」19:30 金华VS舟山,https://tv.iill.top/Migu/eGokPM
-「浙江稠州银行杯职业篮球对抗赛」19:30 上海久事vs浙江方兴渡,https://tv.iill.top/Migu/CgCzUU
-「四川省城市足球联赛」19:35 广元剑门雄关队 VS 阿坝州雪山雄鹰队,https://tv.iill.top/Migu/RxqQvT
-「湖南省足球联赛」19:35 岳阳vs永州,https://tv.iill.top/Migu/oQp7VV
+「德甲」02:30 联赛 霍芬海姆 vs 科隆 [赛场原声],https://tv.iill.top/FB/rLmxbO
+「法甲」02:45 联赛 巴黎 vs 洛里昂 [赛场原声],https://tv.iill.top/FB/ogiRJg
+「意甲」02:45 联赛 维罗纳 vs 萨索洛 [吴奕博],https://tv.iill.top/FB/MCygvN
+「意甲」02:45 联赛 维罗纳 vs 萨索洛 [赛场原声],https://tv.iill.top/FB/aVGcke
+「英超」03:00 联赛 伯恩茅斯 vs 富勒姆 [黄航],https://tv.iill.top/FB/vwsrWF
+「英超」03:00 联赛 伯恩茅斯 vs 富勒姆 [赛场原声],https://tv.iill.top/FB/LTKuYs
+「英超」03:00 联赛 伯恩茅斯 vs 富勒姆 [英文原声],https://tv.iill.top/FB/2WyyET
+「西甲」03:00 联赛 奥萨苏纳 vs 赫塔费 [洪宇青],https://tv.iill.top/FB/8YLp5o
+「西甲」03:00 联赛 奥萨苏纳 vs 赫塔费 [赛场原声],https://tv.iill.top/FB/hW5yRC
+「中超」19:00 联赛 梅州客家 vs 青岛海牛 [孙雨轩 王伟],https://tv.iill.top/FB/e4SY4m
+「中超」19:00 联赛 梅州客家 vs 青岛海牛 [赛场原声],https://tv.iill.top/FB/1DGqdW
+「中甲」19:30 联赛 定南赣联 vs 延边龙鼎,https://tv.iill.top/FB/zHYbim
+「中甲」19:30 联赛 佛山南狮 vs 大连鲲城,https://tv.iill.top/FB/impWHf
+「中甲」19:30 联赛 南通支云 vs 青岛红狮,https://tv.iill.top/FB/jc71nf
+「英超」19:30 联赛 利兹联 vs 托特纳姆热刺 [詹俊 张路 程思钦],https://tv.iill.top/FB/ghOoRA
+「英超」19:30 联赛 利兹联 vs 托特纳姆热刺 [赛场原声],https://tv.iill.top/FB/zGexaw
+「英超」19:30 联赛 利兹联 vs 托特纳姆热刺 [英文原声],https://tv.iill.top/FB/ck15MX
+「中超」19:35 联赛 山东泰山 vs 云南玉昆 [石庆圣 李彦 姚安妮],https://tv.iill.top/FB/tZoXuO
+「中超」19:35 联赛 山东泰山 vs 云南玉昆 [赛场原声],https://tv.iill.top/FB/aMN49M
+「中超」19:35 联赛 大连英博 vs 青岛西海岸 [袁甲 徐阳],https://tv.iill.top/FB/2JmH4W
+「中超」19:35 联赛 大连英博 vs 青岛西海岸 [赛场原声],https://tv.iill.top/FB/4m4QfX
+「西甲」20:00 联赛 皇家奥维耶多 vs 莱万特 [张天翼],https://tv.iill.top/FB/gXQkFy
+「西甲」20:00 联赛 皇家奥维耶多 vs 莱万特 [赛场原声],https://tv.iill.top/FB/3revpL
+「意甲」21:00 联赛 帕尔马 vs 莱切 [谭逸雄],https://tv.iill.top/FB/F1derG
+「意甲」21:00 联赛 帕尔马 vs 莱切 [赛场原声],https://tv.iill.top/FB/5Qfg8R
+「意甲」21:00 联赛 拉齐奥 vs 都灵 [刘焕],https://tv.iill.top/FB/Ze7Mpt
+「意甲」21:00 联赛 拉齐奥 vs 都灵 [赛场原声],https://tv.iill.top/FB/pAD0ad
+「德甲」21:30 联赛 奥格斯堡 vs 沃尔夫斯堡 [刘洋],https://tv.iill.top/FB/T7c9Lj
+「德甲」21:30 联赛 奥格斯堡 vs 沃尔夫斯堡 [赛场原声],https://tv.iill.top/FB/rBRBFL
+「德甲」21:30 联赛 不来梅 vs 圣保利 [刘洪新],https://tv.iill.top/FB/VjXmVQ
+「德甲」21:30 联赛 不来梅 vs 圣保利 [赛场原声],https://tv.iill.top/FB/VMPu67
+「德甲」21:30 联赛 多特蒙德 vs RB莱比锡 [沈云怡 秦游夏],https://tv.iill.top/FB/94mjbE
+「德甲」21:30 联赛 多特蒙德 vs RB莱比锡 [赛场原声],https://tv.iill.top/FB/oEOyAj
+「德甲」21:30 联赛 勒沃库森 vs 柏林联合 [李霄],https://tv.iill.top/FB/UnpXFJ
+「德甲」21:30 联赛 勒沃库森 vs 柏林联合 [赛场原声],https://tv.iill.top/FB/tBlGkg
+「英超」22:00 联赛 曼联 vs 桑德兰 [娄一晨 刘越 邵凌霄],https://tv.iill.top/FB/1bLven
+「英超」22:00 联赛 曼联 vs 桑德兰 [赛场原声],https://tv.iill.top/FB/aQKFcy
+「英超」22:00 联赛 曼联 vs 桑德兰 [英文原声],https://tv.iill.top/FB/66h4Px
+「英超」22:00 联赛 阿森纳 vs 西汉姆联 [苏东 黄健翔],https://tv.iill.top/FB/UacFtZ
+「英超」22:00 联赛 阿森纳 vs 西汉姆联 [赛场原声],https://tv.iill.top/FB/jtIsa0
+「英超」22:00 联赛 阿森纳 vs 西汉姆联 [英文原声],https://tv.iill.top/FB/z0GG1Y
+「西甲」22:15 联赛 赫罗纳 vs 瓦伦西亚 [唐晖],https://tv.iill.top/FB/GwhAQl
+「西甲」22:15 联赛 赫罗纳 vs 瓦伦西亚 [赛场原声],https://tv.iill.top/FB/Qh264Z
+「法甲」23:00 联赛 梅斯 vs 马赛 [邵煊],https://tv.iill.top/FB/v8FkID
+「法甲」23:00 联赛 梅斯 vs 马赛 [赛场原声],https://tv.iill.top/FB/mjMFav
+「NBA」10:00 季前赛 太阳VS湖人 [蔡凯臣 周赫],https://tv.iill.top/NBA/mP3ui8
+「NBA」10:00 季前赛 太阳VS湖人 [英文原声],https://tv.iill.top/NBA/IV0yBi
+「NBA」23:00 季前赛 尼克斯VS76人 [季孟年],https://tv.iill.top/NBA/j15gQt
+「NBA」23:00 季前赛 尼克斯VS76人 [英文原声],https://tv.iill.top/NBA/xF7oUx
+「浙江稠州银行杯职业篮球对抗赛」02:30 德甲联赛 霍芬海姆 vs 科隆 [吴子越],https://tv.iill.top/Migu/lwIuhF
+「英女超」02:30 曼联女足vs切尔西女足 [吴桐],https://tv.iill.top/Migu/GIv67Y
+「英女超」02:30 曼联女足vs切尔西女足 [赛场原声],https://tv.iill.top/Migu/AjJZVK
+「玄奘之路戈壁挑战赛」05:30 竞赛日Day3,https://tv.iill.top/Migu/OvxFrh
+「WTA」10:00 苏州站第二日赛场原声,https://tv.iill.top/Migu/aJ3epc
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [周泽昊 程靖淇],https://tv.iill.top/Migu/joFC7n
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [小马哥],https://tv.iill.top/Migu/HCYaaF
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [1号桌],https://tv.iill.top/Migu/uWk4bZ
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [智能字幕],https://tv.iill.top/Migu/tFneML
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [小马哥],https://tv.iill.top/Migu/qOwkY0
+「WTT」12:00 中国大满贯：女双决赛、男单1/4决赛 双曼组合冲女双冠军！王楚钦vs松岛辉空 [小马哥],https://tv.iill.top/Migu/LvJPvO
+「中国网球公开赛」13:00 女子单双打半决赛：高芙PK阿尼西莫娃 纳瓦罗对阵诺斯科娃,https://tv.iill.top/Migu/MX193A
+「中国网球公开赛」14:30 女单半决赛：阿尼西莫娃 vs 高芙,https://tv.iill.top/Migu/q7pYVn
+「UFC格斗之夜」14:30 激战前夜：德瓦利什维利vs桑德哈根特辑 [陈瑞阳],https://tv.iill.top/Migu/kmdGYj
+「中乙」15:00 联赛 山西崇德荣海vs昆明城星,https://tv.iill.top/Migu/M1gKiZ
+「中乙」15:30 联赛 泉州亚新vs湖北青年星,https://tv.iill.top/Migu/ZC9ZDU
+「中乙」15:30 联赛 杭州临平吴越vs广东铭途,https://tv.iill.top/Migu/ebUyrB
+「中乙」16:00 联赛 广州蒲公英德桦绿建vs上海海港富盛经开,https://tv.iill.top/Migu/BpqNUc
+「WTT」17:00 中国大满贯：女单半决赛、男双决赛 “头头”组合争冠！孙颖莎对决陈幸同 [周泽昊],https://tv.iill.top/Migu/fny4tC
+「WTT」17:00 中国大满贯：女单半决赛、男双决赛 “头头”组合争冠！孙颖莎对决陈幸同 [侯英超 邓亚萍 周雨],https://tv.iill.top/Migu/yk5EmM
+「WTT」17:00 中国大满贯：女单半决赛、男双决赛 “头头”组合争冠！孙颖莎对决陈幸同 [1号桌],https://tv.iill.top/Migu/aPfTX6
+「WTT」17:00 中国大满贯：女单半决赛、男双决赛 “头头”组合争冠！孙颖莎对决陈幸同 [智能字幕],https://tv.iill.top/Migu/JDy4PA
+「WTT」17:00 中国大满贯：女单半决赛、男双决赛 “头头”组合争冠！孙颖莎对决陈幸同 [侯英超 周雨],https://tv.iill.top/Migu/jrPAWu
+「中国网球公开赛」17:45 女单半决赛：佩古拉 vs 诺斯科娃,https://tv.iill.top/Migu/df317J
+「UFC格斗之夜」18:00 激战前夜：安卡拉耶夫vs佩雷拉特辑 [王琰博],https://tv.iill.top/Migu/MTJMAI
+「英女超」19:00 曼城女足vs阿森纳女足 [刘畅],https://tv.iill.top/Migu/HAY5X4
+「英女超」19:00 曼城女足vs阿森纳女足 [赛场原声],https://tv.iill.top/Migu/z6yX3U
+「中乙」19:30 联赛 海门珂缔缘vs成都蓉城B队,https://tv.iill.top/Migu/2cCffL
+「中乙」19:30 联赛 武汉三镇B队vs北京理工,https://tv.iill.top/Migu/kwkF24
+「浙江省城市篮球联赛」19:30 杭州VS嘉兴经开区,https://tv.iill.top/Migu/8qiRI8
+「浙江省城市篮球联赛」19:30 诸暨VS温州,https://tv.iill.top/Migu/GPHE7P
+「浙江省城市篮球联赛」19:30 余姚VS台州,https://tv.iill.top/Migu/ACR7lV
+「浙江稠州银行杯职业篮球对抗赛」19:30 浙江方兴渡vs浙江稠州金租,https://tv.iill.top/Migu/elr6Bk
+「江西省城市足球超级联赛」19:30 赣州VS九江,https://tv.iill.top/Migu/kPdhXA
+「湖南省足球联赛」19:35 湘潭vs娄底,https://tv.iill.top/Migu/uiNmvq
+「湖南省足球联赛」19:35 怀化vs益阳,https://tv.iill.top/Migu/RSnYp9
+「湖南省足球联赛」19:35 张家界vs邵阳,https://tv.iill.top/Migu/H7c7N0
+「湖南省足球联赛」19:35 湘西vs长沙,https://tv.iill.top/Migu/UWAAHs
+「江苏城市足球联赛」19:35 四分之一决赛 南京队vs连云港队,https://tv.iill.top/Migu/28WAOE
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
