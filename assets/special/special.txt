@@ -3966,27 +3966,33 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「世预亚」07:30 NBA季前赛 马刺VS热火 [王晓晨],https://tv.iill.top/FB/pBU6E4
-「NBA」07:30 季前赛 马刺VS热火 [英文原声],https://tv.iill.top/NBA/ZsHnB4
-「NBA」08:00 季前赛 爵士VS火箭 [王冠证],https://tv.iill.top/NBA/mEIDt5
-「NBA」08:00 季前赛 爵士VS火箭 [英文原声],https://tv.iill.top/NBA/QMaPTW
-「NBA」08:00 季前赛 凯尔特人VS灰熊 [邵化谦],https://tv.iill.top/NBA/ufbjss
-「NBA」08:00 季前赛 凯尔特人VS灰熊 [英文原声],https://tv.iill.top/NBA/uh3sZB
-「NBA」10:00 季前赛 开拓者VS勇士 [连睿 周鹏 小七],https://tv.iill.top/NBA/wJX5Q8
-「NBA」10:00 季前赛 开拓者VS勇士 [英文原声],https://tv.iill.top/NBA/Wz7k6E
-「NBA」10:00 季前赛 猛龙VS国王 [刘芳宇],https://tv.iill.top/NBA/zAaNIV
-「NBA」10:00 季前赛 猛龙VS国王 [英文原声],https://tv.iill.top/NBA/Q8iFec
-「全国女子篮球锦标赛」10:00 赣州赣星vs北京首钢,https://tv.iill.top/Migu/njcEyT
-「别克LPGA锦标赛」11:00 别克LPGA高尔夫锦标赛第一轮,https://tv.iill.top/Migu/dAnVWz
-「超三联赛」14:00 贵阳卫星赛 小组赛下午场,https://tv.iill.top/Migu/k5aESh
-「斯诺克」14:00 2025西安大奖赛32进16：丁俊晖、斯佳辉出战 袁思俊PK囧哥,https://tv.iill.top/Migu/cWZvRG
-「ATP」14:00 济南国际网球公开赛Day5：男单第二轮/男双四分之一决赛,https://tv.iill.top/Migu/GlECgp
-「全国女子篮球锦标赛」14:30 合肥文旅vs黑龙江上东,https://tv.iill.top/Migu/5Hibua
-「全国女子篮球锦标赛」17:00 河南豫光金铅vs厦门白鹭,https://tv.iill.top/Migu/yhpTjX
-「乒乓球经典赛事」18:00 【赛事放映厅】重温2025WTT中国大满贯王曼昱女单夺冠 全力出击！王曼昱问鼎女单,https://tv.iill.top/Migu/EeHIiE
-「超三联赛」19:00 贵阳卫星赛 小组赛晚间场,https://tv.iill.top/Migu/eH0mie
-「斯诺克」19:20 2025西安大奖赛32进16：周跃龙大战威廉姆斯 奥沙利文PK马奎尔,https://tv.iill.top/Migu/C7BIgk
-「全国女子篮球锦标赛」19:30 陕西天泽vs新疆天山,https://tv.iill.top/Migu/tfHDri
+「NBA」07:30 季前赛 森林狼VS尼克斯 [英文原声],https://tv.iill.top/NBA/4Wb196
+「NBA」08:00 季前赛 活塞VS雄鹿 [周赫],https://tv.iill.top/NBA/J9o9rw
+「NBA」08:00 季前赛 活塞VS雄鹿 [英文原声],https://tv.iill.top/NBA/9O54yo
+「NBA」08:00 季前赛 黄蜂VS雷霆 [王冠证],https://tv.iill.top/NBA/pPPwuV
+「NBA」08:00 季前赛 黄蜂VS雷霆 [英文原声],https://tv.iill.top/NBA/LPBvNt
+「NBA」08:00 季前赛 骑士VS公牛 [姜帆],https://tv.iill.top/NBA/Zr5n9G
+「NBA」08:00 季前赛 骑士VS公牛 [英文原声],https://tv.iill.top/NBA/iCRoxq
+「NBA」10:30 季前赛 广州朗肽海本VS快船 [张泽欣],https://tv.iill.top/NBA/qoLFYC
+「NBA」10:30 季前赛 广州朗肽海本VS快船 [英文原声],https://tv.iill.top/NBA/bLKHMR
+「NBA」20:00 季前赛 太阳VS篮网 [杨健 周琦 刘家成],https://tv.iill.top/NBA/3KEay1
+「NBA」20:00 季前赛 太阳VS篮网 [孙博 曾令旭 小七],https://tv.iill.top/NBA/1r5Tmt
+「NBA」20:00 季前赛 太阳VS篮网 [英文原声],https://tv.iill.top/NBA/rMamGC
+「全国女子篮球锦标赛」07:30 NBA季前赛 森林狼VS尼克斯 [刘圳展],https://tv.iill.top/Migu/sLPrmu
+「全国女子篮球锦标赛」10:00 东莞新彤盛vs河南豫光金铅,https://tv.iill.top/Migu/1FiZa1
+「别克LPGA锦标赛」11:00 别克LPGA高尔夫锦标赛第二轮,https://tv.iill.top/Migu/g96Lvv
+「超三联赛」14:00 贵阳卫星赛 淘汰赛,https://tv.iill.top/Migu/doylEl
+「斯诺克」14:00 2025西安大奖赛16进8：囧哥大战墨菲 贺国强出战,https://tv.iill.top/Migu/R7WUdI
+「ATP」14:00 济南国际网球公开赛Day6：男单四分之一决赛/男双半决赛,https://tv.iill.top/Migu/w2Efjw
+「全国女子篮球锦标赛」14:30 石家庄英励vs陕西天泽,https://tv.iill.top/Migu/j018mv
+「全国女子篮球锦标赛」17:00 新疆天山vs赣州赣星,https://tv.iill.top/Migu/BiUXQy
+「乒乓球经典赛事」18:00 【赛事放映厅】重温2025WTT中国大满贯王楚钦男单夺冠 攻无不克！王楚钦主场霸气夺冠,https://tv.iill.top/Migu/cN7E7E
+「CBA」19:00 超三联赛 贵阳卫星赛 半决赛及决赛,https://tv.iill.top/Migu/SuwcOH
+「武汉城市足球超级联赛」19:00 汉超第7轮 汉阳区vs东湖风景区,https://tv.iill.top/Migu/808Xhy
+「斯诺克」19:20 2025西安大奖赛16进8：丁俊晖、奥沙利文冲击八强,https://tv.iill.top/Migu/ATaWTi
+「浙江省城市篮球联赛」19:30 宁波VS绍兴,https://tv.iill.top/Migu/UXufyz
+「全国女子篮球锦标赛」19:30 厦门白鹭vs合肥文旅,https://tv.iill.top/Migu/xrUvXb
+「湖南省足球联赛」19:35 长沙vs衡阳,https://tv.iill.top/Migu/zVLm0I
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
