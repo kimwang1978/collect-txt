@@ -3905,28 +3905,28 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
-CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
-CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2
-CCTV 3 综艺「回看」,https://tv.iill.top/migu/cctv3
-CCTV 4 中文国际「回看」,https://tv.iill.top/migu/cctv4
-CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu/cctv4m
-CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu/cctv4o
-CCTV 5 体育「回看」,https://tv.iill.top/migu/cctv5
-CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu/cctv5+
-CCTV 6 电影「回看」,https://tv.iill.top/migu/cctv6
-CCTV 7 国防军事「回看」,https://tv.iill.top/migu/cctv7
-CCTV 8 电视剧「回看」,https://tv.iill.top/migu/cctv8
-CCTV 9 纪录「回看」,https://tv.iill.top/migu/cctv9
-CCTV 10 科教「回看」,https://tv.iill.top/migu/cctv10
-CCTV 11 戏曲「回看」,https://tv.iill.top/migu/cctv11
-CCTV 12 社会与法「回看」,https://tv.iill.top/migu/cctv12
-CCTV 13 新闻「回看」,https://tv.iill.top/migu/cctv13
-CCTV 14 少儿「回看」,https://tv.iill.top/migu/cctv14
-CCTV 15 音乐「回看」,https://tv.iill.top/migu/cctv15
-CCTV 17 农村农业「回看」,https://tv.iill.top/migu/cctv17
-CETV 1 中国教育「回看」,https://tv.iill.top/migu/cetv1
-CETV 2 中国教育「回看」,https://tv.iill.top/migu/cetv2
-CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
+CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
+CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
+CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
+CCTV 4 中文国际「回看」,https://tv.iill.top/migu-1/cctv4
+CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu-1/cctv4m
+CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu-1/cctv4o
+CCTV 5 体育「回看」,https://tv.iill.top/migu-1/cctv5
+CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu-1/cctv5+
+CCTV 6 电影「回看」,https://tv.iill.top/migu-1/cctv6
+CCTV 7 国防军事「回看」,https://tv.iill.top/migu-1/cctv7
+CCTV 8 电视剧「回看」,https://tv.iill.top/migu-1/cctv8
+CCTV 9 纪录「回看」,https://tv.iill.top/migu-1/cctv9
+CCTV 10 科教「回看」,https://tv.iill.top/migu-1/cctv10
+CCTV 11 戏曲「回看」,https://tv.iill.top/migu-1/cctv11
+CCTV 12 社会与法「回看」,https://tv.iill.top/migu-1/cctv12
+CCTV 13 新闻「回看」,https://tv.iill.top/migu-1/cctv13
+CCTV 14 少儿「回看」,https://tv.iill.top/migu-1/cctv14
+CCTV 15 音乐「回看」,https://tv.iill.top/migu-1/cctv15
+CCTV 17 农村农业「回看」,https://tv.iill.top/migu-1/cctv17
+CETV 1 中国教育「回看」,https://tv.iill.top/migu-1/cetv1
+CETV 2 中国教育「回看」,https://tv.iill.top/migu-1/cetv2
+CETV 4 中国教育「回看」,https://tv.iill.top/migu-1/cetv4
 CGTN「回看」,https://tv.iill.top/CGTN/cgtn
 CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
 CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
@@ -3935,37 +3935,76 @@ CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
 CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 浙江卫视,https://tv.iill.top/migu/zjws
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
-东方卫视「回看」,https://tv.iill.top/migu/dfws
-江苏卫视「回看」,https://tv.iill.top/migu/jsws
-广东卫视「回看」,https://tv.iill.top/migu/gdws
-江西卫视「回看」,https://tv.iill.top/migu/jxws
-陕西卫视「回看」,https://tv.iill.top/migu/sxws
-湖北卫视「回看」,https://tv.iill.top/migu/hubws
-东南卫视「回看」,https://tv.iill.top/migu/dnws
-海峡卫视「回看」,https://tv.iill.top/migu/hxws
+东方卫视「回看」,https://tv.iill.top/migu-1/dfws
+江苏卫视「回看」,https://tv.iill.top/migu-1/jsws
+广东卫视「回看」,https://tv.iill.top/migu-1/gdws
+江西卫视「回看」,https://tv.iill.top/migu-1/jxws
+陕西卫视「回看」,https://tv.iill.top/migu-1/sxws
+湖北卫视「回看」,https://tv.iill.top/migu-1/hubws
+东南卫视「回看」,https://tv.iill.top/migu-1/dnws
+海峡卫视「回看」,https://tv.iill.top/migu-1/hxws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
-四海钓鱼「回看」,https://tv.iill.top/migu/shdy
-上海新闻综合「回看」,https://tv.iill.top/migu/shxw
-上视东方影视「回看」,https://tv.iill.top/migu/shys
-CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
-新片放映「回看」,https://tv.iill.top/migu/xpfy
-高清大片「回看」,https://tv.iill.top/migu/gqdp
-高能悬疑「回看」,https://tv.iill.top/migu/gnxy
-经典香港电影「回看」,https://tv.iill.top/migu/hkdy
-抗战经典影片「回看」,https://tv.iill.top/migu/kzjd
-血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu/xssh
-咪咕24小时体育「回看」,https://tv.iill.top/migu/mgty
-五环传奇「回看」,https://tv.iill.top/migu/whcq
-赛事最经典「回看」,https://tv.iill.top/migu/sszjd
-掼蛋精英赛「回看」,https://tv.iill.top/migu/gdjs
-体坛名栏汇「回看」,https://tv.iill.top/migu/ttmh
-和美乡途轮播「回看」,https://tv.iill.top/migu/hmxt
-最强综艺趴「回看」,https://tv.iill.top/migu/zqzyp
-嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
-新动力量创一流「回看」,https://tv.iill.top/migu/xdll
-钱塘江「回看」,https://tv.iill.top/migu/qtj
+四海钓鱼「回看」,https://tv.iill.top/migu-1/shdy
+上海新闻综合「回看」,https://tv.iill.top/migu-1/shxw
+上视东方影视「回看」,https://tv.iill.top/migu-1/shys
+CHC 影迷电影「回看」,https://tv.iill.top/migu-1/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu-1/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
+新片放映「回看」,https://tv.iill.top/migu-1/xpfy
+高清大片「回看」,https://tv.iill.top/migu-1/gqdp
+高能悬疑「回看」,https://tv.iill.top/migu-1/gnxy
+经典香港电影「回看」,https://tv.iill.top/migu-1/hkdy
+抗战经典影片「回看」,https://tv.iill.top/migu-1/kzjd
+血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu-1/xssh
+咪咕24小时体育「回看」,https://tv.iill.top/migu-1/mgty
+五环传奇「回看」,https://tv.iill.top/migu-1/whcq
+赛事最经典「回看」,https://tv.iill.top/migu-1/sszjd
+掼蛋精英赛「回看」,https://tv.iill.top/migu-1/gdjs
+体坛名栏汇「回看」,https://tv.iill.top/migu-1/ttmh
+和美乡途轮播「回看」,https://tv.iill.top/migu-1/hmxt
+最强综艺趴「回看」,https://tv.iill.top/migu-1/zqzyp
+嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
+新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
+钱塘江「回看」,https://tv.iill.top/migu-1/qtj
+「NBA」03:00 季前赛 猛龙VS奇才 [陈鑫隆],https://tv.iill.top/NBA/7AGAcL
+「NBA」03:00 季前赛 猛龙VS奇才 [英文原声],https://tv.iill.top/NBA/rdYaJ1
+「NBA」06:00 季前赛 热火VS魔术 [刘沛元],https://tv.iill.top/NBA/775Uo9
+「NBA」06:00 季前赛 热火VS魔术 [英文原声],https://tv.iill.top/NBA/Z8gWXZ
+「NBA」07:00 季前赛 雄鹿VS公牛 [刘圳展],https://tv.iill.top/NBA/85gUHG
+「NBA」07:00 季前赛 雄鹿VS公牛 [英文原声],https://tv.iill.top/NBA/mOSGB4
+「NBA」07:00 季前赛 骑士VS凯尔特人 [季孟年],https://tv.iill.top/NBA/gAh5a1
+「NBA」07:00 季前赛 骑士VS凯尔特人 [英文原声],https://tv.iill.top/NBA/W8ccC8
+「NBA」09:30 季前赛 掘金VS快船 [周赫],https://tv.iill.top/NBA/J1wgdu
+「NBA」09:30 季前赛 掘金VS快船 [英文原声],https://tv.iill.top/NBA/82Rqld
+「NBA」09:30 季前赛 勇士VS湖人 [庄宁宇 陈正昊 魏欣怡],https://tv.iill.top/NBA/lgfpYG
+「NBA」09:30 季前赛 勇士VS湖人 [英文原声],https://tv.iill.top/NBA/LrbeR3
+「湖南省足球联赛」03:00 NBA季前赛 猛龙VS奇才 [别觉得你稳了！猛龙边线发球萨尔空接绝杀奇才],https://tv.iill.top/Migu/0JnMVi
+「全国女子篮球锦标赛」10:00 石家庄英励vs新疆天山,https://tv.iill.top/Migu/lCfy3n
+「全国女子篮球锦标赛」10:00 辽宁vs上海浦发银行,https://tv.iill.top/Migu/F4mBVQ
+「独牙传奇中式九球大师赛」11:00 败部第二轮 第一场,https://tv.iill.top/Migu/Mkcqv6
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [周泽昊 小马哥],https://tv.iill.top/Migu/ZF57ym
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [周冠达 侯英超],https://tv.iill.top/Migu/a1QlMW
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [石楚阳],https://tv.iill.top/Migu/Gr4HS3
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [1号桌],https://tv.iill.top/Migu/Jvryfl
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [2号桌],https://tv.iill.top/Migu/KoPOEC
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [3号桌],https://tv.iill.top/Migu/b0IwiG
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [4号桌],https://tv.iill.top/Migu/oo1ach
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [5号桌],https://tv.iill.top/Migu/zSeeBz
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [6号桌],https://tv.iill.top/Migu/2BaROi
+「乒乓球亚锦赛」12:30 ：男女团排位赛、1/4决赛 王楚钦、孙颖莎领衔国乒男女团出战 [周泽昊 小马哥],https://tv.iill.top/Migu/yAtOSt
+「WTA」13:00 济南国际网球公开赛Day9：女单资格赛第二轮/女单女双第一轮,https://tv.iill.top/Migu/RmJwp0
+「WTA」13:00 宁波网球公开赛女子单双打第一轮：张帅女双登场 王曦雨迎战施耐德,https://tv.iill.top/Migu/T0em8m
+「斯诺克」14:00 2025西安大奖赛决赛第一阶段：马克·威廉姆斯 vs 肖恩·墨菲,https://tv.iill.top/Migu/VHwzMC
+「独牙传奇中式九球大师赛」14:00 败部第二轮 第二场,https://tv.iill.top/Migu/yXogTe
+「全国女子篮球锦标赛」14:30 东莞新彤盛vs厦门白鹭,https://tv.iill.top/Migu/H9ptUH
+「全国女子篮球锦标赛」14:30 武汉盛帆黄鹤vs山西竹叶青酒,https://tv.iill.top/Migu/SQ84ey
+「全国女子篮球锦标赛」17:00 河南豫光金铅vs黑龙江上东,https://tv.iill.top/Migu/VpUmOn
+「全国女子篮球锦标赛」17:00 四川远达美乐vs浙江稠州银行,https://tv.iill.top/Migu/YjhtdW
+「独牙传奇中式九球大师赛」17:00 胜部第二轮 第一场,https://tv.iill.top/Migu/jciUNF
+「斯诺克」19:20 2025西安大奖赛决赛第二阶段：马克·威廉姆斯 vs 肖恩·墨菲,https://tv.iill.top/Migu/17etGM
+「全国女子篮球锦标赛」19:30 陕西天泽vs北京首钢,https://tv.iill.top/Migu/Zh2u0c
+「全国女子篮球锦标赛」19:30 山东赤水河酒vs江苏南钢,https://tv.iill.top/Migu/U08SEu
+「独牙传奇中式九球大师赛」20:00 胜部第二轮 第二场,https://tv.iill.top/Migu/B6MvTk
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
