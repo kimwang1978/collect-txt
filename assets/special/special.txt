@@ -3989,9 +3989,6 @@ Now新聞台,https://yang-1989.eu.org/live/now-332
 Now財經台,https://yang-1989.eu.org/live/now-333
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
-美亞電影台,https://yang-1989.eu.org/live/Mei-Ah-Movie-Channel
-Love Nature,https://yang-1989.eu.org/live/Love-Nature
-tvN,https://yang-1989.eu.org/live/tvN
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
