@@ -3905,28 +3905,28 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
-CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
-CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2
-CCTV 3 综艺「回看」,https://tv.iill.top/migu/cctv3
-CCTV 4 中文国际「回看」,https://tv.iill.top/migu/cctv4
-CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu/cctv4m
-CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu/cctv4o
-CCTV 5 体育「回看」,https://tv.iill.top/migu/cctv5
-CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu/cctv5+
-CCTV 6 电影「回看」,https://tv.iill.top/migu/cctv6
-CCTV 7 国防军事「回看」,https://tv.iill.top/migu/cctv7
-CCTV 8 电视剧「回看」,https://tv.iill.top/migu/cctv8
-CCTV 9 纪录「回看」,https://tv.iill.top/migu/cctv9
-CCTV 10 科教「回看」,https://tv.iill.top/migu/cctv10
-CCTV 11 戏曲「回看」,https://tv.iill.top/migu/cctv11
-CCTV 12 社会与法「回看」,https://tv.iill.top/migu/cctv12
-CCTV 13 新闻「回看」,https://tv.iill.top/migu/cctv13
-CCTV 14 少儿「回看」,https://tv.iill.top/migu/cctv14
-CCTV 15 音乐「回看」,https://tv.iill.top/migu/cctv15
-CCTV 17 农村农业「回看」,https://tv.iill.top/migu/cctv17
-CETV 1 中国教育「回看」,https://tv.iill.top/migu/cetv1
-CETV 2 中国教育「回看」,https://tv.iill.top/migu/cetv2
-CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
+CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
+CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
+CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
+CCTV 4 中文国际「回看」,https://tv.iill.top/migu-1/cctv4
+CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu-1/cctv4m
+CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu-1/cctv4o
+CCTV 5 体育「回看」,https://tv.iill.top/migu-1/cctv5
+CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu-1/cctv5+
+CCTV 6 电影「回看」,https://tv.iill.top/migu-1/cctv6
+CCTV 7 国防军事「回看」,https://tv.iill.top/migu-1/cctv7
+CCTV 8 电视剧「回看」,https://tv.iill.top/migu-1/cctv8
+CCTV 9 纪录「回看」,https://tv.iill.top/migu-1/cctv9
+CCTV 10 科教「回看」,https://tv.iill.top/migu-1/cctv10
+CCTV 11 戏曲「回看」,https://tv.iill.top/migu-1/cctv11
+CCTV 12 社会与法「回看」,https://tv.iill.top/migu-1/cctv12
+CCTV 13 新闻「回看」,https://tv.iill.top/migu-1/cctv13
+CCTV 14 少儿「回看」,https://tv.iill.top/migu-1/cctv14
+CCTV 15 音乐「回看」,https://tv.iill.top/migu-1/cctv15
+CCTV 17 农村农业「回看」,https://tv.iill.top/migu-1/cctv17
+CETV 1 中国教育「回看」,https://tv.iill.top/migu-1/cetv1
+CETV 2 中国教育「回看」,https://tv.iill.top/migu-1/cetv2
+CETV 4 中国教育「回看」,https://tv.iill.top/migu-1/cetv4
 CGTN「回看」,https://tv.iill.top/CGTN/cgtn
 CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
 CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
@@ -3935,37 +3935,115 @@ CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
 CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 浙江卫视,https://tv.iill.top/migu/zjws
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
-东方卫视「回看」,https://tv.iill.top/migu/dfws
-江苏卫视「回看」,https://tv.iill.top/migu/jsws
-广东卫视「回看」,https://tv.iill.top/migu/gdws
-江西卫视「回看」,https://tv.iill.top/migu/jxws
-陕西卫视「回看」,https://tv.iill.top/migu/sxws
-湖北卫视「回看」,https://tv.iill.top/migu/hubws
-东南卫视「回看」,https://tv.iill.top/migu/dnws
-海峡卫视「回看」,https://tv.iill.top/migu/hxws
+东方卫视「回看」,https://tv.iill.top/migu-1/dfws
+江苏卫视「回看」,https://tv.iill.top/migu-1/jsws
+广东卫视「回看」,https://tv.iill.top/migu-1/gdws
+江西卫视「回看」,https://tv.iill.top/migu-1/jxws
+陕西卫视「回看」,https://tv.iill.top/migu-1/sxws
+湖北卫视「回看」,https://tv.iill.top/migu-1/hubws
+东南卫视「回看」,https://tv.iill.top/migu-1/dnws
+海峡卫视「回看」,https://tv.iill.top/migu-1/hxws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
-四海钓鱼「回看」,https://tv.iill.top/migu/shdy
-上海新闻综合「回看」,https://tv.iill.top/migu/shxw
-上视东方影视「回看」,https://tv.iill.top/migu/shys
-CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
-新片放映「回看」,https://tv.iill.top/migu/xpfy
-高清大片「回看」,https://tv.iill.top/migu/gqdp
-高能悬疑「回看」,https://tv.iill.top/migu/gnxy
-经典香港电影「回看」,https://tv.iill.top/migu/hkdy
-抗战经典影片「回看」,https://tv.iill.top/migu/kzjd
-血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu/xssh
-咪咕24小时体育「回看」,https://tv.iill.top/migu/mgty
-五环传奇「回看」,https://tv.iill.top/migu/whcq
-赛事最经典「回看」,https://tv.iill.top/migu/sszjd
-掼蛋精英赛「回看」,https://tv.iill.top/migu/gdjs
-体坛名栏汇「回看」,https://tv.iill.top/migu/ttmh
-和美乡途轮播「回看」,https://tv.iill.top/migu/hmxt
-最强综艺趴「回看」,https://tv.iill.top/migu/zqzyp
-嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
-新动力量创一流「回看」,https://tv.iill.top/migu/xdll
-钱塘江「回看」,https://tv.iill.top/migu/qtj
+四海钓鱼「回看」,https://tv.iill.top/migu-1/shdy
+上海新闻综合「回看」,https://tv.iill.top/migu-1/shxw
+上视东方影视「回看」,https://tv.iill.top/migu-1/shys
+CHC 影迷电影「回看」,https://tv.iill.top/migu-1/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu-1/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
+新片放映「回看」,https://tv.iill.top/migu-1/xpfy
+高清大片「回看」,https://tv.iill.top/migu-1/gqdp
+高能悬疑「回看」,https://tv.iill.top/migu-1/gnxy
+经典香港电影「回看」,https://tv.iill.top/migu-1/hkdy
+抗战经典影片「回看」,https://tv.iill.top/migu-1/kzjd
+血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu-1/xssh
+咪咕24小时体育「回看」,https://tv.iill.top/migu-1/mgty
+五环传奇「回看」,https://tv.iill.top/migu-1/whcq
+赛事最经典「回看」,https://tv.iill.top/migu-1/sszjd
+掼蛋精英赛「回看」,https://tv.iill.top/migu-1/gdjs
+体坛名栏汇「回看」,https://tv.iill.top/migu-1/ttmh
+和美乡途轮播「回看」,https://tv.iill.top/migu-1/hmxt
+最强综艺趴「回看」,https://tv.iill.top/migu-1/zqzyp
+嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
+新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
+钱塘江「回看」,https://tv.iill.top/migu-1/qtj
+「亚冠精英」00:00 精英联赛阶段 迪拜国民 vs 纳萨夫 [刘焕],https://tv.iill.top/FB/oQL0aR
+「亚冠精英」00:00 精英联赛阶段 迪拜国民 vs 纳萨夫 [赛场原声],https://tv.iill.top/FB/GWh6wR
+「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 萨德 [刘畅],https://tv.iill.top/FB/BbQA7S
+「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 萨德 [赛场原声],https://tv.iill.top/FB/NZ1JLH
+「亚冠精英」18:00 精英联赛阶段 江原 vs 神户胜利船 [石庆圣],https://tv.iill.top/FB/F7yrFS
+「亚冠精英」18:00 精英联赛阶段 江原 vs 神户胜利船 [赛场原声],https://tv.iill.top/FB/rKNPgk
+「亚冠二级」18:00 二级小组赛 大阪钢巴 vs 南定 [刘洋],https://tv.iill.top/FB/AOhBPT
+「亚冠二级」18:00 二级小组赛 大阪钢巴 vs 南定 [赛场原声],https://tv.iill.top/FB/WzOpHm
+「亚冠精英」20:15 精英联赛阶段 上海申花 vs 首尔 [娄一晨 刘越 孙蕊],https://tv.iill.top/FB/R9BrQl
+「亚冠精英」20:15 精英联赛阶段 上海申花 vs 首尔 [赛场原声],https://tv.iill.top/FB/zXyN7z
+「亚冠二级」20:15 二级小组赛 拉查布里府 vs 香港东方 [盛斌],https://tv.iill.top/FB/Rrk9RC
+「亚冠二级」20:15 二级小组赛 拉查布里府 vs 香港东方 [赛场原声],https://tv.iill.top/FB/HzZEfV
+「亚冠二级」21:45 二级小组赛 Goa vs 利雅得胜利 [鲁靖明],https://tv.iill.top/FB/5D6rIq
+「亚冠二级」21:45 二级小组赛 Goa vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/t6fDlx
+「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 艾尔扎拉 [张天翼],https://tv.iill.top/FB/wfJevn
+「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 艾尔扎拉 [赛场原声],https://tv.iill.top/FB/VyjOHv
+「亚冠二级」21:45 二级小组赛 安迪扬 vs 哈列迪亞 [吴子越],https://tv.iill.top/FB/Wqrpj0
+「亚冠二级」21:45 二级小组赛 安迪扬 vs 哈列迪亞 [赛场原声],https://tv.iill.top/FB/pDagh2
+「NBA」07:30 常规赛 火箭VS雷霆 [连睿 周鹏 拜月宁],https://tv.iill.top/NBA/woEAy9
+「NBA」07:30 常规赛 火箭VS雷霆 [英文原声],https://tv.iill.top/NBA/g7Tnjz
+「NBA」10:00 常规赛 勇士VS湖人 [杨健 闫宇峰 马健],https://tv.iill.top/NBA/w8lLPr
+「NBA」10:00 常规赛 勇士VS湖人 [郑泽鹏],https://tv.iill.top/NBA/fexvKa
+「NBA」10:00 常规赛 勇士VS湖人 [拜月宁],https://tv.iill.top/NBA/7NZYup
+「NBA」10:00 常规赛 勇士VS湖人 [莫俊祺],https://tv.iill.top/NBA/iIZj0m
+「NBA」10:00 常规赛 勇士VS湖人 [洪荒],https://tv.iill.top/NBA/GzvAkA
+「NBA」10:00 常规赛 勇士VS湖人 [英文原声],https://tv.iill.top/NBA/ZA89dL
+「NBA」10:00 常规赛 勇士VS湖人 [小七 佳依],https://tv.iill.top/NBA/5JoT7K
+「WTT」00:00 伦敦球星挑战赛：男女单打资格赛第一、第二轮 林兆恒鏖战五局险胜 林依诺零封对手,https://tv.iill.top/Migu/NqL4bo
+「斯诺克」02:00 北爱尔兰公开赛32进16：庞俊旭迎战希金斯 龙泽煌2 4袁思俊,https://tv.iill.top/Migu/AEIwFg
+「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [赛场原声],https://tv.iill.top/Migu/TVMiZG
+「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [英文原声],https://tv.iill.top/Migu/J1OIKM
+「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [李宁],https://tv.iill.top/Migu/g7laL4
+「ATP」11:00 苏州站第四日：王傲然、特日格乐、崔杰出战,https://tv.iill.top/Migu/aQ06re
+「WTA」13:00 广州网球公开赛Day3：孙璐璐PK王雅繁 王曦雨接场,https://tv.iill.top/Migu/pw2J6C
+「全运会」14:00 男子水球 小组赛,https://tv.iill.top/Migu/G6PU1Q
+「斯诺克」17:00 北爱尔兰公开赛：32进16,https://tv.iill.top/Migu/IfcsSk
+「全运会」17:55 男子水球 小组赛B组第1场,https://tv.iill.top/Migu/fLVNos
+「WTT」18:00 伦敦球星挑战赛：男女单打资格赛第二、第三轮及双打资格赛第一轮 石洵瑶/张翔宇女双携手冲击正赛,https://tv.iill.top/Migu/77sswe
+「东亚超级联赛」18:05 琉球黄金帝王vs马尼拉电气 [王冠证],https://tv.iill.top/Migu/VwnLpk
+「东亚超级联赛」18:10 宇都宫王道vs首尔SK骑士,https://tv.iill.top/Migu/ZxP1iy
+「东亚超级联赛」19:10 新北国王vs东京电击,https://tv.iill.top/Migu/JPTAnm
+「浙江省城市篮球联赛」19:30 余姚VS杭州,https://tv.iill.top/Migu/MtQHi0
+「全运会」19:30 男子水球 小组赛B组第2场,https://tv.iill.top/Migu/74mA8P
+「亚冠精英」10/21 00:00 联赛阶段 巴格达警察 vs 吉达联合 [吴桐],https://tv.iill.top/HuiK/G6pgzP
+「亚冠精英」10/21 00:00 联赛阶段 巴格达警察 vs 吉达联合 [赛场原声],https://tv.iill.top/HuiK/IixIjz
+「亚冠精英」10/21 00:00 联赛阶段 沙迦 vs 大不里士拖拉机 [刘焕],https://tv.iill.top/HuiK/ry74nr
+「亚冠精英」10/21 00:00 联赛阶段 沙迦 vs 大不里士拖拉机 [赛场原声],https://tv.iill.top/HuiK/IL4f7L
+「斯诺克」10/21 02:00 2025北爱尔兰公开赛64进32：常冰玉3 4加里·威尔逊 艾伦晋级,https://tv.iill.top/HuiK/zYPDv5
+「亚冠精英」10/21 02:15 联赛阶段 吉达国民 vs 加拉法 [张昊泽],https://tv.iill.top/HuiK/QCvLpW
+「亚冠精英」10/21 02:15 联赛阶段 吉达国民 vs 加拉法 [赛场原声],https://tv.iill.top/HuiK/ehjGrk
+「意甲」10/21 02:45 联赛 克雷莫纳 vs 乌迪内斯 [刘焕],https://tv.iill.top/HuiK/a7Kse6
+「意甲」10/21 02:45 联赛 克雷莫纳 vs 乌迪内斯 [赛场原声],https://tv.iill.top/HuiK/MLmmYk
+「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [黄航],https://tv.iill.top/HuiK/d1pI30
+「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [赛场原声],https://tv.iill.top/HuiK/x29gaN
+「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [英文原声],https://tv.iill.top/HuiK/gVxpdD
+「西甲」10/21 03:00 联赛 阿拉维斯 vs 瓦伦西亚 [洪宇青],https://tv.iill.top/HuiK/GLhbKz
+「西甲」10/21 03:00 联赛 阿拉维斯 vs 瓦伦西亚 [赛场原声],https://tv.iill.top/HuiK/4kLfT7
+「WTA」10/21 09:30 东京站第二日：费尔南德斯、姆博科、肯宁晋级,https://tv.iill.top/HuiK/IkEFUk
+「ATP」10/21 10:00 苏州站第三日：周意、孙发京出局,https://tv.iill.top/HuiK/2jksq6
+「WTA」10/21 11:00 广州网球公开赛Day2： 张帅2 0晋级 郭涵煜出局,https://tv.iill.top/HuiK/AKoRXY
+「亚冠精英」10/21 15:45 联赛阶段 墨尔本城 vs 武里南联 [涂远],https://tv.iill.top/HuiK/PIBL3M
+「亚冠精英」10/21 15:45 联赛阶段 墨尔本城 vs 武里南联 [赛场原声],https://tv.iill.top/HuiK/rc9myv
+「亚冠精英」10/21 18:00 联赛阶段 成都蓉城 vs 柔佛新山 [袁甲 贺宇 林梦鸽],https://tv.iill.top/HuiK/vJwKVV
+「亚冠精英」10/21 18:00 联赛阶段 成都蓉城 vs 柔佛新山 [赛场原声],https://tv.iill.top/HuiK/EFJP0q
+「亚冠精英」10/21 18:00 联赛阶段 蔚山HD vs 广岛三箭 [张昊泽],https://tv.iill.top/HuiK/LoHxw7
+「亚冠精英」10/21 18:00 联赛阶段 蔚山HD vs 广岛三箭 [赛场原声],https://tv.iill.top/HuiK/htjQEo
+「NBA」10/21 19:00 周刊—赛季揭幕特别节目 [殳海 周鹏 管维佳],https://tv.iill.top/HuiK/pIRw65
+「浙江省城市篮球联赛」10/21 19:30 温州VS湖州,https://tv.iill.top/HuiK/WPgUSD
+「全运会」10/21 19:35 男足U18 1/4决赛,https://tv.iill.top/HuiK/En9t0k
+「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [1号桌],https://tv.iill.top/HuiK/HqKClh
+「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [2号桌],https://tv.iill.top/HuiK/xbotki
+「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [乔迁],https://tv.iill.top/HuiK/d62QPu
+「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [柏林],https://tv.iill.top/HuiK/YNlgUT
+「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [3号桌],https://tv.iill.top/HuiK/Z4AI6R
+「亚冠精英」10/21 20:15 联赛阶段 上海海港 vs 町田泽维亚 [石庆圣 李彦 姚安妮],https://tv.iill.top/HuiK/mJ5bN1
+「亚冠精英」10/21 20:15 联赛阶段 上海海港 vs 町田泽维亚 [赛场原声],https://tv.iill.top/HuiK/y79VFL
+「亚冠二级」10/21 21:45 小组赛 Ahal vs 伊斯法罕钢铁 [王子睿],https://tv.iill.top/HuiK/6zt3yJ
+「亚冠二级」10/21 21:45 小组赛 Ahal vs 伊斯法罕钢铁 [赛场原声],https://tv.iill.top/HuiK/GFCRQy
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
