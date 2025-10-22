@@ -3966,84 +3966,116 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「亚冠精英」00:00 精英联赛阶段 迪拜国民 vs 纳萨夫 [刘焕],https://tv.iill.top/FB/oQL0aR
-「亚冠精英」00:00 精英联赛阶段 迪拜国民 vs 纳萨夫 [赛场原声],https://tv.iill.top/FB/GWh6wR
-「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 萨德 [刘畅],https://tv.iill.top/FB/BbQA7S
-「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 萨德 [赛场原声],https://tv.iill.top/FB/NZ1JLH
-「亚冠精英」18:00 精英联赛阶段 江原 vs 神户胜利船 [石庆圣],https://tv.iill.top/FB/F7yrFS
-「亚冠精英」18:00 精英联赛阶段 江原 vs 神户胜利船 [赛场原声],https://tv.iill.top/FB/rKNPgk
-「亚冠二级」18:00 二级小组赛 大阪钢巴 vs 南定 [刘洋],https://tv.iill.top/FB/AOhBPT
-「亚冠二级」18:00 二级小组赛 大阪钢巴 vs 南定 [赛场原声],https://tv.iill.top/FB/WzOpHm
-「亚冠精英」20:15 精英联赛阶段 上海申花 vs 首尔 [娄一晨 刘越 孙蕊],https://tv.iill.top/FB/R9BrQl
-「亚冠精英」20:15 精英联赛阶段 上海申花 vs 首尔 [赛场原声],https://tv.iill.top/FB/zXyN7z
-「亚冠二级」20:15 二级小组赛 拉查布里府 vs 香港东方 [盛斌],https://tv.iill.top/FB/Rrk9RC
-「亚冠二级」20:15 二级小组赛 拉查布里府 vs 香港东方 [赛场原声],https://tv.iill.top/FB/HzZEfV
-「亚冠二级」21:45 二级小组赛 Goa vs 利雅得胜利 [鲁靖明],https://tv.iill.top/FB/5D6rIq
-「亚冠二级」21:45 二级小组赛 Goa vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/t6fDlx
-「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 艾尔扎拉 [张天翼],https://tv.iill.top/FB/wfJevn
-「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 艾尔扎拉 [赛场原声],https://tv.iill.top/FB/VyjOHv
-「亚冠二级」21:45 二级小组赛 安迪扬 vs 哈列迪亞 [吴子越],https://tv.iill.top/FB/Wqrpj0
-「亚冠二级」21:45 二级小组赛 安迪扬 vs 哈列迪亞 [赛场原声],https://tv.iill.top/FB/pDagh2
-「NBA」07:30 常规赛 火箭VS雷霆 [连睿 周鹏 拜月宁],https://tv.iill.top/NBA/woEAy9
-「NBA」07:30 常规赛 火箭VS雷霆 [英文原声],https://tv.iill.top/NBA/g7Tnjz
-「NBA」10:00 常规赛 勇士VS湖人 [杨健 闫宇峰 马健],https://tv.iill.top/NBA/w8lLPr
-「NBA」10:00 常规赛 勇士VS湖人 [郑泽鹏],https://tv.iill.top/NBA/fexvKa
-「NBA」10:00 常规赛 勇士VS湖人 [拜月宁],https://tv.iill.top/NBA/7NZYup
-「NBA」10:00 常规赛 勇士VS湖人 [莫俊祺],https://tv.iill.top/NBA/iIZj0m
-「NBA」10:00 常规赛 勇士VS湖人 [洪荒],https://tv.iill.top/NBA/GzvAkA
-「NBA」10:00 常规赛 勇士VS湖人 [英文原声],https://tv.iill.top/NBA/ZA89dL
-「NBA」10:00 常规赛 勇士VS湖人 [小七 佳依],https://tv.iill.top/NBA/5JoT7K
-「WTT」00:00 伦敦球星挑战赛：男女单打资格赛第一、第二轮 林兆恒鏖战五局险胜 林依诺零封对手,https://tv.iill.top/Migu/NqL4bo
-「斯诺克」02:00 北爱尔兰公开赛32进16：庞俊旭迎战希金斯 龙泽煌2 4袁思俊,https://tv.iill.top/Migu/AEIwFg
-「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [赛场原声],https://tv.iill.top/Migu/TVMiZG
-「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [英文原声],https://tv.iill.top/Migu/J1OIKM
-「WTA」09:30 东京站第三日：诺斯科娃、穆霍娃出战 [李宁],https://tv.iill.top/Migu/g7laL4
-「ATP」11:00 苏州站第四日：王傲然、特日格乐、崔杰出战,https://tv.iill.top/Migu/aQ06re
-「WTA」13:00 广州网球公开赛Day3：孙璐璐PK王雅繁 王曦雨接场,https://tv.iill.top/Migu/pw2J6C
-「全运会」14:00 男子水球 小组赛,https://tv.iill.top/Migu/G6PU1Q
-「斯诺克」17:00 北爱尔兰公开赛：32进16,https://tv.iill.top/Migu/IfcsSk
-「全运会」17:55 男子水球 小组赛B组第1场,https://tv.iill.top/Migu/fLVNos
-「WTT」18:00 伦敦球星挑战赛：男女单打资格赛第二、第三轮及双打资格赛第一轮 石洵瑶/张翔宇女双携手冲击正赛,https://tv.iill.top/Migu/77sswe
-「东亚超级联赛」18:05 琉球黄金帝王vs马尼拉电气 [王冠证],https://tv.iill.top/Migu/VwnLpk
-「东亚超级联赛」18:10 宇都宫王道vs首尔SK骑士,https://tv.iill.top/Migu/ZxP1iy
-「东亚超级联赛」19:10 新北国王vs东京电击,https://tv.iill.top/Migu/JPTAnm
-「浙江省城市篮球联赛」19:30 余姚VS杭州,https://tv.iill.top/Migu/MtQHi0
-「全运会」19:30 男子水球 小组赛B组第2场,https://tv.iill.top/Migu/74mA8P
-「亚冠精英」10/21 00:00 联赛阶段 巴格达警察 vs 吉达联合 [吴桐],https://tv.iill.top/HuiK/G6pgzP
-「亚冠精英」10/21 00:00 联赛阶段 巴格达警察 vs 吉达联合 [赛场原声],https://tv.iill.top/HuiK/IixIjz
-「亚冠精英」10/21 00:00 联赛阶段 沙迦 vs 大不里士拖拉机 [刘焕],https://tv.iill.top/HuiK/ry74nr
-「亚冠精英」10/21 00:00 联赛阶段 沙迦 vs 大不里士拖拉机 [赛场原声],https://tv.iill.top/HuiK/IL4f7L
-「斯诺克」10/21 02:00 2025北爱尔兰公开赛64进32：常冰玉3 4加里·威尔逊 艾伦晋级,https://tv.iill.top/HuiK/zYPDv5
-「亚冠精英」10/21 02:15 联赛阶段 吉达国民 vs 加拉法 [张昊泽],https://tv.iill.top/HuiK/QCvLpW
-「亚冠精英」10/21 02:15 联赛阶段 吉达国民 vs 加拉法 [赛场原声],https://tv.iill.top/HuiK/ehjGrk
-「意甲」10/21 02:45 联赛 克雷莫纳 vs 乌迪内斯 [刘焕],https://tv.iill.top/HuiK/a7Kse6
-「意甲」10/21 02:45 联赛 克雷莫纳 vs 乌迪内斯 [赛场原声],https://tv.iill.top/HuiK/MLmmYk
-「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [黄航],https://tv.iill.top/HuiK/d1pI30
-「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [赛场原声],https://tv.iill.top/HuiK/x29gaN
-「英超」10/21 03:00 联赛 西汉姆联 vs 布伦特福德 [英文原声],https://tv.iill.top/HuiK/gVxpdD
-「西甲」10/21 03:00 联赛 阿拉维斯 vs 瓦伦西亚 [洪宇青],https://tv.iill.top/HuiK/GLhbKz
-「西甲」10/21 03:00 联赛 阿拉维斯 vs 瓦伦西亚 [赛场原声],https://tv.iill.top/HuiK/4kLfT7
-「WTA」10/21 09:30 东京站第二日：费尔南德斯、姆博科、肯宁晋级,https://tv.iill.top/HuiK/IkEFUk
-「ATP」10/21 10:00 苏州站第三日：周意、孙发京出局,https://tv.iill.top/HuiK/2jksq6
-「WTA」10/21 11:00 广州网球公开赛Day2： 张帅2 0晋级 郭涵煜出局,https://tv.iill.top/HuiK/AKoRXY
-「亚冠精英」10/21 15:45 联赛阶段 墨尔本城 vs 武里南联 [涂远],https://tv.iill.top/HuiK/PIBL3M
-「亚冠精英」10/21 15:45 联赛阶段 墨尔本城 vs 武里南联 [赛场原声],https://tv.iill.top/HuiK/rc9myv
-「亚冠精英」10/21 18:00 联赛阶段 成都蓉城 vs 柔佛新山 [袁甲 贺宇 林梦鸽],https://tv.iill.top/HuiK/vJwKVV
-「亚冠精英」10/21 18:00 联赛阶段 成都蓉城 vs 柔佛新山 [赛场原声],https://tv.iill.top/HuiK/EFJP0q
-「亚冠精英」10/21 18:00 联赛阶段 蔚山HD vs 广岛三箭 [张昊泽],https://tv.iill.top/HuiK/LoHxw7
-「亚冠精英」10/21 18:00 联赛阶段 蔚山HD vs 广岛三箭 [赛场原声],https://tv.iill.top/HuiK/htjQEo
-「NBA」10/21 19:00 周刊—赛季揭幕特别节目 [殳海 周鹏 管维佳],https://tv.iill.top/HuiK/pIRw65
-「浙江省城市篮球联赛」10/21 19:30 温州VS湖州,https://tv.iill.top/HuiK/WPgUSD
-「全运会」10/21 19:35 男足U18 1/4决赛,https://tv.iill.top/HuiK/En9t0k
-「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [1号桌],https://tv.iill.top/HuiK/HqKClh
-「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [2号桌],https://tv.iill.top/HuiK/xbotki
-「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [乔迁],https://tv.iill.top/HuiK/d62QPu
-「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [柏林],https://tv.iill.top/HuiK/YNlgUT
-「斯诺克」10/21 20:00 2025北爱尔兰公开赛64进32：卡特4 3穆迪 斯佳辉囧哥晋级 [3号桌],https://tv.iill.top/HuiK/Z4AI6R
-「亚冠精英」10/21 20:15 联赛阶段 上海海港 vs 町田泽维亚 [石庆圣 李彦 姚安妮],https://tv.iill.top/HuiK/mJ5bN1
-「亚冠精英」10/21 20:15 联赛阶段 上海海港 vs 町田泽维亚 [赛场原声],https://tv.iill.top/HuiK/y79VFL
-「亚冠二级」10/21 21:45 小组赛 Ahal vs 伊斯法罕钢铁 [王子睿],https://tv.iill.top/HuiK/6zt3yJ
-「亚冠二级」10/21 21:45 小组赛 Ahal vs 伊斯法罕钢铁 [赛场原声],https://tv.iill.top/HuiK/GFCRQy
+「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 维达特 [乔迁],https://tv.iill.top/FB/xbv1CD
+「亚冠二级」00:00 二级小组赛 德黑兰独立 vs 维达特 [赛场原声],https://tv.iill.top/FB/xP8i55
+「亚冠二级」00:00 二级小组赛 艾尔艾利 vs 阿卡达格 [王子睿],https://tv.iill.top/FB/4uzO7e
+「亚冠二级」00:00 二级小组赛 艾尔艾利 vs 阿卡达格 [赛场原声],https://tv.iill.top/FB/E3l3VH
+「亚冠二级」02:15 二级小组赛 穆哈拉克 vs 阿尔瓦斯尔 [鹿中原],https://tv.iill.top/FB/zLJKNb
+「亚冠二级」02:15 二级小组赛 穆哈拉克 vs 阿尔瓦斯尔 [赛场原声],https://tv.iill.top/FB/DVNcU7
+「亚冠二级」18:00 二级小组赛 和富大埔 vs 北京国安 [孙雨轩 徐云龙 李子琪],https://tv.iill.top/FB/NtuWlC
+「亚冠二级」18:00 二级小组赛 和富大埔 vs 北京国安 [赛场原声],https://tv.iill.top/FB/c9V1Ts
+「亚冠二级」18:00 二级小组赛 卡雅 vs 曼谷玻璃 [盛斌],https://tv.iill.top/FB/MW9K40
+「亚冠二级」18:00 二级小组赛 卡雅 vs 曼谷玻璃 [赛场原声],https://tv.iill.top/FB/Jrm0ZT
+「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 浦项铁人 [鲁靖明],https://tv.iill.top/FB/3jMTjR
+「亚冠二级」18:00 二级小组赛 淡宾尼流浪 vs 浦项铁人 [赛场原声],https://tv.iill.top/FB/CjGo3b
+「亚冠二级」20:15 二级小组赛 佩西比萬隆 vs 雪兰莪 [吴子越],https://tv.iill.top/FB/hYOIER
+「亚冠二级」20:15 二级小组赛 佩西比萬隆 vs 雪兰莪 [赛场原声],https://tv.iill.top/FB/PQ12G8
+「亚冠二级」20:15 二级小组赛 曼谷联 vs 本国联队 [周楚雄],https://tv.iill.top/FB/v12ACk
+「亚冠二级」20:15 二级小组赛 曼谷联 vs 本国联队 [赛场原声],https://tv.iill.top/FB/ELOGGX
+「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 麦克阿瑟FC [乔迁],https://tv.iill.top/FB/COX6YG
+「亚冠二级」20:15 二级小组赛 Công An Hà Nội vs 麦克阿瑟FC [赛场原声],https://tv.iill.top/FB/aN6hQG
+「NBA」07:00 常规赛 篮网VS黄蜂 [刘圳展],https://tv.iill.top/NBA/DundLl
+「NBA」07:00 常规赛 篮网VS黄蜂 [英文原声],https://tv.iill.top/NBA/QhbE4C
+「NBA」07:00 常规赛 热火VS魔术 [连睿],https://tv.iill.top/NBA/RDFLMO
+「NBA」07:00 常规赛 热火VS魔术 [英文原声],https://tv.iill.top/NBA/WTjoFa
+「NBA」07:00 常规赛 骑士VS尼克斯 [盛哲],https://tv.iill.top/NBA/k1M5hy
+「NBA」07:00 常规赛 骑士VS尼克斯 [英文原声],https://tv.iill.top/NBA/8ieeog
+「NBA」07:30 常规赛 猛龙VS老鹰 [刘芳宇],https://tv.iill.top/NBA/HXBaUj
+「NBA」07:30 常规赛 猛龙VS老鹰 [英文原声],https://tv.iill.top/NBA/zLui3t
+「NBA」07:30 常规赛 76人VS凯尔特人 [殷文玉],https://tv.iill.top/NBA/MEe3lr
+「NBA」07:30 常规赛 76人VS凯尔特人 [英文原声],https://tv.iill.top/NBA/TmQOLC
+「NBA」08:00 常规赛 鹈鹕VS灰熊 [王冠证],https://tv.iill.top/NBA/ioyOOn
+「NBA」08:00 常规赛 鹈鹕VS灰熊 [英文原声],https://tv.iill.top/NBA/gjlX0J
+「NBA」08:00 常规赛 活塞VS公牛 [王凯],https://tv.iill.top/NBA/pSwo8e
+「NBA」08:00 常规赛 活塞VS公牛 [英文原声],https://tv.iill.top/NBA/kWxTvI
+「NBA」08:00 常规赛 奇才VS雄鹿 [贾磊],https://tv.iill.top/NBA/vbL8zo
+「NBA」08:00 常规赛 奇才VS雄鹿 [英文原声],https://tv.iill.top/NBA/EDSXRR
+「NBA」09:00 常规赛 快船VS爵士 [蔡凯臣 周赫],https://tv.iill.top/NBA/rPlgRD
+「NBA」09:00 常规赛 快船VS爵士 [大史],https://tv.iill.top/NBA/9SkKhw
+「NBA」09:00 常规赛 快船VS爵士 [英文原声],https://tv.iill.top/NBA/NvKfoZ
+「NBA」09:30 常规赛 马刺VS独行侠 [王晓晨 季孟年 秋童],https://tv.iill.top/NBA/Wn701H
+「NBA」09:30 常规赛 马刺VS独行侠 [英文原声],https://tv.iill.top/NBA/0UJi0l
+「NBA」10:00 常规赛 国王VS太阳 [徐秦威],https://tv.iill.top/NBA/4IGRE8
+「NBA」10:00 常规赛 国王VS太阳 [英文原声],https://tv.iill.top/NBA/5zVPvR
+「NBA」10:00 常规赛 森林狼VS开拓者 [庄宁宇 陈正昊 魏欣怡],https://tv.iill.top/NBA/OhIMah
+「NBA」10:00 常规赛 森林狼VS开拓者 [邢晨],https://tv.iill.top/NBA/QIMFyh
+「NBA」10:00 常规赛 森林狼VS开拓者 [莫俊祺],https://tv.iill.top/NBA/DmzXRl
+「NBA」10:00 常规赛 森林狼VS开拓者 [洪荒],https://tv.iill.top/NBA/co4YYR
+「NBA」10:00 常规赛 森林狼VS开拓者 [英文原声],https://tv.iill.top/NBA/LAL5kB
+「WTT」00:00 伦敦球星挑战赛：男女单打资格赛第二、第三轮及双打资格赛第一轮 张翔宇横扫对手晋级正赛,https://tv.iill.top/Migu/JaMdht
+「斯诺克」02:00 北爱尔兰公开赛32进16：周跃龙4 2大卫·格雷斯,https://tv.iill.top/Migu/8Y2Hdz
+「WTA」09:30 东京站第四日：莱巴金娜、 亚历山德洛娃领衔出战,https://tv.iill.top/Migu/a2HWzJ
+「WTA」13:00 广州网球公开赛Day4：王雅繁、王曦雨、张帅领衔出战,https://tv.iill.top/Migu/I9KhAv
+「全运会」14:00 男子水球 小组赛A组第3场,https://tv.iill.top/Migu/WiDzXP
+「全运会」15:30 男子水球 小组赛A组第4场,https://tv.iill.top/Migu/oHJZWx
+「全运会」17:55 男子水球 小组赛B组第3场,https://tv.iill.top/Migu/EtLwQs
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [解说],https://tv.iill.top/Migu/UBhtZG
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [1号桌],https://tv.iill.top/Migu/zsjFpY
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [2号桌],https://tv.iill.top/Migu/QiePZb
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [3号桌],https://tv.iill.top/Migu/m4hQ4R
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [4号桌],https://tv.iill.top/Migu/JeRzp7
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [英文解说],https://tv.iill.top/Migu/89gzNn
+「WTT」18:00 伦敦球星挑战赛：男女单打1/32决赛、双打1/8决赛 石洵瑶/张翔宇冲击混双八强 [朱子恒],https://tv.iill.top/Migu/3mWZMI
+「浙江省城市篮球联赛」19:30 台州VS金华,https://tv.iill.top/Migu/HKndNM
+「全运会」19:30 男子水球 小组赛B组第4场,https://tv.iill.top/Migu/AeZAa4
+「全运会」19:35 男足U18 半决赛,https://tv.iill.top/Migu/bp7v6a
+「斯诺克」20:00 北爱尔兰公开赛：16进8 [1号桌],https://tv.iill.top/Migu/8fSlzV
+「斯诺克」20:00 北爱尔兰公开赛：16进8 [2号桌],https://tv.iill.top/Migu/d6FE8O
+「斯诺克」20:00 北爱尔兰公开赛：16进8 [柏林],https://tv.iill.top/Migu/OakpyQ
+「亚冠精英」10/22 00:00 联赛阶段 迪拜国民 vs 纳萨夫 [刘焕],https://tv.iill.top/HuiK/i2wlmp
+「亚冠精英」10/22 00:00 联赛阶段 迪拜国民 vs 纳萨夫 [赛场原声],https://tv.iill.top/HuiK/6lmYqM
+「WTT」10/22 00:00 伦敦球星挑战赛：男女单打资格赛第一、第二轮 林兆恒鏖战五局险胜 林依诺零封对手,https://tv.iill.top/HuiK/uOSp5K
+「斯诺克」10/22 02:00 北爱尔兰公开赛32进16：庞俊旭3 4希金斯 龙泽煌2 4袁思俊,https://tv.iill.top/HuiK/tq0yrC
+「亚冠精英」10/22 02:15 联赛阶段 利雅得新月 vs 萨德 [刘畅],https://tv.iill.top/HuiK/q7hJWI
+「亚冠精英」10/22 02:15 联赛阶段 利雅得新月 vs 萨德 [赛场原声],https://tv.iill.top/HuiK/zwDmVP
+「NBA」10/22 07:30 常规赛 火箭VS雷霆 [连睿 周鹏],https://tv.iill.top/HuiK/BENtQC
+「NBA」10/22 07:30 常规赛 火箭VS雷霆 [英文原声],https://tv.iill.top/HuiK/Ice9MO
+「WTA」10/22 09:30 东京站第三日：穆霍娃、卡林斯卡娅、姆博科、诺斯科娃均顺利晋级 穆霍娃、卡林斯卡娅顺利晋级 [赛场原声],https://tv.iill.top/HuiK/XG4XGZ
+「WTA」10/22 09:30 东京站第三日：穆霍娃、卡林斯卡娅、姆博科、诺斯科娃均顺利晋级 穆霍娃、卡林斯卡娅顺利晋级 [英文原声],https://tv.iill.top/HuiK/ZY6M0b
+「WTA」10/22 09:30 东京站第三日：穆霍娃、卡林斯卡娅、姆博科、诺斯科娃均顺利晋级 穆霍娃、卡林斯卡娅顺利晋级 [李宁],https://tv.iill.top/HuiK/YObhW7
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [杨健 闫宇峰 马健],https://tv.iill.top/HuiK/8vQazL
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [小七 佳依],https://tv.iill.top/HuiK/GxphkL
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [郑泽鹏],https://tv.iill.top/HuiK/AQJqXn
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [拜月宁],https://tv.iill.top/HuiK/frDS5z
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [莫俊祺],https://tv.iill.top/HuiK/xDff6P
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [洪荒],https://tv.iill.top/HuiK/drstlG
+「NBA」10/22 10:00 常规赛 勇士VS湖人 [英文原声],https://tv.iill.top/HuiK/SXnhCU
+「ATP」10/22 11:00 苏州站第四日：王傲然/矶村志男双出局,https://tv.iill.top/HuiK/i0HgV8
+「WTA」10/22 13:00 广州网球公开赛Day3：今日所有比赛因雨取消,https://tv.iill.top/HuiK/3anAoF
+「全运会」10/22 14:00 男子水球 小组赛,https://tv.iill.top/HuiK/ZxrCOv
+「全运会」10/22 15:30 男子水球 小组赛A组第2场,https://tv.iill.top/HuiK/VtkKUb
+「全运会」10/22 17:55 男子水球 小组赛B组第1场,https://tv.iill.top/HuiK/0cgqq0
+「亚冠精英」10/22 18:00 联赛阶段 江原 vs 神户胜利船 [石庆圣],https://tv.iill.top/HuiK/iPpkCT
+「亚冠精英」10/22 18:00 联赛阶段 江原 vs 神户胜利船 [赛场原声],https://tv.iill.top/HuiK/IK8RQJ
+「亚冠二级」10/22 18:00 小组赛 大阪钢巴 vs 南定 [刘洋],https://tv.iill.top/HuiK/1uy4P7
+「亚冠二级」10/22 18:00 小组赛 大阪钢巴 vs 南定 [赛场原声],https://tv.iill.top/HuiK/XmzAsz
+「东亚超级联赛」10/22 19:30 余姚52 67杭州,https://tv.iill.top/HuiK/iH5HLe
+「全运会」10/22 19:30 男子水球 小组赛B组第2场,https://tv.iill.top/HuiK/P3cP0b
+「世界体操锦标赛」10/22 19:30 男子个人全能决赛：张博恒个人全能银牌 侍聪位列第四,https://tv.iill.top/HuiK/tjLcwk
+「斯诺克」10/22 20:00 北爱尔兰公开赛32进16：斯佳辉4 0马奎尔 贺国强4 2吴宜泽 [1号桌],https://tv.iill.top/HuiK/iqJLJD
+「斯诺克」10/22 20:00 北爱尔兰公开赛32进16：斯佳辉4 0马奎尔 贺国强4 2吴宜泽 [朱峰立],https://tv.iill.top/HuiK/Xlm9Wi
+「斯诺克」10/22 20:00 北爱尔兰公开赛32进16：斯佳辉4 0马奎尔 贺国强4 2吴宜泽 [2号桌],https://tv.iill.top/HuiK/IImapL
+「斯诺克」10/22 20:00 北爱尔兰公开赛32进16：斯佳辉4 0马奎尔 贺国强4 2吴宜泽 [3号桌],https://tv.iill.top/HuiK/6uAlUT
+「亚冠精英」10/22 20:15 联赛阶段 上海申花 vs 首尔 [娄一晨 刘越 孙蕊],https://tv.iill.top/HuiK/XZfnie
+「亚冠精英」10/22 20:15 联赛阶段 上海申花 vs 首尔 [赛场原声],https://tv.iill.top/HuiK/L1lonL
+「亚冠二级」10/22 20:15 小组赛 拉查布里府 vs 香港东方 [盛斌],https://tv.iill.top/HuiK/vRy1Jk
+「亚冠二级」10/22 20:15 小组赛 拉查布里府 vs 香港东方 [赛场原声],https://tv.iill.top/HuiK/f56MeU
+「亚冠二级」10/22 21:45 小组赛 Goa vs 利雅得胜利 [鲁靖明],https://tv.iill.top/HuiK/XFn5dK
+「亚冠二级」10/22 21:45 小组赛 Goa vs 利雅得胜利 [赛场原声],https://tv.iill.top/HuiK/kVkX0P
+「亚冠二级」10/22 21:45 小组赛 伊提洛尔 vs 艾尔扎拉 [张天翼],https://tv.iill.top/HuiK/cqtPXK
+「亚冠二级」10/22 21:45 小组赛 伊提洛尔 vs 艾尔扎拉 [赛场原声],https://tv.iill.top/HuiK/5BJ31Z
+「亚冠二级」10/22 21:45 小组赛 安迪扬 vs 哈列迪亞 [吴子越],https://tv.iill.top/HuiK/Kq1xnv
+「亚冠二级」10/22 21:45 小组赛 安迪扬 vs 哈列迪亞 [赛场原声],https://tv.iill.top/HuiK/pbNKL6
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
