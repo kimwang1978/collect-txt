@@ -4453,14 +4453,22 @@ iQIYI,http://php.jdshipin.com/smt.php?id=Qiyi
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/chu
+五星体育,https://cdn3.163189.xyz/163189/wxty
+第一财经,https://cdn3.163189.xyz/163189/dycj
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://i.iill.top:12838/gztv/zhonghe
 广州新闻,http://i.iill.top:12838/gztv/xinwen
 广州法治,http://i.iill.top:12838/gztv/fazhi
 广州南国都市,http://i.iill.top:12838/gztv/shenghuo
-五星体育,https://cdn3.163189.xyz/163189/wxty
-第一财经,https://cdn3.163189.xyz/163189/dycj
+东方卫视,http://i.iill.top:12838/sh/dfws
+五星体育,http://i.iill.top:12838/sh/wxty
+第一财经,http://i.iill.top:12838/sh/dycj
+上海新闻综合,http://i.iill.top:12838/sh/xwzh
+上海都市频道,http://i.iill.top:12838/sh/dspd
+新纪实,http://i.iill.top:12838/sh/xjs
+魔都眼,http://i.iill.top:12838/sh/mdy
+爱上海,http://i.iill.top:12838/sh/ash
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
