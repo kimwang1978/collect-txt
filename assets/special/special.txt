@@ -3905,28 +3905,28 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「刪除 •央卫「海外」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
-CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
-CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2
-CCTV 3 综艺「回看」,https://tv.iill.top/migu/cctv3
-CCTV 4 中文国际「回看」,https://tv.iill.top/migu/cctv4
-CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu/cctv4m
-CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu/cctv4o
-CCTV 5 体育「回看」,https://tv.iill.top/migu/cctv5
-CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu/cctv5+
-CCTV 6 电影「回看」,https://tv.iill.top/migu/cctv6
-CCTV 7 国防军事「回看」,https://tv.iill.top/migu/cctv7
-CCTV 8 电视剧「回看」,https://tv.iill.top/migu/cctv8
-CCTV 9 纪录「回看」,https://tv.iill.top/migu/cctv9
-CCTV 10 科教「回看」,https://tv.iill.top/migu/cctv10
-CCTV 11 戏曲「回看」,https://tv.iill.top/migu/cctv11
-CCTV 12 社会与法「回看」,https://tv.iill.top/migu/cctv12
-CCTV 13 新闻「回看」,https://tv.iill.top/migu/cctv13
-CCTV 14 少儿「回看」,https://tv.iill.top/migu/cctv14
-CCTV 15 音乐「回看」,https://tv.iill.top/migu/cctv15
-CCTV 17 农村农业「回看」,https://tv.iill.top/migu/cctv17
-CETV 1 中国教育「回看」,https://tv.iill.top/migu/cetv1
-CETV 2 中国教育「回看」,https://tv.iill.top/migu/cetv2
-CETV 4 中国教育「回看」,https://tv.iill.top/migu/cetv4
+CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
+CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
+CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
+CCTV 4 中文国际「回看」,https://tv.iill.top/migu-1/cctv4
+CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu-1/cctv4m
+CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu-1/cctv4o
+CCTV 5 体育「回看」,https://tv.iill.top/migu-1/cctv5
+CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu-1/cctv5+
+CCTV 6 电影「回看」,https://tv.iill.top/migu-1/cctv6
+CCTV 7 国防军事「回看」,https://tv.iill.top/migu-1/cctv7
+CCTV 8 电视剧「回看」,https://tv.iill.top/migu-1/cctv8
+CCTV 9 纪录「回看」,https://tv.iill.top/migu-1/cctv9
+CCTV 10 科教「回看」,https://tv.iill.top/migu-1/cctv10
+CCTV 11 戏曲「回看」,https://tv.iill.top/migu-1/cctv11
+CCTV 12 社会与法「回看」,https://tv.iill.top/migu-1/cctv12
+CCTV 13 新闻「回看」,https://tv.iill.top/migu-1/cctv13
+CCTV 14 少儿「回看」,https://tv.iill.top/migu-1/cctv14
+CCTV 15 音乐「回看」,https://tv.iill.top/migu-1/cctv15
+CCTV 17 农村农业「回看」,https://tv.iill.top/migu-1/cctv17
+CETV 1 中国教育「回看」,https://tv.iill.top/migu-1/cetv1
+CETV 2 中国教育「回看」,https://tv.iill.top/migu-1/cetv2
+CETV 4 中国教育「回看」,https://tv.iill.top/migu-1/cetv4
 CGTN「回看」,https://tv.iill.top/CGTN/cgtn
 CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
 CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
@@ -3935,37 +3935,284 @@ CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
 CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 浙江卫视,https://tv.iill.top/migu/zjws
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
-东方卫视「回看」,https://tv.iill.top/migu/dfws
-江苏卫视「回看」,https://tv.iill.top/migu/jsws
-广东卫视「回看」,https://tv.iill.top/migu/gdws
-江西卫视「回看」,https://tv.iill.top/migu/jxws
-陕西卫视「回看」,https://tv.iill.top/migu/sxws
-湖北卫视「回看」,https://tv.iill.top/migu/hubws
-东南卫视「回看」,https://tv.iill.top/migu/dnws
-海峡卫视「回看」,https://tv.iill.top/migu/hxws
+东方卫视「回看」,https://tv.iill.top/migu-1/dfws
+江苏卫视「回看」,https://tv.iill.top/migu-1/jsws
+广东卫视「回看」,https://tv.iill.top/migu-1/gdws
+江西卫视「回看」,https://tv.iill.top/migu-1/jxws
+陕西卫视「回看」,https://tv.iill.top/migu-1/sxws
+湖北卫视「回看」,https://tv.iill.top/migu-1/hubws
+东南卫视「回看」,https://tv.iill.top/migu-1/dnws
+海峡卫视「回看」,https://tv.iill.top/migu-1/hxws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
-四海钓鱼「回看」,https://tv.iill.top/migu/shdy
-上海新闻综合「回看」,https://tv.iill.top/migu/shxw
-上视东方影视「回看」,https://tv.iill.top/migu/shys
-CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
-新片放映「回看」,https://tv.iill.top/migu/xpfy
-高清大片「回看」,https://tv.iill.top/migu/gqdp
-高能悬疑「回看」,https://tv.iill.top/migu/gnxy
-经典香港电影「回看」,https://tv.iill.top/migu/hkdy
-抗战经典影片「回看」,https://tv.iill.top/migu/kzjd
-血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu/xssh
-咪咕24小时体育「回看」,https://tv.iill.top/migu/mgty
-五环传奇「回看」,https://tv.iill.top/migu/whcq
-赛事最经典「回看」,https://tv.iill.top/migu/sszjd
-掼蛋精英赛「回看」,https://tv.iill.top/migu/gdjs
-体坛名栏汇「回看」,https://tv.iill.top/migu/ttmh
-和美乡途轮播「回看」,https://tv.iill.top/migu/hmxt
-最强综艺趴「回看」,https://tv.iill.top/migu/zqzyp
-嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
-新动力量创一流「回看」,https://tv.iill.top/migu/xdll
-钱塘江「回看」,https://tv.iill.top/migu/qtj
+四海钓鱼「回看」,https://tv.iill.top/migu-1/shdy
+上海新闻综合「回看」,https://tv.iill.top/migu-1/shxw
+上视东方影视「回看」,https://tv.iill.top/migu-1/shys
+CHC 影迷电影「回看」,https://tv.iill.top/migu-1/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu-1/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
+新片放映「回看」,https://tv.iill.top/migu-1/xpfy
+高清大片「回看」,https://tv.iill.top/migu-1/gqdp
+高能悬疑「回看」,https://tv.iill.top/migu-1/gnxy
+经典香港电影「回看」,https://tv.iill.top/migu-1/hkdy
+抗战经典影片「回看」,https://tv.iill.top/migu-1/kzjd
+血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu-1/xssh
+咪咕24小时体育「回看」,https://tv.iill.top/migu-1/mgty
+五环传奇「回看」,https://tv.iill.top/migu-1/whcq
+赛事最经典「回看」,https://tv.iill.top/migu-1/sszjd
+掼蛋精英赛「回看」,https://tv.iill.top/migu-1/gdjs
+体坛名栏汇「回看」,https://tv.iill.top/migu-1/ttmh
+和美乡途轮播「回看」,https://tv.iill.top/migu-1/hmxt
+最强综艺趴「回看」,https://tv.iill.top/migu-1/zqzyp
+嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
+新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
+钱塘江「回看」,https://tv.iill.top/migu-1/qtj
+「亚冠精英」00:00 精英联赛阶段 萨德 vs 吉达国民 [吴桐],https://tv.iill.top/FB/rmSDwp
+「亚冠精英」00:00 精英联赛阶段 萨德 vs 吉达国民 [赛场原声],https://tv.iill.top/FB/8BTMZT
+「亚冠二级」00:00 二级小组赛 伊斯法罕钢铁 vs Ahal [王子睿],https://tv.iill.top/FB/xSkwGN
+「亚冠二级」00:00 二级小组赛 伊斯法罕钢铁 vs Ahal [赛场原声],https://tv.iill.top/FB/x7iSNg
+「亚冠精英」02:15 精英联赛阶段 吉达联合 vs 沙迦 [张昊泽],https://tv.iill.top/FB/nEbG0t
+「亚冠精英」02:15 精英联赛阶段 吉达联合 vs 沙迦 [赛场原声],https://tv.iill.top/FB/UsEMC2
+「亚冠精英」18:00 精英联赛阶段 神户胜利船 vs 蔚山HD [鲁靖明],https://tv.iill.top/FB/lmpfu7
+「亚冠精英」18:00 精英联赛阶段 神户胜利船 vs 蔚山HD [赛场原声],https://tv.iill.top/FB/dBT3WL
+「亚冠精英」20:15 精英联赛阶段 柔佛新山 vs 上海申花 [娄一晨 刘越 姚安妮],https://tv.iill.top/FB/6TWamK
+「亚冠精英」20:15 精英联赛阶段 柔佛新山 vs 上海申花 [赛场原声],https://tv.iill.top/FB/RvLlAQ
+「亚冠二级」20:15 二级小组赛 南定 vs 大阪钢巴 [刘洋],https://tv.iill.top/FB/XaLwyj
+「亚冠二级」20:15 二级小组赛 南定 vs 大阪钢巴 [赛场原声],https://tv.iill.top/FB/sGiach
+「亚冠二级」20:15 二级小组赛 香港东方 vs 拉查布里府 [盛斌],https://tv.iill.top/FB/m2OxgB
+「亚冠二级」20:15 二级小组赛 香港东方 vs 拉查布里府 [赛场原声],https://tv.iill.top/FB/FVBodR
+「亚冠二级」21:45 二级小组赛 阿尔瓦斯尔 vs 穆哈拉克 [乔迁],https://tv.iill.top/FB/o5HxSd
+「亚冠二级」21:45 二级小组赛 阿尔瓦斯尔 vs 穆哈拉克 [赛场原声],https://tv.iill.top/FB/Dfma9M
+「亚冠二级」21:45 二级小组赛 阿卡达格 vs 艾尔艾利 [吴子越],https://tv.iill.top/FB/mFjU3T
+「亚冠二级」21:45 二级小组赛 阿卡达格 vs 艾尔艾利 [赛场原声],https://tv.iill.top/FB/L2lFkY
+「NBA」08:30 常规赛 雄鹿VS猛龙 [刘芳宇],https://tv.iill.top/NBA/dfn7c8
+「NBA」08:30 常规赛 雄鹿VS猛龙 [英文原声],https://tv.iill.top/NBA/hJIV8d
+「NBA」09:00 常规赛 黄蜂VS鹈鹕 [贾磊],https://tv.iill.top/NBA/kNZ31G
+「NBA」09:00 常规赛 黄蜂VS鹈鹕 [英文原声],https://tv.iill.top/NBA/xAPFqO
+「NBA」09:00 常规赛 魔术VS老鹰 [李天宇],https://tv.iill.top/NBA/1UWg03
+「NBA」09:00 常规赛 魔术VS老鹰 [英文原声],https://tv.iill.top/NBA/5IEW1E
+「NBA」09:00 常规赛 76人VS公牛 [姜帆],https://tv.iill.top/NBA/442jRU
+「NBA」09:00 常规赛 76人VS公牛 [英文原声],https://tv.iill.top/NBA/7UVUuF
+「NBA」11:00 常规赛 太阳VS勇士 [连睿 李根 裴优],https://tv.iill.top/NBA/bHQdwi
+「NBA」11:00 常规赛 太阳VS勇士 [拜月宁],https://tv.iill.top/NBA/FrTBVg
+「NBA」11:00 常规赛 太阳VS勇士 [英文原声],https://tv.iill.top/NBA/rBWbAz
+「NBA」12:00 常规赛 雷霆VS快船 [王冠证 徐咏 魏欣怡],https://tv.iill.top/NBA/0y6H3j
+「NBA」12:00 常规赛 雷霆VS快船 [大史],https://tv.iill.top/NBA/RGlleI
+「NBA」12:00 常规赛 雷霆VS快船 [英文原声],https://tv.iill.top/NBA/pSVTXj
+「WTT」01:30 法兰克福冠军赛：男女单打1/16决赛 弗朗西斯卡逆转巴德 韩莹3 1晋级,https://tv.iill.top/Migu/bLZGXg
+「全运会」09:00 沙滩排球第6比赛日,https://tv.iill.top/Migu/ZCGIjT
+「云上小湾杯」09:00 云上小湾鲈钓精英赛Day2,https://tv.iill.top/Migu/GF0EVx
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [钟宇峰],https://tv.iill.top/Migu/tENWWI
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [赛场原声],https://tv.iill.top/Migu/nI6TRC
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [综合信号],https://tv.iill.top/Migu/rZZagj
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [全景视角],https://tv.iill.top/Migu/qdLTGO
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [近景视角],https://tv.iill.top/Migu/Rtq2m9
+「全运会」10:00 跳水 男子个人全能决赛 练俊杰登场 [正面视角],https://tv.iill.top/Migu/AoV35h
+「全运会」13:30 排球 男子U18小组赛A组 四川vs福建,https://tv.iill.top/Migu/gJkmmY
+「全运会」13:30 排球 男子U18小组赛B组 澳门vs黑龙江,https://tv.iill.top/Migu/n0jI8g
+「全运会」13:30 曲棍球 女子预赛,https://tv.iill.top/Migu/TpMixj
+「全运会」14:00 手球第5比赛日 多项预赛,https://tv.iill.top/Migu/jtlgTu
+「斯诺克」14:30 国际锦标赛16进8：赵心童PK斯佳辉 吴宜泽大战特鲁姆普 [1号桌],https://tv.iill.top/Migu/QGfwrR
+「斯诺克」14:30 国际锦标赛16进8：赵心童PK斯佳辉 吴宜泽大战特鲁姆普 [2号桌],https://tv.iill.top/Migu/kNxGGb
+「斯诺克」14:30 国际锦标赛16进8：赵心童PK斯佳辉 吴宜泽大战特鲁姆普 [3号桌],https://tv.iill.top/Migu/kQrSdb
+「斯诺克」14:30 国际锦标赛16进8：赵心童PK斯佳辉 吴宜泽大战特鲁姆普 [4号桌],https://tv.iill.top/Migu/kalpYg
+「斯诺克」14:30 国际锦标赛16进8：赵心童PK斯佳辉 吴宜泽大战特鲁姆普 [朱峰立],https://tv.iill.top/Migu/e4J2t8
+「五人制亚洲杯」15:00 2026印度尼西亚亚足联五人制足球亚洲杯抽签仪式 [涂远],https://tv.iill.top/Migu/DIF0K2
+「五人制亚洲杯」15:00 2026印度尼西亚亚足联五人制足球亚洲杯抽签仪式 [赛场原声],https://tv.iill.top/Migu/1vDLLj
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [季孟年],https://tv.iill.top/Migu/xJyB3X
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [赛场原声],https://tv.iill.top/Migu/UgJIpg
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [综合信号],https://tv.iill.top/Migu/DUMuy3
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [全景视角],https://tv.iill.top/Migu/I91P8F
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [左半区视角],https://tv.iill.top/Migu/B5mjTe
+「全运会」16:00 篮球男子成年组小组赛 四川vs河南 [右半区视角],https://tv.iill.top/Migu/kiI94y
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [蔡凯臣],https://tv.iill.top/Migu/lmndPC
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [赛场原声],https://tv.iill.top/Migu/MHriGg
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [综合信号],https://tv.iill.top/Migu/IEKTrh
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [全景视角],https://tv.iill.top/Migu/Y4OcdZ
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [左半区视角],https://tv.iill.top/Migu/FyoqmU
+「全运会」16:00 篮球男子成年组小组赛 上海vs香港 [右半区视角],https://tv.iill.top/Migu/yY4IWA
+「全运会」16:00 足球 U20男子小组赛A组 广东vs广西 [鹿中原],https://tv.iill.top/Migu/GJinXd
+「全运会」16:00 足球 U20男子小组赛A组 广东vs广西 [赛场原声],https://tv.iill.top/Migu/XHyHZP
+「全运会」16:30 排球 男子U18小组赛A组 江苏vs广东,https://tv.iill.top/Migu/o3ZlZF
+「全运会」16:30 排球 男子U18小组赛B组 山西vs山东,https://tv.iill.top/Migu/00kzjB
+「WTT」18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：张本美和迎首秀 林昀儒冲胜 [周冠达 小马哥],https://tv.iill.top/Migu/yGdK7O
+「WTT」18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：张本美和迎首秀 林昀儒冲胜 [赛场原声],https://tv.iill.top/Migu/Qet5nB
+「WTT」18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：张本美和迎首秀 林昀儒冲胜 [智能字幕],https://tv.iill.top/Migu/gCZjqf
+「WTT」18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：张本美和迎首秀 林昀儒冲胜 [周冠达 小马哥],https://tv.iill.top/Migu/OLX7v3
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [钟宇峰],https://tv.iill.top/Migu/szhBbD
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [赛场原声],https://tv.iill.top/Migu/Ijh0Uv
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [综合信号],https://tv.iill.top/Migu/EyentP
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [全景视角],https://tv.iill.top/Migu/FujtIn
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [近景视角],https://tv.iill.top/Migu/t0yq9v
+「全运会」18:00 跳水 女子1米板决赛 跳水女子1米板决赛 李亚杰出战 [正面视角],https://tv.iill.top/Migu/Sv37ol
+「东亚超级联赛」19:10 乌兰巴托野马vs昌源LG猎鹰 [王冠证],https://tv.iill.top/Migu/uNdIu8
+「斯诺克」19:30 国际锦标赛16进8：丁俊晖决战墨菲！希金斯马奎尔出战 [1号桌],https://tv.iill.top/Migu/02DbkN
+「斯诺克」19:30 国际锦标赛16进8：丁俊晖决战墨菲！希金斯马奎尔出战 [2号桌],https://tv.iill.top/Migu/T79sH6
+「斯诺克」19:30 国际锦标赛16进8：丁俊晖决战墨菲！希金斯马奎尔出战 [3号桌],https://tv.iill.top/Migu/MiWjG1
+「斯诺克」19:30 国际锦标赛16进8：丁俊晖决战墨菲！希金斯马奎尔出战 [4号桌],https://tv.iill.top/Migu/bKzzR9
+「斯诺克」19:30 国际锦标赛16进8：丁俊晖决战墨菲！希金斯马奎尔出战 [朱蒙],https://tv.iill.top/Migu/b1hC35
+「浙江省城市篮球联赛」19:30 金华VS诸暨,https://tv.iill.top/Migu/AElcgu
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [孙博 曾令旭 秋童],https://tv.iill.top/Migu/O5SMjN
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [赛场原声],https://tv.iill.top/Migu/MA50pM
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [综合信号],https://tv.iill.top/Migu/Jm6Ti6
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [全景视角],https://tv.iill.top/Migu/I2hRtR
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [左半区视角],https://tv.iill.top/Migu/v8uteL
+「全运会」19:30 篮球男子成年组小组赛 辽宁vs澳门 [右半区视角],https://tv.iill.top/Migu/EZ3oo8
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [邵化谦],https://tv.iill.top/Migu/F2Sayo
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [赛场原声],https://tv.iill.top/Migu/sMoAqi
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [综合信号],https://tv.iill.top/Migu/0HZ5Go
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [全景视角],https://tv.iill.top/Migu/QfWcr1
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [左半区视角],https://tv.iill.top/Migu/DgT9xW
+「全运会」19:30 篮球男子成年组小组赛 天津vs北京 [右半区视角],https://tv.iill.top/Migu/XUDAX3
+「全运会」19:30 排球 男子U18小组赛A组 河南vs上海,https://tv.iill.top/Migu/KQeED2
+「全运会」19:30 排球 男子U18小组赛B组 浙江vs辽宁,https://tv.iill.top/Migu/04jBYh
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [赛场原声],https://tv.iill.top/Migu/gLC1bb
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [英文原声],https://tv.iill.top/Migu/qHChkV
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [鸿昆],https://tv.iill.top/Migu/xLhtsj
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [刘钟鸣],https://tv.iill.top/Migu/4OEpJS
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [鸿昆],https://tv.iill.top/Migu/V1CESr
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [单文强],https://tv.iill.top/Migu/ahZP0A
+「WTA」20:00 年终总决赛第五日：莱巴金娜PK凯斯 斯瓦迎战药娃 [智能字幕],https://tv.iill.top/Migu/Skdl4Z
+「亚冠精英」11/04 00:00 联赛阶段 杜海勒 vs 迪拜国民 [涂远],https://tv.iill.top/HuiK/rrMi5n
+「亚冠精英」11/04 00:00 联赛阶段 杜海勒 vs 迪拜国民 [赛场原声],https://tv.iill.top/HuiK/eJ66pI
+「亚冠精英」11/04 00:00 联赛阶段 大不里士拖拉机 vs 巴格达警察 [石庆圣],https://tv.iill.top/HuiK/f35JVw
+「亚冠精英」11/04 00:00 联赛阶段 大不里士拖拉机 vs 巴格达警察 [赛场原声],https://tv.iill.top/HuiK/udZ5EF
+「意甲」11/04 01:30 联赛 萨索洛 vs 热那亚 [吴桐],https://tv.iill.top/HuiK/TKs3os
+「意甲」11/04 01:30 联赛 萨索洛 vs 热那亚 [赛场原声],https://tv.iill.top/HuiK/Er1lhd
+「亚冠精英」11/04 02:15 联赛阶段 加拉法 vs 利雅得新月 [刘焕],https://tv.iill.top/HuiK/9vWEoB
+「亚冠精英」11/04 02:15 联赛阶段 加拉法 vs 利雅得新月 [赛场原声],https://tv.iill.top/HuiK/sRvvsa
+「足总杯」11/04 03:30 第一轮 塔姆沃思 vs 莱顿东方 [洪宇青],https://tv.iill.top/HuiK/Zfzsoo
+「足总杯」11/04 03:30 第一轮 塔姆沃思 vs 莱顿东方 [赛场原声],https://tv.iill.top/HuiK/q4M885
+「意甲」11/04 03:45 联赛 拉齐奥 vs 卡利亚里 [谭逸雄],https://tv.iill.top/HuiK/0ireMN
+「意甲」11/04 03:45 联赛 拉齐奥 vs 卡利亚里 [赛场原声],https://tv.iill.top/HuiK/blINy0
+「英超」11/04 04:00 联赛 桑德兰 vs 埃弗顿 [吴桐],https://tv.iill.top/HuiK/HAwQeC
+「英超」11/04 04:00 联赛 桑德兰 vs 埃弗顿 [战术视角],https://tv.iill.top/HuiK/wbVpsS
+「英超」11/04 04:00 联赛 桑德兰 vs 埃弗顿 [英文原声],https://tv.iill.top/HuiK/ibMe7U
+「英超」11/04 04:00 联赛 桑德兰 vs 埃弗顿 [赛场原声],https://tv.iill.top/HuiK/24qQtJ
+「西甲」11/04 04:00 联赛 皇家奥维耶多 vs 奥萨苏纳 [张天翼],https://tv.iill.top/HuiK/WHoZ4n
+「西甲」11/04 04:00 联赛 皇家奥维耶多 vs 奥萨苏纳 [赛场原声],https://tv.iill.top/HuiK/ot5DVJ
+「NBA」11/04 08:00 常规赛 森林狼VS篮网 [孙博],https://tv.iill.top/HuiK/qKWi1d
+「NBA」11/04 08:00 常规赛 森林狼VS篮网 [英文原声],https://tv.iill.top/HuiK/s3HdNX
+「NBA」11/04 08:00 常规赛 雄鹿VS步行者 [张泽欣],https://tv.iill.top/HuiK/U7EpP7
+「NBA」11/04 08:00 常规赛 雄鹿VS步行者 [英文原声],https://tv.iill.top/HuiK/ORYRun
+「NBA」11/04 08:30 常规赛 奇才VS尼克斯 [25/26赛季常规赛全场集锦：奇才102:119尼克斯（20251104）],https://tv.iill.top/HuiK/xSkmyV
+「NBA」11/04 08:30 常规赛 奇才VS尼克斯 [王凯],https://tv.iill.top/HuiK/y8wEIo
+「NBA」11/04 08:30 常规赛 奇才VS尼克斯 [英文原声],https://tv.iill.top/HuiK/NptceU
+「NBA」11/04 08:30 常规赛 爵士VS凯尔特人 [25/26赛季常规赛全场集锦：爵士105:103凯尔特人（20251104）],https://tv.iill.top/HuiK/4Ok0mt
+「NBA」11/04 08:30 常规赛 爵士VS凯尔特人 [王冠证],https://tv.iill.top/HuiK/2clJsy
+「NBA」11/04 08:30 常规赛 爵士VS凯尔特人 [英文原声],https://tv.iill.top/HuiK/g7GBXU
+「NBA」11/04 09:00 常规赛 独行侠VS火箭 [邵化谦 周鹏 季孟年],https://tv.iill.top/HuiK/MGvcEZ
+「NBA」11/04 09:00 常规赛 独行侠VS火箭 [英文原声],https://tv.iill.top/HuiK/1nSC1f
+「NBA」11/04 09:00 常规赛 活塞VS灰熊 [25/26赛季常规赛全场集锦：活塞114:106灰熊（20251104）],https://tv.iill.top/HuiK/e13qEW
+「NBA」11/04 09:00 常规赛 活塞VS灰熊 [殷文玉],https://tv.iill.top/HuiK/uPYQP0
+「NBA」11/04 09:00 常规赛 活塞VS灰熊 [英文原声],https://tv.iill.top/HuiK/eSdwyn
+「全运会」11/04 09:00 沙滩排球第5比赛日,https://tv.iill.top/HuiK/9FRlUv
+「云上小湾杯」11/04 09:00 云上小湾鲈钓精英赛Day1,https://tv.iill.top/HuiK/IU9ato
+「NBA」11/04 10:00 常规赛 国王VS掘金 [王晓晨],https://tv.iill.top/HuiK/xSpKNy
+「NBA」11/04 10:00 常规赛 国王VS掘金 [英文原声],https://tv.iill.top/HuiK/uGaEvE
+「全运会」11/04 10:00 跳水 女子个人全能决赛 王伟莹700.20分夺第二金 [综合信号],https://tv.iill.top/HuiK/S5cLbm
+「全运会」11/04 10:00 跳水 女子个人全能决赛 王伟莹700.20分夺第二金 [赛场原声],https://tv.iill.top/HuiK/JzvhH6
+「全运会」11/04 10:00 跳水 女子个人全能决赛 王伟莹700.20分夺第二金 [正面视角],https://tv.iill.top/HuiK/hDRFuT
+「全运会」11/04 10:00 跳水 女子个人全能决赛 王伟莹700.20分夺第二金 [近景视角],https://tv.iill.top/HuiK/DE4cgV
+「全运会」11/04 10:00 跳水 女子个人全能决赛 王伟莹700.20分夺第二金 [全景视角],https://tv.iill.top/HuiK/LTbAjo
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [徐正溪跨界解说],https://tv.iill.top/HuiK/xB9DYe
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [徐正溪],https://tv.iill.top/HuiK/w1eQy5
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [邢晨],https://tv.iill.top/HuiK/8tNOdx
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [郑泽鹏],https://tv.iill.top/HuiK/uH0ZWF
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [莫俊祺],https://tv.iill.top/HuiK/RYp4d9
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [洪荒],https://tv.iill.top/HuiK/wcrpnS
+「NBA」11/04 11:00 常规赛 湖人VS开拓者 [英文原声],https://tv.iill.top/HuiK/5eErSM
+「NBA」11/04 11:30 常规赛 热火VS快船 [25/26赛季常规赛全场集锦：热火120:119快船（20251104）],https://tv.iill.top/HuiK/Np9KJc
+「NBA」11/04 11:30 常规赛 热火VS快船 [连睿 周赫],https://tv.iill.top/HuiK/Z3BHbX
+「NBA」11/04 11:30 常规赛 热火VS快船 [英文原声],https://tv.iill.top/HuiK/Y7fJV9
+「全运会」11/04 13:30 篮球男子成年组小组赛 澳门63 109天津,https://tv.iill.top/HuiK/CKSJs3
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [姜帆],https://tv.iill.top/HuiK/uVBriV
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [赛场原声],https://tv.iill.top/HuiK/l8N2Zz
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [综合信号],https://tv.iill.top/HuiK/Rrl19G
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [全景视角],https://tv.iill.top/HuiK/SDFga2
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [左半区视角],https://tv.iill.top/HuiK/5NF9Qu
+「全运会」11/04 13:30 篮球男子成年组小组赛 吉林68 118辽宁 [右半区视角],https://tv.iill.top/HuiK/jFmimR
+「全运会」11/04 13:30 排球 男子U20小组赛A组 四川1 3上海,https://tv.iill.top/HuiK/SQ78tb
+「全运会」11/04 13:30 排球 男子U20小组赛B组 北京0 3山东,https://tv.iill.top/HuiK/JoHTFj
+「全运会」11/04 14:00 拳击 第4比赛日 多项1/8决赛 常园晋级,https://tv.iill.top/HuiK/ZEJS1V
+「全运会」11/04 14:00 手球 第4比赛日 多场预赛,https://tv.iill.top/HuiK/1RyEKn
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [4号桌],https://tv.iill.top/HuiK/Adz065
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [2号桌],https://tv.iill.top/HuiK/qFg65R
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [1号桌],https://tv.iill.top/HuiK/rRnD8m
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [朱峰立],https://tv.iill.top/HuiK/QlkzNX
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [3号桌],https://tv.iill.top/HuiK/MO7VDn
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [5号桌],https://tv.iill.top/HuiK/4DbGN2
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [6号桌],https://tv.iill.top/HuiK/yXpQGs
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [7号桌],https://tv.iill.top/HuiK/OXQH65
+「斯诺克」11/04 14:30 南京国际锦标赛32进16：赵心童斯佳辉晋级 火箭5 6小司机 [8号桌],https://tv.iill.top/HuiK/q7iflj
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [吴桐],https://tv.iill.top/HuiK/hCjSFl
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [赛场原声],https://tv.iill.top/HuiK/Y7C01w
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [综合信号],https://tv.iill.top/HuiK/jE93JZ
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [全景视角],https://tv.iill.top/HuiK/WqaJYG
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [纵向视角1],https://tv.iill.top/HuiK/66oraR
+「全运会」11/04 16:00 足球 女子小组赛A组 广东5 0内蒙古 [纵向视角2],https://tv.iill.top/HuiK/ZVhEO0
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [李天宇],https://tv.iill.top/HuiK/eaTXJE
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [赛场原声],https://tv.iill.top/HuiK/L1Y4Nr
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [综合信号],https://tv.iill.top/HuiK/WyWamC
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [全景视角],https://tv.iill.top/HuiK/rpkZ4X
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [左半区视角],https://tv.iill.top/HuiK/ARUvPv
+「全运会」11/04 16:00 篮球男子成年组小组赛 河南77 84上海 [右半区视角],https://tv.iill.top/HuiK/t1PfYv
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [2025集锦：篮球男子成年组小组赛III组 湖北vs四川],https://tv.iill.top/HuiK/eyNAus
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [石楷文],https://tv.iill.top/HuiK/hlkErM
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [赛场原声],https://tv.iill.top/HuiK/fCOp8h
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [综合信号],https://tv.iill.top/HuiK/H324oF
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [全景视角],https://tv.iill.top/HuiK/1pFrcr
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [左半区视角],https://tv.iill.top/HuiK/al4C65
+「全运会」11/04 16:00 篮球男子成年组小组赛 湖北61 124四川 [右半区视角],https://tv.iill.top/HuiK/5VSfKa
+「全运会」11/04 16:30 排球 男子U20小组赛A组 湖北3 2广东,https://tv.iill.top/HuiK/RNzYCI
+「全运会」11/04 16:30 排球 男子U20小组赛B组 河北3 0澳门,https://tv.iill.top/HuiK/qqqGKM
+「亚冠精英」11/04 18:00 联赛阶段 首尔 vs 成都蓉城 [袁甲 杨晨 李子琪],https://tv.iill.top/HuiK/04YopI
+「亚冠精英」11/04 18:00 联赛阶段 首尔 vs 成都蓉城 [赛场原声],https://tv.iill.top/HuiK/90ajmh
+「亚冠精英」11/04 18:00 联赛阶段 町田泽维亚 vs 墨尔本城 [张昊泽],https://tv.iill.top/HuiK/4ClL9z
+「亚冠精英」11/04 18:00 联赛阶段 町田泽维亚 vs 墨尔本城 [赛场原声],https://tv.iill.top/HuiK/tpkww6
+「亚冠精英」11/04 18:00 联赛阶段 广岛三箭 vs 江原 [涂远],https://tv.iill.top/HuiK/nQAmds
+「亚冠精英」11/04 18:00 联赛阶段 广岛三箭 vs 江原 [赛场原声],https://tv.iill.top/HuiK/gwL4PV
+「WTT」11/04 18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：大藤晋级 张本横扫格罗特 [周冠达 周泽昊],https://tv.iill.top/HuiK/J3QGDx
+「WTT」11/04 18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：大藤晋级 张本横扫格罗特 [赛场原声],https://tv.iill.top/HuiK/FI6nKZ
+「WTT」11/04 18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：大藤晋级 张本横扫格罗特 [智能字幕],https://tv.iill.top/HuiK/wQYjrv
+「WTT」11/04 18:00 法兰克福冠军赛：男女单打1/16决赛 1/16决赛：大藤晋级 张本横扫格罗特 [周冠达 周泽昊],https://tv.iill.top/HuiK/mKrm7b
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [钟宇峰],https://tv.iill.top/HuiK/tLskYJ
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [CCTV5],https://tv.iill.top/HuiK/dKl3Pg
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [赛场原声],https://tv.iill.top/HuiK/lqCv5P
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [综合信号],https://tv.iill.top/HuiK/Uj4SNn
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [全景视角],https://tv.iill.top/HuiK/oJ9nNE
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [近景视角],https://tv.iill.top/HuiK/2ZAi43
+「全运会」11/04 18:00 跳水 男子1米板决赛 王宗源夺金 男子1米板决赛：王宗源夺金 [正面视角],https://tv.iill.top/HuiK/VKTmTO
+「全运会」11/04 18:00 曲棍球 第8比赛日 多场预赛,https://tv.iill.top/HuiK/QSunrS
+「斯诺克」11/04 19:30 国际锦标赛32进16：丁俊晖特鲁姆普晋级 舒尔第轰出147,https://tv.iill.top/HuiK/yu5hBU
+「浙江省城市篮球联赛」11/04 19:30 庆元50 102台州,https://tv.iill.top/HuiK/gyZieR
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [杨健 苏群 李根],https://tv.iill.top/HuiK/dxqYPU
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [同看亚冠],https://tv.iill.top/HuiK/VfeTzu
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [江苏vs浙江],https://tv.iill.top/HuiK/Z4PUTf
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [赛场原声],https://tv.iill.top/HuiK/3Aou6C
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [AVS3],https://tv.iill.top/HuiK/Q9LfnA
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [综合信号],https://tv.iill.top/HuiK/zfwkw0
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [全景视角],https://tv.iill.top/HuiK/yQ1dQp
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [左半区视角],https://tv.iill.top/HuiK/DzVtgJ
+「全运会」11/04 19:30 篮球男子成年组小组赛 广东87 71山东 [右半区视角],https://tv.iill.top/HuiK/RCUXTu
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [刘圳展],https://tv.iill.top/HuiK/hIimmO
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [赛场原声],https://tv.iill.top/HuiK/VxZMDG
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [综合信号],https://tv.iill.top/HuiK/x5bakK
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [全景视角],https://tv.iill.top/HuiK/Zm3bQb
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [左半区视角],https://tv.iill.top/HuiK/Khl01v
+「全运会」11/04 19:30 篮球男子成年组小组赛 江苏59 82浙江 [右半区视角],https://tv.iill.top/HuiK/kmL1gl
+「全运会」11/04 19:30 排球 男子U20小组赛A组 湖南0 3浙江,https://tv.iill.top/HuiK/BDTveA
+「全运会」11/04 19:30 排球 男子U20小组赛B组 河南3 0天津,https://tv.iill.top/HuiK/IVA0LR
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [胡小凡],https://tv.iill.top/HuiK/EFry2t
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [赛场原声],https://tv.iill.top/HuiK/ObNKbq
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [综合信号],https://tv.iill.top/HuiK/XwfA1W
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [全景视角],https://tv.iill.top/HuiK/TX3f2i
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [纵向视角1],https://tv.iill.top/HuiK/jYb9xC
+「全运会」11/04 19:45 足球 女子小组赛B组 山东3 0重庆 [纵向视角2],https://tv.iill.top/HuiK/UzfqOa
+「WTA」11/04 20:00 年终总决赛第四日：萨巴伦卡2 1佩古拉 高芙2 0保利尼 [赛场原声],https://tv.iill.top/HuiK/a6YO6n
+「WTA」11/04 20:00 年终总决赛第四日：萨巴伦卡2 1佩古拉 高芙2 0保利尼 [鸿昆],https://tv.iill.top/HuiK/EdXNXY
+「WTA」11/04 20:00 年终总决赛第四日：萨巴伦卡2 1佩古拉 高芙2 0保利尼 [英文原声],https://tv.iill.top/HuiK/OrYW5w
+「亚冠精英」11/04 20:15 联赛阶段 武里南联 vs 上海海港 [石庆圣 李彦 邵凌霄],https://tv.iill.top/HuiK/ntXuPe
+「亚冠精英」11/04 20:15 联赛阶段 武里南联 vs 上海海港 [赛场原声],https://tv.iill.top/HuiK/omORtW
 雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
 叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
 Now新聞台,https://yang-1989.eu.org/live/now-332
