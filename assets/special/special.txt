@@ -3966,126 +3966,106 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu-1/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu-1/xdll
 钱塘江「回看」,https://tv.iill.top/migu-1/qtj
-「亚冠精英」00:00 精英联赛阶段 阿布扎比统一 vs 萨德 [刘焕],https://tv.iill.top/FB/ufSvEf
-「亚冠精英」00:00 精英联赛阶段 阿布扎比统一 vs 萨德 [赛场原声],https://tv.iill.top/FB/1R6T82
-「亚冠二级」00:00 二级小组赛 伊斯法罕钢铁 vs 艾尔胡塞因 [张天翼],https://tv.iill.top/FB/ZS8LZT
-「亚冠二级」00:00 二级小组赛 伊斯法罕钢铁 vs 艾尔胡塞因 [赛场原声],https://tv.iill.top/FB/zeIloG
-「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 巴格达警察 [吴桐],https://tv.iill.top/FB/381JtU
-「亚冠精英」02:15 精英联赛阶段 利雅得新月 vs 巴格达警察 [赛场原声],https://tv.iill.top/FB/eds0C1
-「亚冠精英」18:00 精英联赛阶段 蔚山HD vs 武里南联 [涂远],https://tv.iill.top/FB/mWMgl3
-「亚冠精英」18:00 精英联赛阶段 蔚山HD vs 武里南联 [赛场原声],https://tv.iill.top/FB/QmAeSG
-「亚冠精英」20:15 精英联赛阶段 上海申花 vs 神户胜利船 [娄一晨 刘越 孙蕊],https://tv.iill.top/FB/ledKKw
-「亚冠二级」20:15 二级小组赛 本国联队 vs 佩西比萬隆 [盛斌],https://tv.iill.top/FB/8UU2xz
-「亚冠二级」20:15 二级小组赛 本国联队 vs 佩西比萬隆 [赛场原声],https://tv.iill.top/FB/VcRcU7
-「亚冠二级」20:15 二级小组赛 曼谷联 vs 雪兰莪 [鹿中原],https://tv.iill.top/FB/uqOOXP
-「亚冠二级」20:15 二级小组赛 曼谷联 vs 雪兰莪 [赛场原声],https://tv.iill.top/FB/RcelCE
-「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 利雅得胜利 [刘畅],https://tv.iill.top/FB/cCarE6
-「亚冠二级」21:45 二级小组赛 伊提洛尔 vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/ZJl5fA
-「亚冠二级」21:45 二级小组赛 安迪扬 vs 阿卡达格 [周楚雄],https://tv.iill.top/FB/VIQWPC
-「亚冠二级」21:45 二级小组赛 安迪扬 vs 阿卡达格 [赛场原声],https://tv.iill.top/FB/mJbRmA
-「NBA」08:00 杯 老鹰VS奇才 [刘芳宇],https://tv.iill.top/NBA/PNcxnp
-「NBA」08:00 杯 老鹰VS奇才 [英文原声],https://tv.iill.top/NBA/DFTtXm
-「NBA」09:00 杯 魔术VS76人 [张泽欣],https://tv.iill.top/NBA/Svyr3z
-「NBA」09:00 杯 魔术VS76人 [英文原声],https://tv.iill.top/NBA/nlsq5Q
-「NBA」12:00 杯 快船VS湖人 [杨健 曾令旭 闫宇峰],https://tv.iill.top/NBA/mmkAeY
-「NBA」12:00 杯 快船VS湖人 [大史],https://tv.iill.top/NBA/7Bwusf
-「NBA」12:00 杯 快船VS湖人 [郑泽鹏],https://tv.iill.top/NBA/FJMYlp
-「NBA」12:00 杯 快船VS湖人 [莫俊祺],https://tv.iill.top/NBA/I9XD4f
-「NBA」12:00 杯 快船VS湖人 [洪荒],https://tv.iill.top/NBA/tj3c7s
-「NBA」12:00 杯 快船VS湖人 [英文原声],https://tv.iill.top/NBA/1AjGei
-「斯诺克」03:30 英锦赛资格赛第三轮80进48：雷佩凡PK江俊 张安达轻松晋级,https://tv.iill.top/Migu/XjHQpW
-「WCBA 季前赛」10:00 季前赛 北京首钢园 VS 陕西榆林天泽,https://tv.iill.top/Migu/vF9TJ7
-「WCBA 季前赛」10:00 季前赛 合肥文旅 VS 福建厦门白鹭,https://tv.iill.top/Migu/2gRDiC
-「WCBA 季前赛」14:30 季前赛 新疆天山 VS 浙江稠州银行,https://tv.iill.top/Migu/LXPxOd
-「WCBA 季前赛」14:30 季前赛 豫光金铅女篮 VS 大连文体旅,https://tv.iill.top/Migu/p8V0Lh
-「WCBA 季前赛」17:00 季前赛 东莞新彤盛 VS 江苏南钢,https://tv.iill.top/Migu/UcXwlX
-「WCBA 季前赛」17:00 季前赛 山西竹叶青酒 VS 上海浦发银行,https://tv.iill.top/Migu/kJXv2W
-「乒乓球经典赛事」19:00 【一拍即合·赛事放映厅】畅聊“咚咚大王”热血赛场路·重温全运男团金牌赛 热血历险：聊聊樊振东如何征服赛场 [周雨 程靖淇 周冠达],https://tv.iill.top/Migu/tu1zJ8
-「乒乓球经典赛事」19:00 【一拍即合·赛事放映厅】畅聊“咚咚大王”热血赛场路·重温全运男团金牌赛 热血历险：聊聊樊振东如何征服赛场 [赛事重温],https://tv.iill.top/Migu/q4yzX7
-「PEL」19:00 2025和平精英全球总决赛 精英赛第三天,https://tv.iill.top/Migu/aYdgKX
-「浙江省城市篮球联赛」19:30 嘉兴VS台州湾新区,https://tv.iill.top/Migu/44ngpu
-「WCBA 季前赛」19:30 季前赛 四川蜀道远达 VS 山东赤水河酒,https://tv.iill.top/Migu/hGO4Jq
-「WCBA 季前赛」19:30 季前赛 石家庄英励 VS 武汉盛帆黄鹤,https://tv.iill.top/Migu/isyJLm
-「斯诺克」21:00 英锦赛资格赛 Day5晚场,https://tv.iill.top/Migu/wgdBVc
-「亚冠精英」11/25 00:00 联赛阶段 杜海勒 vs 吉达联合 [涂远],https://tv.iill.top/HuiK/RGb1VK
-「亚冠精英」11/25 00:00 联赛阶段 杜海勒 vs 吉达联合 [赛场原声],https://tv.iill.top/HuiK/Hq8nNC
-「亚冠精英」11/25 00:00 联赛阶段 迪拜国民 vs 加拉法 [石庆圣],https://tv.iill.top/HuiK/tLhcsi
-「亚冠精英」11/25 00:00 联赛阶段 迪拜国民 vs 加拉法 [赛场原声],https://tv.iill.top/HuiK/KemAD4
-「意甲」11/25 01:30 联赛 都灵 vs 科莫 [吴奕博],https://tv.iill.top/HuiK/b5RvoU
-「意甲」11/25 01:30 联赛 都灵 vs 科莫 [赛场原声],https://tv.iill.top/HuiK/4H2rIw
-「亚冠精英」11/25 02:15 联赛阶段 吉达国民 vs 沙迦 [张昊泽],https://tv.iill.top/HuiK/kHnSzh
-「亚冠精英」11/25 02:15 联赛阶段 吉达国民 vs 沙迦 [赛场原声],https://tv.iill.top/HuiK/vB7Dnp
-「斯诺克」11/25 03:30 英锦赛资格赛第三轮80进48：常冰玉轰147！袁思俊、吕昊天晋级,https://tv.iill.top/HuiK/T3DZpi
-「意甲」11/25 03:45 联赛 萨索洛 vs 比萨 [乔迁],https://tv.iill.top/HuiK/Bk8ihd
-「意甲」11/25 03:45 联赛 萨索洛 vs 比萨 [赛场原声],https://tv.iill.top/HuiK/B5Kzly
-「英超」11/25 04:00 联赛 曼联 vs 埃弗顿 [娄一晨 刘越 姚安妮],https://tv.iill.top/HuiK/Jtq4ri
-「英超」11/25 04:00 联赛 曼联 vs 埃弗顿 [英文原声],https://tv.iill.top/HuiK/xMX90K
-「英超」11/25 04:00 联赛 曼联 vs 埃弗顿 [混合视角],https://tv.iill.top/HuiK/a82zPD
-「英超」11/25 04:00 联赛 曼联 vs 埃弗顿 [4K赛场原声],https://tv.iill.top/HuiK/aNmEHm
-「西甲」11/25 04:00 联赛 西班牙人 vs 塞维利亚 [李霄],https://tv.iill.top/HuiK/gsW0hR
-「西甲」11/25 04:00 联赛 西班牙人 vs 塞维利亚 [赛场原声],https://tv.iill.top/HuiK/dH70v6
-「NBA」11/25 08:00 常规赛 活塞VS步行者 [罗森],https://tv.iill.top/HuiK/V5DkIB
-「NBA」11/25 08:00 常规赛 活塞VS步行者 [英文原声],https://tv.iill.top/HuiK/lJixz2
-「NBA」11/25 08:00 常规赛 骑士VS猛龙 [姜帆],https://tv.iill.top/HuiK/dIruNu
-「NBA」11/25 08:00 常规赛 骑士VS猛龙 [英文原声],https://tv.iill.top/HuiK/TtunQJ
-「NBA」11/25 08:30 常规赛 尼克斯VS篮网 [25/26赛季常规赛全场集锦：尼克斯113:100篮网（20251125）],https://tv.iill.top/HuiK/SUFQAD
-「NBA」11/25 08:30 常规赛 尼克斯VS篮网 [刘芳宇],https://tv.iill.top/HuiK/QNVfaY
-「NBA」11/25 08:30 常规赛 尼克斯VS篮网 [英文原声],https://tv.iill.top/HuiK/8T1S9C
-「NBA」11/25 08:30 常规赛 独行侠VS热火 [季孟年],https://tv.iill.top/HuiK/W71tio
-「NBA」11/25 08:30 常规赛 独行侠VS热火 [英文原声],https://tv.iill.top/HuiK/NkgEc7
-「NBA」11/25 09:00 常规赛 开拓者VS雄鹿 [孙博 闫宇峰 裴优],https://tv.iill.top/HuiK/wVvqkJ
-「NBA」11/25 09:00 常规赛 开拓者VS雄鹿 [邢晨],https://tv.iill.top/HuiK/FnPZUb
-「NBA」11/25 09:00 常规赛 开拓者VS雄鹿 [英文原声],https://tv.iill.top/HuiK/Hgtu1Z
-「NBA」11/25 09:00 常规赛 掘金VS灰熊 [25/26赛季常规赛全场集锦：掘金125:115灰熊（20251125）],https://tv.iill.top/HuiK/adkSkp
-「NBA」11/25 09:00 常规赛 掘金VS灰熊 [邵化谦 周赫],https://tv.iill.top/HuiK/KDs3LW
-「NBA」11/25 09:00 常规赛 掘金VS灰熊 [英文原声],https://tv.iill.top/HuiK/P532uQ
-「NBA」11/25 09:00 常规赛 公牛VS鹈鹕 [殷文玉],https://tv.iill.top/HuiK/snczgH
-「NBA」11/25 09:00 常规赛 公牛VS鹈鹕 [英文原声],https://tv.iill.top/HuiK/cQHCku
-「中国足球青少年精英联赛」11/25 10:00 季前赛 大连文体旅 VS 江西鲸裕清酒,https://tv.iill.top/HuiK/2Z789E
-「WCBA 季前赛」11/25 10:00 季前赛 福建厦门白鹭 VS 福建金篮,https://tv.iill.top/HuiK/xrUra5
-「NBA」11/25 10:30 常规赛 火箭VS太阳 [连睿 曾令旭 周鹏],https://tv.iill.top/HuiK/D16UlV
-「NBA」11/25 10:30 常规赛 火箭VS太阳 [英文原声],https://tv.iill.top/HuiK/qC8G4a
-「NBA」11/25 11:00 常规赛 爵士VS勇士 [王冠证 陈正昊 廖昕阳],https://tv.iill.top/HuiK/BZeEfy
-「NBA」11/25 11:00 常规赛 爵士VS勇士 [拜月宁],https://tv.iill.top/HuiK/8FmriD
-「NBA」11/25 11:00 常规赛 爵士VS勇士 [英文原声],https://tv.iill.top/HuiK/JmQS0q
-「NBA」11/25 11:00 常规赛 森林狼VS国王 [25/26赛季常规赛全场集锦：森林狼112:117国王（20251125）],https://tv.iill.top/HuiK/LrH5vf
-「NBA」11/25 11:00 常规赛 森林狼VS国王 [盛哲],https://tv.iill.top/HuiK/1mE1h7
-「NBA」11/25 11:00 常规赛 森林狼VS国王 [英文原声],https://tv.iill.top/HuiK/yJhVId
-「WCBA 季前赛」11/25 14:30 季前赛 陕西榆林天泽 VS 山东赤水河酒,https://tv.iill.top/HuiK/bs702R
-「WCBA 季前赛」11/25 14:30 季前赛 石家庄英励 VS 山西竹叶青酒,https://tv.iill.top/HuiK/79pHUK
-「中国足球青少年精英联赛」11/25 15:45 亚冠精英联赛阶段 墨尔本城 vs 柔佛新山 [鲁靖明],https://tv.iill.top/HuiK/qGQ18U
-「亚冠精英」11/25 15:45 联赛阶段 墨尔本城 vs 柔佛新山 [赛场原声],https://tv.iill.top/HuiK/j3FZ7q
-「乒乓球经典赛事」11/25 17:00 【一拍即合·赛事放映厅】乒乓运动员中的斜杠青年·重温全运女团金牌赛 赛场内外皆精彩：运动员的N种打开方式 [侯英超 程靖淇 周冠达],https://tv.iill.top/HuiK/9jgl2d
-「乒乓球经典赛事」11/25 17:00 【一拍即合·赛事放映厅】乒乓运动员中的斜杠青年·重温全运女团金牌赛 赛场内外皆精彩：运动员的N种打开方式 [赛事重温],https://tv.iill.top/HuiK/g64PTO
-「WCBA 季前赛」11/25 17:00 季前赛 北京首钢园 VS 四川蜀道远达,https://tv.iill.top/HuiK/4N37GR
-「WCBA 季前赛」11/25 17:00 季前赛 浙江稠州银行 VS 江苏南钢,https://tv.iill.top/HuiK/4uJmjD
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [1号桌],https://tv.iill.top/HuiK/JuwSBH
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [6号桌],https://tv.iill.top/HuiK/R7zQdG
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [2号桌],https://tv.iill.top/HuiK/LLZQOk
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [柏林],https://tv.iill.top/HuiK/mUvuom
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [3号桌],https://tv.iill.top/HuiK/pk4jE1
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [4号桌],https://tv.iill.top/HuiK/zKKuir
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [5号桌],https://tv.iill.top/HuiK/tnsADs
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [7号桌],https://tv.iill.top/HuiK/lRO07E
-「斯诺克」11/25 17:30 英锦赛资格赛第三轮80进48：傅家俊退赛周跃龙晋级 刘宏宇遭淘汰 [8号桌],https://tv.iill.top/HuiK/RjozDQ
-「亚冠精英」11/25 18:00 联赛阶段 上海海港 vs 首尔 [石庆圣 李彦 姚安妮],https://tv.iill.top/HuiK/DYoncT
-「亚冠精英」11/25 18:00 联赛阶段 上海海港 vs 首尔 [赛场原声],https://tv.iill.top/HuiK/LhlekH
-「亚冠精英」11/25 18:00 联赛阶段 江原 vs 町田泽维亚 [张昊泽],https://tv.iill.top/HuiK/MoIjqx
-「亚冠精英」11/25 18:00 联赛阶段 江原 vs 町田泽维亚 [赛场原声],https://tv.iill.top/HuiK/eh8J12
-「PEL」11/25 19:00 2025和平精英全球总决赛 广州TT战队领先榜首 A7勇夺第六鸡,https://tv.iill.top/HuiK/hCmZxa
-「浙江省城市篮球联赛」11/25 19:30 衢州76 71绍兴,https://tv.iill.top/HuiK/0hcuEg
-「WCBA 季前赛」11/25 19:30 季前赛 新疆天山 VS 东莞新彤盛,https://tv.iill.top/HuiK/u08Ays
-「WCBA 季前赛」11/25 19:30 季前赛 武汉盛帆黄鹤 VS 上海浦发银行,https://tv.iill.top/HuiK/5gy0sn
-「亚冠精英」11/25 20:15 联赛阶段 成都蓉城 vs 广岛三箭 [袁甲 杨晨 林梦鸽],https://tv.iill.top/HuiK/pJaEp7
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [朱峰立],https://tv.iill.top/HuiK/bG1koW
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [1号桌],https://tv.iill.top/HuiK/OqLjQu
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [2号桌],https://tv.iill.top/HuiK/Y6ujc6
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [3号桌],https://tv.iill.top/HuiK/cfIWRS
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [4号桌],https://tv.iill.top/HuiK/3ktoJP
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [5号桌],https://tv.iill.top/HuiK/jMSpMh
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [6号桌],https://tv.iill.top/HuiK/gVSrQf
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [7号桌],https://tv.iill.top/HuiK/jhTt1d
-「斯诺克」11/25 22:30 英锦赛资格赛第三轮80进48：龙泽煌6 1希尔 机长、小司机遭淘汰 [8号桌],https://tv.iill.top/HuiK/yygXNv
+「亚冠二级」11/26 21:45 二级小组赛 伊提洛尔 vs 利雅得胜利 [刘畅],https://tv.iill.top/FB/l8Hq65
+「亚冠二级」11/26 21:45 二级小组赛 伊提洛尔 vs 利雅得胜利 [赛场原声],https://tv.iill.top/FB/3CHGRc
+「亚冠二级」11/26 21:45 二级小组赛 安迪扬 vs 阿卡达格 [周楚雄],https://tv.iill.top/FB/VoBOD1
+「亚冠二级」11/26 21:45 二级小组赛 安迪扬 vs 阿卡达格 [赛场原声],https://tv.iill.top/FB/7nwC0V
+「亚冠二级」11/27 00:00 二级小组赛 艾尔扎拉 vs Goa [张天翼],https://tv.iill.top/FB/V9h5Hi
+「亚冠二级」11/27 00:00 二级小组赛 艾尔扎拉 vs Goa [赛场原声],https://tv.iill.top/FB/e6v5Rk
+「亚冠二级」11/27 00:00 二级小组赛 德黑兰独立 vs 阿尔瓦斯尔 [王子睿],https://tv.iill.top/FB/spqXiM
+「亚冠二级」11/27 00:00 二级小组赛 德黑兰独立 vs 阿尔瓦斯尔 [赛场原声],https://tv.iill.top/FB/Ed9gq1
+「亚冠二级」11/27 15:45 二级小组赛 麦克阿瑟FC vs 和富大埔 [鲁靖明],https://tv.iill.top/FB/ClDOYX
+「亚冠二级」11/27 15:45 二级小组赛 麦克阿瑟FC vs 和富大埔 [赛场原声],https://tv.iill.top/FB/P5TpIu
+「亚冠二级」11/27 18:00 二级小组赛 拉查布里府 vs 南定 [盛斌],https://tv.iill.top/FB/G06E8Q
+「亚冠二级」11/27 18:00 二级小组赛 拉查布里府 vs 南定 [赛场原声],https://tv.iill.top/FB/7F4o5N
+「亚冠二级」11/27 18:00 二级小组赛 香港东方 vs 大阪钢巴 [刘洋],https://tv.iill.top/FB/mflaXa
+「亚冠二级」11/27 18:00 二级小组赛 香港东方 vs 大阪钢巴 [赛场原声],https://tv.iill.top/FB/Jb7s0N
+「亚冠二级」11/27 18:00 二级小组赛 浦项铁人 vs 曼谷玻璃 [吴子越],https://tv.iill.top/FB/5lOOpe
+「亚冠二级」11/27 18:00 二级小组赛 浦项铁人 vs 曼谷玻璃 [赛场原声],https://tv.iill.top/FB/dfUuxY
+「亚冠二级」11/27 20:15 二级小组赛 Công An Hà Nội vs 北京国安 [孙雨轩 徐云龙 李子琪],https://tv.iill.top/FB/5XRnRe
+「亚冠二级」11/27 20:15 二级小组赛 Công An Hà Nội vs 北京国安 [赛场原声],https://tv.iill.top/FB/AakbY1
+「亚冠二级」11/27 20:15 二级小组赛 淡宾尼流浪 vs 卡雅 [乔迁],https://tv.iill.top/FB/hEgBQW
+「亚冠二级」11/27 20:15 二级小组赛 淡宾尼流浪 vs 卡雅 [赛场原声],https://tv.iill.top/FB/MkBT2H
+「NBA」11/27 06:00 杯 活塞VS凯尔特人 [王冠证],https://tv.iill.top/NBA/bBGnj9
+「NBA」11/27 06:00 杯 活塞VS凯尔特人 [英文原声],https://tv.iill.top/NBA/WGa3Dp
+「NBA」11/27 08:00 杯 尼克斯VS黄蜂 [贾磊],https://tv.iill.top/NBA/5nzAKi
+「NBA」11/27 08:00 杯 尼克斯VS黄蜂 [英文原声],https://tv.iill.top/NBA/RoL0mQ
+「NBA」11/27 08:30 杯 森林狼VS雷霆 [罗森],https://tv.iill.top/NBA/41SPYa
+「NBA」11/27 08:30 杯 森林狼VS雷霆 [英文原声],https://tv.iill.top/NBA/ZoG3oo
+「NBA」11/27 08:30 杯 雄鹿VS热火 [盛哲],https://tv.iill.top/NBA/UDXWvY
+「NBA」11/27 08:30 杯 雄鹿VS热火 [英文原声],https://tv.iill.top/NBA/xoL6IJ
+「NBA」11/27 08:30 杯 步行者VS猛龙 [李天宇],https://tv.iill.top/NBA/Qzi8yG
+「NBA」11/27 08:30 杯 步行者VS猛龙 [英文原声],https://tv.iill.top/NBA/RV6ddy
+「NBA」11/27 09:00 杯 灰熊VS鹈鹕 [王凯],https://tv.iill.top/NBA/MsBYO8
+「NBA」11/27 09:00 杯 灰熊VS鹈鹕 [英文原声],https://tv.iill.top/NBA/kn8liO
+「NBA」11/27 11:00 杯 马刺VS开拓者 [姜帆 马健 秋童],https://tv.iill.top/NBA/Q3wQ9g
+「NBA」11/27 11:00 杯 马刺VS开拓者 [英文原声],https://tv.iill.top/NBA/Igavrb
+「NBA」11/27 11:00 杯 马刺VS开拓者 [邢晨],https://tv.iill.top/NBA/O4YuFH
+「NBA」11/27 11:00 杯 太阳VS国王 [邵化谦],https://tv.iill.top/NBA/wxSm0s
+「NBA」11/27 11:00 杯 太阳VS国王 [英文原声],https://tv.iill.top/NBA/b62oDP
+「NBA」11/27 11:00 杯 火箭VS勇士 [杨健 曾令旭 小七],https://tv.iill.top/NBA/28BbRy
+「NBA」11/27 11:00 杯 火箭VS勇士 [英文原声],https://tv.iill.top/NBA/c7KGRb
+「NBA」11/27 11:00 杯 火箭VS勇士 [周鹏],https://tv.iill.top/NBA/oL8nrc
+「NBA」11/27 11:00 杯 火箭VS勇士 [拜月宁],https://tv.iill.top/NBA/xnrPYo
+「NBA」11/27 11:00 杯 火箭VS勇士 [莫俊祺],https://tv.iill.top/NBA/VGthv9
+「NBA」11/27 11:00 杯 火箭VS勇士 [洪荒],https://tv.iill.top/NBA/TNirvJ
+「斯诺克」11/27 03:00 英锦赛资格赛晋级轮：周跃龙迎战克拉克 冲正赛！周跃龙迎战克拉克,https://tv.iill.top/Migu/gpuhsW
+「中国匹克球巡回赛」11/27 09:00 “李宁杯”总决赛暨中国匹克球城市挑战赛总决赛团体赛Day1,https://tv.iill.top/Migu/xctfzr
+「国际雪联世界杯」11/27 09:10 2025/2026赛季国际雪联大跳台世界杯 单板滑雪大跳台 男/女子预赛,https://tv.iill.top/Migu/G7oD0X
+「中国足球青少年精英联赛」11/27 10:00 广西平果U21vs昆明城星U21,https://tv.iill.top/Migu/u25zUy
+「中国足球青少年精英联赛」11/27 15:00 青岛西海岸U21vs江西庐山U21,https://tv.iill.top/Migu/tl503F
+「中国足球青少年精英联赛」11/27 15:00 梅州客家U21vs兰州陇原竞技U21,https://tv.iill.top/Migu/lismxf
+「中国足球青少年精英联赛」11/27 15:00 青岛海牛U21vs北京国安U21,https://tv.iill.top/Migu/Xv1aDJ
+「浙江省城市篮球联赛」11/27 19:30 普陀VS宁波,https://tv.iill.top/Migu/5Zh0VQ
+「乒乓球经典赛事」11/27 20:00 【一拍即合·赛事放映厅】混团世界杯倒计时3天·重温全运会混双金牌赛 倒计时3天！混团世界杯看点抢先聊 [周雨 周冠达 小马哥],https://tv.iill.top/Migu/BZTGHv
+「乒乓球经典赛事」11/27 20:00 【一拍即合·赛事放映厅】混团世界杯倒计时3天·重温全运会混双金牌赛 倒计时3天！混团世界杯看点抢先聊 [赛事重温],https://tv.iill.top/Migu/B9HaYB
+「斯诺克」11/27 21:00 英锦赛资格赛晋级轮：庞俊旭龙泽煌出战,https://tv.iill.top/Migu/kH95pF
+「亚冠精英」11/26 00:00 联赛阶段 阿布扎比统一 vs 萨德 [刘焕],https://tv.iill.top/HuiK/AfBujm
+「亚冠精英」11/26 00:00 联赛阶段 阿布扎比统一 vs 萨德 [赛场原声],https://tv.iill.top/HuiK/00GwXn
+「亚冠二级」11/26 00:00 小组赛 伊斯法罕钢铁 vs 艾尔胡塞因 [张天翼],https://tv.iill.top/HuiK/w9EZ8e
+「亚冠二级」11/26 00:00 小组赛 伊斯法罕钢铁 vs 艾尔胡塞因 [赛场原声],https://tv.iill.top/HuiK/Hqi0U0
+「亚冠精英」11/26 02:15 联赛阶段 利雅得新月 vs 巴格达警察 [吴桐],https://tv.iill.top/HuiK/PZxd8R
+「亚冠精英」11/26 02:15 联赛阶段 利雅得新月 vs 巴格达警察 [赛场原声],https://tv.iill.top/HuiK/qC3cio
+「斯诺克」11/26 03:30 英锦赛资格赛第三轮80进48：雷佩凡6 4江俊 张安达轻松晋级,https://tv.iill.top/HuiK/o90SFE
+「NBA」11/26 08:00 杯 老鹰VS奇才 [刘芳宇],https://tv.iill.top/HuiK/W3meh7
+「NBA」11/26 08:00 杯 老鹰VS奇才 [英文原声],https://tv.iill.top/HuiK/VowS0Y
+「NBA」11/26 09:00 杯 魔术VS76人 [张泽欣],https://tv.iill.top/HuiK/zrBCX8
+「NBA」11/26 09:00 杯 魔术VS76人 [英文原声],https://tv.iill.top/HuiK/SkIzDC
+「WCBA 季前赛」11/26 10:00 季前赛 北京首钢园 VS 陕西榆林天泽,https://tv.iill.top/HuiK/J5NK2o
+「WCBA 季前赛」11/26 10:00 季前赛 合肥文旅 VS 福建厦门白鹭,https://tv.iill.top/HuiK/0xYZMP
+「NBA」11/26 12:00 杯 快船VS湖人 [杨健 曾令旭 闫宇峰],https://tv.iill.top/HuiK/axSKlj
+「NBA」11/26 12:00 杯 快船VS湖人 [大史],https://tv.iill.top/HuiK/4gYMTd
+「NBA」11/26 12:00 杯 快船VS湖人 [郑泽鹏],https://tv.iill.top/HuiK/1d6tmG
+「NBA」11/26 12:00 杯 快船VS湖人 [莫俊祺],https://tv.iill.top/HuiK/JSfjdd
+「NBA」11/26 12:00 杯 快船VS湖人 [洪荒],https://tv.iill.top/HuiK/SP0EXK
+「NBA」11/26 12:00 杯 快船VS湖人 [英文原声],https://tv.iill.top/HuiK/r6OfsI
+「CBA」11/26 14:00 联赛新闻发布会,https://tv.iill.top/HuiK/d6lf7V
+「WCBA 季前赛」11/26 14:30 季前赛 新疆天山 VS 浙江稠州银行,https://tv.iill.top/HuiK/G1qAm5
+「WCBA 季前赛」11/26 14:30 季前赛 豫光金铅女篮 VS 大连文体旅,https://tv.iill.top/HuiK/6KV117
+「WCBA 季前赛」11/26 17:00 季前赛 东莞新彤盛 VS 江苏南钢,https://tv.iill.top/HuiK/DA9khP
+「WCBA 季前赛」11/26 17:00 季前赛 山西竹叶青酒 VS 上海浦发银行,https://tv.iill.top/HuiK/by0V1N
+「亚冠精英」11/26 18:00 联赛阶段 蔚山HD vs 武里南联 [涂远],https://tv.iill.top/HuiK/dlVjan
+「亚冠精英」11/26 18:00 联赛阶段 蔚山HD vs 武里南联 [赛场原声],https://tv.iill.top/HuiK/s0tjVv
+「乒乓球经典赛事」11/26 19:00 【一拍即合·赛事放映厅】畅聊“咚咚大王”热血赛场路·重温全运男团金牌赛 热血历险：聊聊樊振东如何征服赛场 [赛事重温],https://tv.iill.top/HuiK/FFh0Un
+「乒乓球经典赛事」11/26 19:00 【一拍即合·赛事放映厅】畅聊“咚咚大王”热血赛场路·重温全运男团金牌赛 热血历险：聊聊樊振东如何征服赛场 [周雨 程靖淇 周冠达],https://tv.iill.top/HuiK/mzK3z9
+「PEL」11/26 19:00 2025和平精英全球总决赛 精英赛第三天,https://tv.iill.top/HuiK/rxuLB3
+「浙江省城市篮球联赛」11/26 19:30 嘉兴VS台州湾新区,https://tv.iill.top/HuiK/ca8UCu
+「WCBA 季前赛」11/26 19:30 季前赛 四川蜀道远达 VS 山东赤水河酒,https://tv.iill.top/HuiK/k8N4hN
+「WCBA 季前赛」11/26 19:30 季前赛 石家庄英励 VS 武汉盛帆黄鹤,https://tv.iill.top/HuiK/3hSpjj
+「U17亚洲杯」11/26 20:15 亚冠精英联赛阶段 上海申花 vs 神户胜利船 [娄一晨 刘越 孙蕊],https://tv.iill.top/HuiK/SHQYM2
+「亚冠二级」11/26 20:15 小组赛 本国联队 vs 佩西比萬隆 [盛斌],https://tv.iill.top/HuiK/IJc5Qd
+「亚冠二级」11/26 20:15 小组赛 本国联队 vs 佩西比萬隆 [赛场原声],https://tv.iill.top/HuiK/insvhS
+「亚冠二级」11/26 20:15 小组赛 曼谷联 vs 雪兰莪 [鹿中原],https://tv.iill.top/HuiK/lr5I1L
+「亚冠二级」11/26 20:15 小组赛 曼谷联 vs 雪兰莪 [赛场原声],https://tv.iill.top/HuiK/4P8EYw
+「斯诺克」11/26 21:00 英锦赛资格赛晋级轮：袁思俊PK霍尔特 吕昊天出战 审判日！袁思俊吕昊天出战 [桌次切换],https://tv.iill.top/HuiK/clpfLA
+「斯诺克」11/26 21:00 英锦赛资格赛晋级轮：袁思俊PK霍尔特 吕昊天出战 审判日！袁思俊吕昊天出战 [1号桌],https://tv.iill.top/HuiK/XJxjL4
+「斯诺克」11/26 21:00 英锦赛资格赛晋级轮：袁思俊PK霍尔特 吕昊天出战 审判日！袁思俊吕昊天出战 [2号桌],https://tv.iill.top/HuiK/tdxNiR
+「斯诺克」11/26 21:00 英锦赛资格赛晋级轮：袁思俊PK霍尔特 吕昊天出战 审判日！袁思俊吕昊天出战 [3号桌],https://tv.iill.top/HuiK/CqrdSC
+「斯诺克」11/26 21:00 英锦赛资格赛晋级轮：袁思俊PK霍尔特 吕昊天出战 审判日！袁思俊吕昊天出战 [4号桌],https://tv.iill.top/HuiK/LnilOs
+「亚冠二级」11/26 21:45 小组赛 伊提洛尔 vs 利雅得胜利 [刘畅],https://tv.iill.top/HuiK/SMq8nO
+「亚冠二级」11/26 21:45 小组赛 伊提洛尔 vs 利雅得胜利 [赛场原声],https://tv.iill.top/HuiK/I3ZlLA
+「亚冠二级」11/26 21:45 小组赛 安迪扬 vs 阿卡达格 [周楚雄],https://tv.iill.top/HuiK/f0Xjnl
+「亚冠二级」11/26 21:45 小组赛 安迪扬 vs 阿卡达格 [赛场原声],https://tv.iill.top/HuiK/0df20H
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
@@ -4096,10 +4076,6 @@ Now財經台,https://yang-1989.eu.org/live/now-333
 Now Sports 精選,https://yang-1989.eu.org/live/now-630
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
-ViuTV 全運1台,https://yang-1989.eu.org/live/ViuTV-1
-ViuTV 全運2台,https://yang-1989.eu.org/live/ViuTV-2
-ViuTV 全運3台,https://yang-1989.eu.org/live/ViuTV-3
-ViuTV 全運4台,https://yang-1989.eu.org/live/ViuTV-4
 HOY 國際財經台「限HK」,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV「限HK」,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY 資訊台「限HK」,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
@@ -4291,18 +4267,18 @@ Channel U,http://cdn6.163189.xyz/163189/chu
 第一财经,https://cdn3.163189.xyz/163189/dycj
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,http://i.iill.top:12838/gztv/zhonghe
-广州新闻,http://i.iill.top:12838/gztv/xinwen
-广州法治,http://i.iill.top:12838/gztv/fazhi
-广州南国都市,http://i.iill.top:12838/gztv/shenghuo
-东方卫视,http://i.iill.top:12838/sh/dfws
-五星体育,http://i.iill.top:12838/sh/wxty
-第一财经,http://i.iill.top:12838/sh/dycj
-上海新闻综合,http://i.iill.top:12838/sh/xwzh
-上海都市频道,http://i.iill.top:12838/sh/dspd
-新纪实,http://i.iill.top:12838/sh/xjs
-魔都眼,http://i.iill.top:12838/sh/mdy
-爱上海,http://i.iill.top:12838/sh/ash
+广州综合,http://cn.yycx.eu.org:12838/gztv/zhonghe
+广州新闻,http://cn.yycx.eu.org:12838/gztv/xinwen
+广州法治,http://cn.yycx.eu.org:12838/gztv/fazhi
+广州南国都市,http://cn.yycx.eu.org:12838/gztv/shenghuo
+东方卫视,http://cn.yycx.eu.org:12838/sh/dfws
+五星体育,http://cn.yycx.eu.org:12838/sh/wxty
+第一财经,http://cn.yycx.eu.org:12838/sh/dycj
+上海新闻综合,http://cn.yycx.eu.org:12838/sh/xwzh
+上海都市频道,http://cn.yycx.eu.org:12838/sh/dspd
+新纪实,http://cn.yycx.eu.org:12838/sh/xjs
+魔都眼,http://cn.yycx.eu.org:12838/sh/mdy
+爱上海,http://cn.yycx.eu.org:12838/sh/ash
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
