@@ -3966,184 +3966,148 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
-「法甲」00:15 联赛 勒阿弗尔 vs 里尔 [李永熙],https://tv.iill.top/FB/IxfF44
-「法甲」00:15 联赛 勒阿弗尔 vs 里尔 [赛场原声],https://tv.iill.top/FB/BgppGT
-「法甲」00:15 联赛 昂热 vs 朗斯 [盛斌],https://tv.iill.top/FB/uMrlBP
-「法甲」00:15 联赛 昂热 vs 朗斯 [赛场原声],https://tv.iill.top/FB/0pOGHm
-「法甲」00:15 联赛 洛里昂 vs 尼斯 [邵煊],https://tv.iill.top/FB/gRenKc
-「法甲」00:15 联赛 洛里昂 vs 尼斯 [赛场原声],https://tv.iill.top/FB/hkIdpF
-「英超」00:30 联赛 切尔西 vs 阿森纳 [詹俊 张路 李子琪],https://tv.iill.top/FB/1PguNo
-「英超」00:30 联赛 切尔西 vs 阿森纳 [球星视角],https://tv.iill.top/FB/ug4hxx
-「英超」00:30 联赛 切尔西 vs 阿森纳 [陈凯冬 陆毅隽],https://tv.iill.top/FB/qgGhxW
-「英超」00:30 联赛 切尔西 vs 阿森纳 [赛场原声],https://tv.iill.top/FB/0asz91
-「英超」00:30 联赛 切尔西 vs 阿森纳 [英文原声],https://tv.iill.top/FB/kX7L9I
-「英超」00:30 联赛 切尔西 vs 阿森纳 [洪荒],https://tv.iill.top/FB/TZfep2
-「英超」00:30 联赛 切尔西 vs 阿森纳 [詹俊 张路 李子琪],https://tv.iill.top/FB/SzKe6N
-「英超」00:30 联赛 切尔西 vs 阿森纳 [陈渤胄],https://tv.iill.top/FB/JFC5ac
-「德甲」00:30 联赛 法兰克福 vs 沃尔夫斯堡 [赵宇],https://tv.iill.top/FB/tAPYSW
-「德甲」00:30 联赛 法兰克福 vs 沃尔夫斯堡 [赛场原声],https://tv.iill.top/FB/wgxAdx
-「意甲」01:00 联赛 亚特兰大 vs 佛罗伦萨 [乔迁],https://tv.iill.top/FB/3mwE6D
-「意甲」01:00 联赛 亚特兰大 vs 佛罗伦萨 [赛场原声],https://tv.iill.top/FB/0BquKo
-「西甲」01:30 联赛 塞尔塔 vs 西班牙人 [周楚雄],https://tv.iill.top/FB/sfsERz
-「西甲」01:30 联赛 塞尔塔 vs 西班牙人 [赛场原声],https://tv.iill.top/FB/Pq6ZH0
-「德甲」02:30 联赛 弗赖堡 vs 美因茨 [王子睿],https://tv.iill.top/FB/Z8WWJn
-「德甲」02:30 联赛 弗赖堡 vs 美因茨 [赛场原声],https://tv.iill.top/FB/O12qhr
-「法甲」03:45 联赛 里昂 vs 南特 [乔迁],https://tv.iill.top/FB/i1aUfa
-「法甲」03:45 联赛 里昂 vs 南特 [赛场原声],https://tv.iill.top/FB/IjW7k6
-「意甲」03:45 联赛 罗马 vs 那不勒斯 [涂远 李彦],https://tv.iill.top/FB/mEktOu
-「意甲」03:45 联赛 罗马 vs 那不勒斯 [赛场原声],https://tv.iill.top/FB/Uo0NKY
-「意甲」03:45 联赛 罗马 vs 那不勒斯 [涂远 李彦],https://tv.iill.top/FB/GWG4O1
-「西甲」04:00 联赛 赫罗纳 vs 皇家马德里 [孙雷 贺宇],https://tv.iill.top/FB/7gRrJX
-「西甲」04:00 联赛 赫罗纳 vs 皇家马德里 [赛场原声],https://tv.iill.top/FB/xcONIw
-「西甲」04:00 联赛 赫罗纳 vs 皇家马德里 [孙雷 贺宇],https://tv.iill.top/FB/etW9ny
-「NBA」04:00 常规赛 火箭VS爵士 [王冠证],https://tv.iill.top/NBA/t7YqT4
-「NBA」04:00 常规赛 火箭VS爵士 [英文原声],https://tv.iill.top/NBA/9B8kvU
-「NBA」07:00 常规赛 凯尔特人VS骑士 [季孟年],https://tv.iill.top/NBA/XHhYgf
-「NBA」07:00 常规赛 凯尔特人VS骑士 [英文原声],https://tv.iill.top/NBA/tu1vJZ
-「NBA」07:00 常规赛 猛龙VS尼克斯 [刘圳展],https://tv.iill.top/NBA/BgZrSw
-「NBA」07:00 常规赛 猛龙VS尼克斯 [英文原声],https://tv.iill.top/NBA/WnN3ct
-「NBA」07:00 常规赛 老鹰VS76人 [贾磊],https://tv.iill.top/NBA/SVsH7O
-「NBA」07:00 常规赛 老鹰VS76人 [英文原声],https://tv.iill.top/NBA/vKkEIT
-「NBA」07:00 常规赛 雷霆VS开拓者 [蔡凯臣 闫宇峰],https://tv.iill.top/NBA/qweaRf
-「NBA」07:00 常规赛 雷霆VS开拓者 [邢晨],https://tv.iill.top/NBA/XREneo
-「NBA」07:00 常规赛 雷霆VS开拓者 [英文原声],https://tv.iill.top/NBA/XCmriI
-「NBA」08:00 常规赛 马刺VS森林狼 [王晓晨],https://tv.iill.top/NBA/fhCjaz
-「NBA」08:00 常规赛 马刺VS森林狼 [英文原声],https://tv.iill.top/NBA/czkX53
-「NBA」10:00 常规赛 灰熊VS国王 [徐秦威],https://tv.iill.top/NBA/Cb3Xxi
-「NBA」10:00 常规赛 灰熊VS国王 [英文原声],https://tv.iill.top/NBA/UbWTeV
-「NBA」10:30 常规赛 鹈鹕VS湖人 [孙博 曾令旭 佳依],https://tv.iill.top/NBA/ixVOCp
-「NBA」10:30 常规赛 鹈鹕VS湖人 [郑泽鹏],https://tv.iill.top/NBA/xV9iIi
-「NBA」10:30 常规赛 鹈鹕VS湖人 [英文原声],https://tv.iill.top/NBA/c3gNQY
-「斯诺克」03:00 英锦赛正赛32进16轮次：肖国栋PK庞俊旭 马克·威廉姆斯出战 [朱峰立],https://tv.iill.top/Migu/hhjuAj
-「斯诺克」03:00 英锦赛正赛32进16轮次：肖国栋PK庞俊旭 马克·威廉姆斯出战 [朱蒙],https://tv.iill.top/Migu/zvfJmj
-「斯诺克」03:00 英锦赛正赛32进16轮次：肖国栋PK庞俊旭 马克·威廉姆斯出战 [1号桌],https://tv.iill.top/Migu/NS8Ugk
-「斯诺克」03:00 英锦赛正赛32进16轮次：肖国栋PK庞俊旭 马克·威廉姆斯出战 [2号桌],https://tv.iill.top/Migu/AgfqIA
-「国际乒联混合团体世界杯」09:00 成都Day2训练馆 【训练馆视角】直击赛前训练,https://tv.iill.top/Migu/2te1aU
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [训练馆],https://tv.iill.top/Migu/rOExSo
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [凌维康 小马哥],https://tv.iill.top/Migu/3O3Cqh
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [1号桌],https://tv.iill.top/Migu/RXJ4ri
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [2号桌],https://tv.iill.top/Migu/b0sakh
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [混采区],https://tv.iill.top/Migu/S0iiK7
-「国际乒联混合团体世界杯」10:00 成都：小组循环赛第2轮 韩国PK中国台北 日本迎战印度 [2号桌],https://tv.iill.top/Migu/NK2fZH
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [训练馆],https://tv.iill.top/Migu/sAF8dF
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [侯英超 马特 周冠达],https://tv.iill.top/Migu/DAzdnt
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [肖扬 朱子恒],https://tv.iill.top/Migu/3WF63D
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [1号桌],https://tv.iill.top/Migu/ntxEFp
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [2号桌],https://tv.iill.top/Migu/YHjUuE
-「国际乒联混合团体世界杯」17:00 成都：小组循环赛第2轮 国乒对阵埃及 焦点战德法PK [混采区],https://tv.iill.top/Migu/9MTixX
-「WCBA」19:30 常规赛A组 浙江稠州银行 VS 上海浦发银行,https://tv.iill.top/Migu/Bm5eXP
-「WCBA」19:30 常规赛A组 四川蜀道远达 VS 陕西榆林天泽,https://tv.iill.top/Migu/ZXfhph
-「斯诺克」21:00 英锦赛正赛32进16轮次：丁俊晖PK徐思 赵心童迎战龙泽煌 [秦正、庞卫国],https://tv.iill.top/Migu/hPcd5G
-「斯诺克」21:00 英锦赛正赛32进16轮次：丁俊晖PK徐思 赵心童迎战龙泽煌 [1号桌],https://tv.iill.top/Migu/3CNnvn
-「斯诺克」21:00 英锦赛正赛32进16轮次：丁俊晖PK徐思 赵心童迎战龙泽煌 [2号桌],https://tv.iill.top/Migu/V512EC
-「斯诺克」21:00 英锦赛正赛32进16轮次：丁俊晖PK徐思 赵心童迎战龙泽煌 [解说],https://tv.iill.top/Migu/jnUwcf
-「法甲」11/30 00:00 联赛 摩纳哥 vs 巴黎圣日耳曼 [鹿中原 王宇],https://tv.iill.top/HuiK/3n31Y0
-「法甲」11/30 00:00 联赛 摩纳哥 vs 巴黎圣日耳曼 [赛场原声],https://tv.iill.top/HuiK/x7ARmw
-「男篮世预赛」11/30 00:00 非洲赛区 突尼斯vs卢旺达,https://tv.iill.top/HuiK/eb1f2c
-「意甲」11/30 01:00 联赛 尤文图斯 vs 卡利亚里 [吴桐 刘腾],https://tv.iill.top/HuiK/4eMpC9
-「意甲」11/30 01:00 联赛 尤文图斯 vs 卡利亚里 [赛场原声],https://tv.iill.top/HuiK/z9RW42
-「英超」11/30 01:30 联赛 埃弗顿 vs 纽卡斯尔联 [刘焕],https://tv.iill.top/HuiK/w9sVB0
-「英超」11/30 01:30 联赛 埃弗顿 vs 纽卡斯尔联 [英文原声],https://tv.iill.top/HuiK/Cx3MGg
-「英超」11/30 01:30 联赛 埃弗顿 vs 纽卡斯尔联 [赛场原声],https://tv.iill.top/HuiK/QcpA6j
-「德甲」11/30 01:30 联赛 勒沃库森 vs 多特蒙德 [沈云怡 秦游夏],https://tv.iill.top/HuiK/70gPhr
-「德甲」11/30 01:30 联赛 勒沃库森 vs 多特蒙德 [赛场原声],https://tv.iill.top/HuiK/X5cquh
-「德甲」11/30 01:30 联赛 勒沃库森 vs 多特蒙德 [沈云怡 秦游夏],https://tv.iill.top/HuiK/JsVHby
-「西甲」11/30 01:30 联赛 莱万特 vs 毕尔巴鄂竞技 [张天翼],https://tv.iill.top/HuiK/BFOEVb
-「西甲」11/30 01:30 联赛 莱万特 vs 毕尔巴鄂竞技 [赛场原声],https://tv.iill.top/HuiK/D6rOqN
-「法甲」11/30 02:00 联赛 巴黎 vs 欧塞尔 [盛斌],https://tv.iill.top/HuiK/A9hAHw
-「法甲」11/30 02:00 联赛 巴黎 vs 欧塞尔 [赛场原声],https://tv.iill.top/HuiK/9du5iF
-「斯诺克」11/30 03:00 英锦赛正赛32进16轮次：希金斯6 2沃拉斯顿、墨菲晋级 [朱蒙],https://tv.iill.top/HuiK/cDa5n7
-「斯诺克」11/30 03:00 英锦赛正赛32进16轮次：希金斯6 2沃拉斯顿、墨菲晋级 [朱峰立],https://tv.iill.top/HuiK/fPE2kJ
-「斯诺克」11/30 03:00 英锦赛正赛32进16轮次：希金斯6 2沃拉斯顿、墨菲晋级 [1号桌],https://tv.iill.top/HuiK/tQWiCe
-「斯诺克」11/30 03:00 英锦赛正赛32进16轮次：希金斯6 2沃拉斯顿、墨菲晋级 [2号桌],https://tv.iill.top/HuiK/jfIkO8
-「意甲」11/30 03:45 联赛 AC米兰 vs 拉齐奥 [石庆圣 李彦],https://tv.iill.top/HuiK/4kaUL3
-「意甲」11/30 03:45 联赛 AC米兰 vs 拉齐奥 [赛场原声],https://tv.iill.top/HuiK/1yqcQk
-「英超」11/30 04:00 联赛 托特纳姆热刺 vs 富勒姆 [苏东 贺宇],https://tv.iill.top/HuiK/qfwa5z
-「英超」11/30 04:00 联赛 托特纳姆热刺 vs 富勒姆 [英文原声],https://tv.iill.top/HuiK/5E5p08
-「英超」11/30 04:00 联赛 托特纳姆热刺 vs 富勒姆 [赛场原声],https://tv.iill.top/HuiK/grP8n5
-「西甲」11/30 04:00 联赛 马德里竞技 vs 皇家奥维耶多 [孙雨轩 王宇],https://tv.iill.top/HuiK/KufwxN
-「西甲」11/30 04:00 联赛 马德里竞技 vs 皇家奥维耶多 [赛场原声],https://tv.iill.top/HuiK/HvMmaJ
-「西甲」11/30 04:00 联赛 马德里竞技 vs 皇家奥维耶多 [孙雨轩 王宇],https://tv.iill.top/HuiK/QT3uHa
-「法甲」11/30 04:05 联赛 马赛 vs 图卢兹 [刘一臻],https://tv.iill.top/HuiK/VqWxnX
-「法甲」11/30 04:05 联赛 马赛 vs 图卢兹 [赛场原声],https://tv.iill.top/HuiK/nUVQzR
-「NBA」11/30 06:00 常规赛 凯尔特人VS森林狼 [25/26赛季常规赛全场集锦：凯尔特人115:119森林狼（20251130）],https://tv.iill.top/HuiK/HUVPDx
-「NBA」11/30 06:00 常规赛 凯尔特人VS森林狼 [蔡凯臣],https://tv.iill.top/HuiK/YmPZz5
-「NBA」11/30 06:00 常规赛 凯尔特人VS森林狼 [英文原声],https://tv.iill.top/HuiK/KSLV5P
-「NBA」11/30 07:00 常规赛 猛龙VS黄蜂 [周赫],https://tv.iill.top/HuiK/Rd6iBc
-「NBA」11/30 07:00 常规赛 猛龙VS黄蜂 [英文原声],https://tv.iill.top/HuiK/Aa54SG
-「马拉松系列赛」11/30 07:30 2025肇庆马拉松 肇庆、婺源、黄山、云浮、共青城五场马拉松,https://tv.iill.top/HuiK/sADgOw
-「NBA」11/30 08:30 常规赛 公牛VS步行者 [25/26赛季常规赛全场集锦：公牛101:103步行者（20251130）],https://tv.iill.top/HuiK/t9HKgk
-「NBA」11/30 08:30 常规赛 公牛VS步行者 [张泽欣],https://tv.iill.top/HuiK/3pUgzN
-「NBA」11/30 08:30 常规赛 公牛VS步行者 [英文原声],https://tv.iill.top/HuiK/MQy9Qd
-「NBA」11/30 09:00 常规赛 活塞VS热火 [贾磊],https://tv.iill.top/HuiK/bubODT
-「NBA」11/30 09:00 常规赛 活塞VS热火 [英文原声],https://tv.iill.top/HuiK/4HCmBd
-「NBA」11/30 09:00 常规赛 篮网VS雄鹿 [全场集锦],https://tv.iill.top/HuiK/4eOmv4
-「NBA」11/30 09:00 常规赛 篮网VS雄鹿 [徐秦威],https://tv.iill.top/HuiK/xWjKtP
-「NBA」11/30 09:00 常规赛 篮网VS雄鹿 [英文原声],https://tv.iill.top/HuiK/26PWNN
-「中国匹克球巡回赛」11/30 09:00 “李宁杯”总决赛暨中国匹克球城市挑战赛总决赛单项赛Day2,https://tv.iill.top/HuiK/QwQSdm
-「NBA」11/30 09:30 常规赛 鹈鹕VS勇士 [连睿 周鹏 小七],https://tv.iill.top/HuiK/WDK0dX
-「NBA」11/30 09:30 常规赛 鹈鹕VS勇士 [拜月宁],https://tv.iill.top/HuiK/QJgBtP
-「NBA」11/30 09:30 常规赛 鹈鹕VS勇士 [英文原声],https://tv.iill.top/HuiK/zTrkTP
-「国际乒联混合团体世界杯」11/30 09:30 成都Day1训练馆 【训练馆视角】直击赛前训练,https://tv.iill.top/HuiK/cTIV5o
-「NBA」11/30 10:00 常规赛 掘金VS太阳 [杨健 马健 裴优],https://tv.iill.top/HuiK/c1R4jk
-「NBA」11/30 10:00 常规赛 掘金VS太阳 [英文原声],https://tv.iill.top/HuiK/tizkkt
-「中国足球青少年精英联赛」11/30 11:00 常规赛 独行侠VS快船 [李天宇 徐咏 魏欣怡],https://tv.iill.top/HuiK/a9k1KQ
-「NBA」11/30 11:00 常规赛 独行侠VS快船 [英文原声],https://tv.iill.top/HuiK/E9hgZX
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [国际乒联混团世界杯],https://tv.iill.top/HuiK/wgdu72
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [2号桌],https://tv.iill.top/HuiK/6xewNN
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [朱子恒 凌维康],https://tv.iill.top/HuiK/6gY6KN
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [训练馆],https://tv.iill.top/HuiK/u7gKqm
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [1号桌],https://tv.iill.top/HuiK/DmFUed
-「国际乒联混合团体世界杯」11/30 11:00 成都：小组循环赛第1轮 迎开门红！国乒8 1中国香港 [混采区],https://tv.iill.top/HuiK/ewGkon
-「羽超联赛」11/30 12:00 羽毛球超级联赛第四轮：厦门银行1 4深圳川崎羽众,https://tv.iill.top/HuiK/SNdobq
-「羽超联赛」11/30 12:00 羽毛球超级联赛第四轮：青岛仁洲2 3辽宁极兔,https://tv.iill.top/HuiK/EcM2Aa
-「中国足球青少年精英联赛」11/30 16:00 张继科杯混合团体1/16、1/8及1/4淘汰赛,https://tv.iill.top/HuiK/lRHrjJ
-「国际乒联混合团体世界杯」11/30 17:00 成都：小组循环赛第1轮 张本率队开门红 法国8 0大胜 [国际乒联混团世界杯],https://tv.iill.top/HuiK/DooqSg
-「国际乒联混合团体世界杯」11/30 17:00 成都：小组循环赛第1轮 张本率队开门红 法国8 0大胜 [混采区],https://tv.iill.top/HuiK/WmbYtu
-「国际乒联混合团体世界杯」11/30 17:00 成都：小组循环赛第1轮 张本率队开门红 法国8 0大胜 [2号桌],https://tv.iill.top/HuiK/egNtJh
-「国际乒联混合团体世界杯」11/30 17:00 成都：小组循环赛第1轮 张本率队开门红 法国8 0大胜 [训练馆],https://tv.iill.top/HuiK/CAgTdT
-「国际乒联混合团体世界杯」11/30 17:00 成都：小组循环赛第1轮 张本率队开门红 法国8 0大胜 [1号桌],https://tv.iill.top/HuiK/tUOvpC
-「男篮世预赛」11/30 18:00 非洲赛区 喀麦隆vs南苏丹,https://tv.iill.top/HuiK/JIT2WG
-「和平精英全球总决赛」11/30 18:30 2025 绿组第三天 2025 小组赛 第三天,https://tv.iill.top/HuiK/83KeRl
-「羽超联赛」11/30 18:30 羽毛球超级联赛第四轮：瑞昌碧源4 1江苏羽超,https://tv.iill.top/HuiK/KAnXcU
-「羽超联赛」11/30 18:30 羽毛球超级联赛第四轮：浙江竞体2 3芜湖兴航,https://tv.iill.top/HuiK/3wENui
-「意甲」11/30 19:30 联赛 莱切 vs 都灵 [石庆圣],https://tv.iill.top/HuiK/GCsDt9
-「意甲」11/30 19:30 联赛 莱切 vs 都灵 [赛场原声],https://tv.iill.top/HuiK/AoWFr1
-「浙江省城市篮球联赛」11/30 19:30 杭州97 60庆元,https://tv.iill.top/HuiK/jKLnSQ
-「浙江省城市篮球联赛」11/30 19:30 金华53 60湖州,https://tv.iill.top/HuiK/VXI7KD
-「WCBA」11/30 19:30 常规赛A组 东莞新彤盛 VS 江苏南钢 [殷雪怡],https://tv.iill.top/HuiK/OIOTWG
-「U17亚洲杯」11/30 20:00 英超联赛 水晶宫 vs 曼联 [詹俊 张路 林梦鸽],https://tv.iill.top/HuiK/fV5DGA
-「英超」11/30 20:00 联赛 水晶宫 vs 曼联 [陈曦 何辉],https://tv.iill.top/HuiK/ATxwmk
-「英超」11/30 20:00 联赛 水晶宫 vs 曼联 [赛场原声],https://tv.iill.top/HuiK/cRrOri
-「英超」11/30 20:00 联赛 水晶宫 vs 曼联 [英文原声],https://tv.iill.top/HuiK/nFKTKp
-「男篮世预赛」11/30 20:30 亚洲赛区 印度vs沙特阿拉伯,https://tv.iill.top/HuiK/OO7q64
-「西甲」11/30 21:00 联赛 皇家社会 vs 比利亚雷亚尔 [张天翼],https://tv.iill.top/HuiK/nJ7kw0
-「西甲」11/30 21:00 联赛 皇家社会 vs 比利亚雷亚尔 [赛场原声],https://tv.iill.top/HuiK/8Gxg1J
-「张继科杯全民乒乓球争霸赛」11/30 21:00 张继科杯混合团体半决赛、决赛及颁奖仪式 【张继科现场解说】半决赛、决赛及颁奖仪式 [张继科],https://tv.iill.top/HuiK/0iIl9X
-「男篮世预赛」11/30 21:00 非洲赛区 利比亚vs佛得角,https://tv.iill.top/HuiK/aITC8z
-「斯诺克」11/30 21:00 英锦赛正赛32进16轮次：吴宜泽6 4霍尔特 尼尔·罗伯逊晋级 [主播切换],https://tv.iill.top/HuiK/f0Eank
-「斯诺克」11/30 21:00 英锦赛正赛32进16轮次：吴宜泽6 4霍尔特 尼尔·罗伯逊晋级 [1号桌],https://tv.iill.top/HuiK/cjijb5
-「斯诺克」11/30 21:00 英锦赛正赛32进16轮次：吴宜泽6 4霍尔特 尼尔·罗伯逊晋级 [2号桌],https://tv.iill.top/HuiK/3J6Ep9
-「法甲」11/30 22:00 联赛 斯特拉斯堡 vs 布雷斯特 [鹿中原],https://tv.iill.top/HuiK/LbwPRl
-「法甲」11/30 22:00 联赛 斯特拉斯堡 vs 布雷斯特 [赛场原声],https://tv.iill.top/HuiK/4T212f
-「意甲」11/30 22:00 联赛 比萨 vs 国际米兰 [刘腾 黄健翔],https://tv.iill.top/HuiK/bEXqlX
-「意甲」11/30 22:00 联赛 比萨 vs 国际米兰 [赛场原声],https://tv.iill.top/HuiK/pUbgvK
-「男篮世预赛」11/30 22:00 亚洲赛区 伊拉克vs伊朗,https://tv.iill.top/HuiK/Mak5Pt
-「英超」11/30 22:05 联赛 西汉姆联 vs 利物浦 [娄一晨 刘越 邵凌霄],https://tv.iill.top/HuiK/Z4X0GN
-「英超」11/30 22:05 联赛 西汉姆联 vs 利物浦 [英文原声],https://tv.iill.top/HuiK/dPl7xO
-「英超」11/30 22:05 联赛 西汉姆联 vs 利物浦 [4K赛场原声],https://tv.iill.top/HuiK/UlnbfX
-「英超」11/30 22:05 联赛 诺丁汉森林 vs 布赖顿 [苗锟],https://tv.iill.top/HuiK/RZPdNS
-「英超」11/30 22:05 联赛 诺丁汉森林 vs 布赖顿 [赛场原声],https://tv.iill.top/HuiK/drEax9
-「英超」11/30 22:05 联赛 诺丁汉森林 vs 布赖顿 [英文原声],https://tv.iill.top/HuiK/cXFN2x
-「英超」11/30 22:05 联赛 阿斯顿维拉 vs 狼队 [吴桐 马延峰],https://tv.iill.top/HuiK/MY7bbX
-「英超」11/30 22:05 联赛 阿斯顿维拉 vs 狼队 [叶紫辰 陆毅隽],https://tv.iill.top/HuiK/6kropD
-「英超」11/30 22:05 联赛 阿斯顿维拉 vs 狼队 [赛场原声],https://tv.iill.top/HuiK/vDHwwP
-「英超」11/30 22:05 联赛 阿斯顿维拉 vs 狼队 [英文原声],https://tv.iill.top/HuiK/Vm4Oa8
-「德甲」11/30 22:30 联赛 汉堡 vs 斯图加特 [吴子越],https://tv.iill.top/HuiK/rt66Ni
-「德甲」11/30 22:30 联赛 汉堡 vs 斯图加特 [赛场原声],https://tv.iill.top/HuiK/A2Tf6Z
-「男篮世预赛」11/30 23:00 亚洲赛区 叙利亚vs约旦,https://tv.iill.top/HuiK/bDayJQ
-「西甲」11/30 23:15 联赛 塞维利亚 vs 皇家贝蒂斯 [李霄],https://tv.iill.top/HuiK/iHXKlI
-「西甲」11/30 23:15 联赛 塞维利亚 vs 皇家贝蒂斯 [赛场原声],https://tv.iill.top/HuiK/iA0otD
+「西甲」04:00 联赛 巴列卡诺 vs 瓦伦西亚 [兰子非],https://tv.iill.top/FB/ItSQra
+「西甲」04:00 联赛 巴列卡诺 vs 瓦伦西亚 [赛场原声],https://tv.iill.top/FB/2IR7Bz
+「NBA」08:00 常规赛 雄鹿VS奇才 [王凯],https://tv.iill.top/NBA/mKbPr6
+「NBA」08:00 常规赛 雄鹿VS奇才 [英文原声],https://tv.iill.top/NBA/Rh3Yiw
+「NBA」08:00 常规赛 老鹰VS活塞 [殷文玉],https://tv.iill.top/NBA/A7xwcz
+「NBA」08:00 常规赛 老鹰VS活塞 [英文原声],https://tv.iill.top/NBA/WmRmh1
+「NBA」08:00 常规赛 骑士VS步行者 [贾磊],https://tv.iill.top/NBA/iGFTGZ
+「NBA」08:00 常规赛 骑士VS步行者 [英文原声],https://tv.iill.top/NBA/Si8JKL
+「NBA」08:30 常规赛 快船VS热火 [姜帆 王润陶],https://tv.iill.top/NBA/R8Ep9H
+「NBA」08:30 常规赛 快船VS热火 [英文原声],https://tv.iill.top/NBA/5lMgF9
+「NBA」08:30 常规赛 公牛VS魔术 [张泽欣],https://tv.iill.top/NBA/lALUVg
+「NBA」08:30 常规赛 公牛VS魔术 [英文原声],https://tv.iill.top/NBA/lnhzsW
+「NBA」08:30 常规赛 黄蜂VS篮网 [董倡硕],https://tv.iill.top/NBA/HzsZdK
+「NBA」08:30 常规赛 黄蜂VS篮网 [英文原声],https://tv.iill.top/NBA/HQXefu
+「NBA」10:00 常规赛 火箭VS爵士 [连睿 曾令旭 周鹏],https://tv.iill.top/NBA/nWpM88
+「NBA」10:00 常规赛 火箭VS爵士 [英文原声],https://tv.iill.top/NBA/TnCZpt
+「NBA」10:00 常规赛 独行侠VS掘金 [邵化谦 季孟年],https://tv.iill.top/NBA/9gghX9
+「NBA」10:00 常规赛 独行侠VS掘金 [英文原声],https://tv.iill.top/NBA/OUIhE3
+「NBA」11:00 常规赛 太阳VS湖人 [杨健 陈正昊 徐咏],https://tv.iill.top/NBA/EY6c5S
+「NBA」11:00 常规赛 太阳VS湖人 [郑泽鹏],https://tv.iill.top/NBA/ktAZPy
+「NBA」11:00 常规赛 太阳VS湖人 [莫俊祺],https://tv.iill.top/NBA/9sriM2
+「NBA」11:00 常规赛 太阳VS湖人 [洪荒],https://tv.iill.top/NBA/kgs8mf
+「NBA」11:00 常规赛 太阳VS湖人 [英文原声],https://tv.iill.top/NBA/LGUGrz
+「斯诺克」03:00 英锦赛正赛32进16轮次：张安达PK加里·威尔逊 马克·艾伦出战,https://tv.iill.top/Migu/yw4dqs
+「国际乒联混合团体世界杯」09:00 成都Day3训练馆 【训练馆视角】直击赛前训练,https://tv.iill.top/Migu/sFRriw
+「中国足球青少年精英联赛」10:00 广西平果U21vs兰州陇原竞技U21,https://tv.iill.top/Migu/JVJXqe
+「国际乒联混合团体世界杯」10:00 成都：小组循环赛第3轮 出线之争！法国对决罗马尼亚 [训练馆],https://tv.iill.top/Migu/VGa7wB
+「国际乒联混合团体世界杯」10:00 成都：小组循环赛第3轮 出线之争！法国对决罗马尼亚 [周冠达 小马哥],https://tv.iill.top/Migu/d4aOQL
+「国际乒联混合团体世界杯」10:00 成都：小组循环赛第3轮 出线之争！法国对决罗马尼亚 [1号桌],https://tv.iill.top/Migu/8b6z7m
+「国际乒联混合团体世界杯」10:00 成都：小组循环赛第3轮 出线之争！法国对决罗马尼亚 [2号桌],https://tv.iill.top/Migu/rfEohI
+「国际乒联混合团体世界杯」10:00 成都：小组循环赛第3轮 出线之争！法国对决罗马尼亚 [混采区],https://tv.iill.top/Migu/wN7BvZ
+「中国足球青少年精英联赛」15:00 青岛海牛U21vs昆明城星U21,https://tv.iill.top/Migu/mvA9Av
+「中国足球青少年精英联赛」15:00 北京国安U21vs江西庐山U21,https://tv.iill.top/Migu/QqSL5h
+「中国足球青少年精英联赛」15:00 青岛西海岸U21vs梅州客家U21,https://tv.iill.top/Migu/jMKpEx
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [训练馆],https://tv.iill.top/Migu/yEtcvT
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [侯英超 马特 周冠达],https://tv.iill.top/Migu/Ui1D3B
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [刘馨蕊 肖扬],https://tv.iill.top/Migu/ektz1l
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [1号桌],https://tv.iill.top/Migu/YjWwB7
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [2号桌],https://tv.iill.top/Migu/hNr7Iz
+「国际乒联混合团体世界杯」17:00 成都：小组循环赛第3轮 国乒小组赛末战智利 中国台北对阵瑞典 [混采区],https://tv.iill.top/Migu/yazR4P
+「和平精英全球总决赛」18:30 2025 小组赛红组 第一天 和平精英小组赛红组Day1,https://tv.iill.top/Migu/Ykjs41
+「浙江省城市篮球联赛」19:30 舟山VS诸暨,https://tv.iill.top/Migu/BamDRu
+「WCBA」19:30 常规赛B组 大连文体旅 VS 厦门银行,https://tv.iill.top/Migu/g7Gfnp
+「WCBA」19:30 常规赛A组 石家庄英励 VS 山东赤水河酒,https://tv.iill.top/Migu/ww8A1x
+「WCBA」19:30 常规赛A组 武汉盛帆黄鹤 VS 山西竹叶青酒,https://tv.iill.top/Migu/ZYx0Kv
+「WCBA」19:30 常规赛A组 北京首钢园 VS 新疆天山,https://tv.iill.top/Migu/DQKcaY
+「斯诺克」21:00 英锦赛正赛32进16轮次：塞尔比迎战雷佩凡 奥沙利文PK周跃龙,https://tv.iill.top/Migu/sOIVCm
+「男篮世预赛」12/01 00:00 非洲赛区 几内亚vs突尼斯,https://tv.iill.top/HuiK/D2jRsJ
+「男篮世预赛」12/01 00:00 欧洲赛区 瑞士vs土耳其,https://tv.iill.top/HuiK/LYYUfm
+「法甲」12/01 00:15 联赛 勒阿弗尔 vs 里尔 [李永熙],https://tv.iill.top/HuiK/dDRyEi
+「法甲」12/01 00:15 联赛 勒阿弗尔 vs 里尔 [赛场原声],https://tv.iill.top/HuiK/Z5kfGo
+「法甲」12/01 00:15 联赛 昂热 vs 朗斯 [盛斌],https://tv.iill.top/HuiK/EifrXB
+「法甲」12/01 00:15 联赛 昂热 vs 朗斯 [赛场原声],https://tv.iill.top/HuiK/UPxxpI
+「法甲」12/01 00:15 联赛 洛里昂 vs 尼斯 [邵煊],https://tv.iill.top/HuiK/kvu7tp
+「法甲」12/01 00:15 联赛 洛里昂 vs 尼斯 [赛场原声],https://tv.iill.top/HuiK/uoeVIj
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [詹俊 张路 李子琪],https://tv.iill.top/HuiK/gkZVzp
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [球星视角],https://tv.iill.top/HuiK/guBo0V
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [陈凯冬 陆毅隽],https://tv.iill.top/HuiK/eiVuH2
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [赛场原声],https://tv.iill.top/HuiK/TAtNbX
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [英文原声],https://tv.iill.top/HuiK/HyAmhF
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [洪荒],https://tv.iill.top/HuiK/jC06mL
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [詹俊 张路 李子琪],https://tv.iill.top/HuiK/QY0QoG
+「英超」12/01 00:30 联赛 切尔西 vs 阿森纳 [陈渤胄],https://tv.iill.top/HuiK/uNxtBQ
+「德甲」12/01 00:30 联赛 法兰克福 vs 沃尔夫斯堡 [赵宇],https://tv.iill.top/HuiK/Mwgoyd
+「德甲」12/01 00:30 联赛 法兰克福 vs 沃尔夫斯堡 [赛场原声],https://tv.iill.top/HuiK/61D9M9
+「男篮世预赛」12/01 00:30 欧洲赛区 立陶宛vs意大利,https://tv.iill.top/HuiK/UqpiUL
+「男篮世预赛」12/01 00:45 欧洲赛区 冰岛vs英国,https://tv.iill.top/HuiK/v65y3b
+「意甲」12/01 01:00 联赛 亚特兰大 vs 佛罗伦萨 [乔迁],https://tv.iill.top/HuiK/XK8cLC
+「意甲」12/01 01:00 联赛 亚特兰大 vs 佛罗伦萨 [赛场原声],https://tv.iill.top/HuiK/PBwndA
+「男篮世预赛」12/01 01:00 欧洲赛区 乌克兰vs丹麦,https://tv.iill.top/HuiK/Qo0yL4
+「男篮世预赛」12/01 01:00 欧洲赛区 葡萄牙vs希腊,https://tv.iill.top/HuiK/zfavoS
+「男篮世预赛」12/01 01:00 欧洲赛区 罗马尼亚vs黑山,https://tv.iill.top/HuiK/Qaamgx
+「西甲」12/01 01:30 联赛 塞尔塔 vs 西班牙人 [周楚雄],https://tv.iill.top/HuiK/VO1WvY
+「西甲」12/01 01:30 联赛 塞尔塔 vs 西班牙人 [赛场原声],https://tv.iill.top/HuiK/HbnLK5
+「德甲」12/01 02:30 联赛 弗赖堡 vs 美因茨 [王子睿],https://tv.iill.top/HuiK/avSjgN
+「德甲」12/01 02:30 联赛 弗赖堡 vs 美因茨 [赛场原声],https://tv.iill.top/HuiK/8YNeoG
+「男篮世预赛」12/01 02:45 欧洲赛区 西班牙vs格鲁吉亚,https://tv.iill.top/HuiK/rAz7ml
+「男篮世预赛」12/01 03:00 亚洲赛区 黎巴嫩vs卡塔尔,https://tv.iill.top/HuiK/XnHPLf
+「男篮世预赛」12/01 03:00 非洲赛区 尼日利亚vs卢旺达,https://tv.iill.top/HuiK/zhlZBL
+「男篮世预赛」12/01 03:00 欧洲赛区 波黑vs塞尔维亚,https://tv.iill.top/HuiK/HpOxGR
+「斯诺克」12/01 03:00 英锦赛正赛32进16轮次：肖国栋2 6庞俊旭 马克·威廉姆斯晋级 [朱峰立],https://tv.iill.top/HuiK/7XZT4g
+「斯诺克」12/01 03:00 英锦赛正赛32进16轮次：肖国栋2 6庞俊旭 马克·威廉姆斯晋级 [朱蒙],https://tv.iill.top/HuiK/PNtB3g
+「斯诺克」12/01 03:00 英锦赛正赛32进16轮次：肖国栋2 6庞俊旭 马克·威廉姆斯晋级 [1号桌],https://tv.iill.top/HuiK/EmOlWy
+「斯诺克」12/01 03:00 英锦赛正赛32进16轮次：肖国栋2 6庞俊旭 马克·威廉姆斯晋级 [2号桌],https://tv.iill.top/HuiK/S81xJ6
+「法甲」12/01 03:45 联赛 里昂 vs 南特 [乔迁],https://tv.iill.top/HuiK/RkGQ3M
+「法甲」12/01 03:45 联赛 里昂 vs 南特 [赛场原声],https://tv.iill.top/HuiK/1lyi2Y
+「意甲」12/01 03:45 联赛 罗马 vs 那不勒斯 [涂远 李彦],https://tv.iill.top/HuiK/Q8YfIR
+「意甲」12/01 03:45 联赛 罗马 vs 那不勒斯 [赛场原声],https://tv.iill.top/HuiK/gjFQmg
+「意甲」12/01 03:45 联赛 罗马 vs 那不勒斯 [涂远 李彦],https://tv.iill.top/HuiK/2cqd5m
+「西甲」12/01 04:00 联赛 赫罗纳 vs 皇家马德里 [孙雷 贺宇],https://tv.iill.top/HuiK/pcs2nv
+「西甲」12/01 04:00 联赛 赫罗纳 vs 皇家马德里 [赛场原声],https://tv.iill.top/HuiK/fFuWbV
+「西甲」12/01 04:00 联赛 赫罗纳 vs 皇家马德里 [孙雷 贺宇],https://tv.iill.top/HuiK/l5Dhbq
+「NBA」12/01 04:00 常规赛 火箭VS爵士 [王冠证],https://tv.iill.top/HuiK/zUnepD
+「NBA」12/01 04:00 常规赛 火箭VS爵士 [英文原声],https://tv.iill.top/HuiK/mIeavn
+「男篮世预赛」12/01 06:10 美洲赛区 巴西vs智利,https://tv.iill.top/HuiK/2oLenw
+「NBA」12/01 07:00 常规赛 凯尔特人VS骑士 [季孟年],https://tv.iill.top/HuiK/leIVLW
+「NBA」12/01 07:00 常规赛 凯尔特人VS骑士 [英文原声],https://tv.iill.top/HuiK/YyzEAS
+「NBA」12/01 07:00 常规赛 猛龙VS尼克斯 [25/26赛季常规赛全场集锦：猛龙94:116尼克斯（20251201）],https://tv.iill.top/HuiK/37CUYN
+「NBA」12/01 07:00 常规赛 猛龙VS尼克斯 [刘圳展],https://tv.iill.top/HuiK/BJVZLr
+「NBA」12/01 07:00 常规赛 猛龙VS尼克斯 [英文原声],https://tv.iill.top/HuiK/HXjUW9
+「NBA」12/01 07:00 常规赛 老鹰VS76人 [贾磊],https://tv.iill.top/HuiK/PHGmsK
+「NBA」12/01 07:00 常规赛 老鹰VS76人 [英文原声],https://tv.iill.top/HuiK/SW24tT
+「NBA」12/01 07:00 常规赛 雷霆VS开拓者 [25/26赛季常规赛全场集锦：雷霆123:115开拓者（20251201）],https://tv.iill.top/HuiK/E0QN3Z
+「NBA」12/01 07:00 常规赛 雷霆VS开拓者 [蔡凯臣 闫宇峰],https://tv.iill.top/HuiK/D56dv6
+「NBA」12/01 07:00 常规赛 雷霆VS开拓者 [邢晨],https://tv.iill.top/HuiK/DypU6P
+「NBA」12/01 07:00 常规赛 雷霆VS开拓者 [英文原声],https://tv.iill.top/HuiK/rxNQyv
+「NBA」12/01 08:00 常规赛 马刺VS森林狼 [25/26赛季常规赛全场集锦：马刺112:125森林狼（20251201）],https://tv.iill.top/HuiK/5Ig4Z6
+「NBA」12/01 08:00 常规赛 马刺VS森林狼 [王晓晨],https://tv.iill.top/HuiK/qrVAgG
+「NBA」12/01 08:00 常规赛 马刺VS森林狼 [英文原声],https://tv.iill.top/HuiK/DcPFLr
+「男篮世预赛」12/01 08:40 美洲赛区 乌拉圭vs巴拿马,https://tv.iill.top/HuiK/09A7zl
+「国际乒联混合团体世界杯」12/01 09:00 成都Day2训练馆 【训练馆视角】直击赛前训练,https://tv.iill.top/HuiK/mtnqC2
+「NBA」12/01 10:00 常规赛 灰熊VS国王 [徐秦威],https://tv.iill.top/HuiK/VQ7HZ9
+「NBA」12/01 10:00 常规赛 灰熊VS国王 [英文原声],https://tv.iill.top/HuiK/R0Lcge
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [凌维康 小马哥],https://tv.iill.top/HuiK/o6gm5j
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [1号桌],https://tv.iill.top/HuiK/57Z1hW
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [训练馆],https://tv.iill.top/HuiK/8SpPql
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [2号桌],https://tv.iill.top/HuiK/b75XyB
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [2号桌],https://tv.iill.top/HuiK/Jtviif
+「国际乒联混合团体世界杯」12/01 10:00 成都：小组循环赛第2轮 韩国8 6中国台北 日本取两连胜 [混采区],https://tv.iill.top/HuiK/IkZpPs
+「NBA」12/01 10:30 常规赛 鹈鹕VS湖人 [孙博 曾令旭 佳依],https://tv.iill.top/HuiK/kPbogS
+「NBA」12/01 10:30 常规赛 鹈鹕VS湖人 [郑泽鹏],https://tv.iill.top/HuiK/DEqItj
+「NBA」12/01 10:30 常规赛 鹈鹕VS湖人 [英文原声],https://tv.iill.top/HuiK/iTZQC8
+「男篮世预赛」12/01 14:00 亚洲赛区 新西兰vs澳大利亚 [孔德昕],https://tv.iill.top/HuiK/ibDF5c
+「男篮世预赛」12/01 14:00 亚洲赛区 新西兰vs澳大利亚 [赛场原声],https://tv.iill.top/HuiK/Hh50Vk
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [2号桌],https://tv.iill.top/HuiK/bMvawa
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [肖扬 朱子恒],https://tv.iill.top/HuiK/tfUKYk
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [侯英超 马特 周冠达],https://tv.iill.top/HuiK/R7qDYB
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [训练馆],https://tv.iill.top/HuiK/zrRTcW
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [1号桌],https://tv.iill.top/HuiK/TdNbTz
+「国际乒联混合团体世界杯」12/01 17:00 成都：小组循环赛第2轮 一局未失！国乒大胜埃及迎连胜 [混采区],https://tv.iill.top/HuiK/9NDmQi
+「男篮世预赛」12/01 18:00 亚洲赛区 韩国vs中国 [],https://tv.iill.top/HuiK/ltldgi
+「男篮世预赛」12/01 18:00 亚洲赛区 韩国vs中国 [赛场原声],https://tv.iill.top/HuiK/4XrtI1
+「男篮世预赛」12/01 19:00 亚洲赛区 中国台北vs日本 [连睿 周鹏],https://tv.iill.top/HuiK/YZmCxz
+「男篮世预赛」12/01 19:00 亚洲赛区 中国台北vs日本 [赛场原声],https://tv.iill.top/HuiK/EgWRXW
+「男篮世预赛」12/01 19:30 亚洲赛区 菲律宾vs关岛 [姜帆],https://tv.iill.top/HuiK/LwRXwT
+「男篮世预赛」12/01 19:30 亚洲赛区 菲律宾vs关岛 [赛场原声],https://tv.iill.top/HuiK/3tqAR6
+「WCBA」12/01 19:30 常规赛A组 浙江稠州银行 VS 上海浦发银行,https://tv.iill.top/HuiK/fIUGO0
+「WCBA」12/01 19:30 常规赛A组 四川蜀道远达 VS 陕西榆林天泽,https://tv.iill.top/HuiK/7PZYuJ
+「斯诺克」12/01 21:00 2025英锦赛32进16：丁俊晖6 4徐思 赵心童6 1龙泽煌 [秦正、庞卫国],https://tv.iill.top/HuiK/31rPjF
+「斯诺克」12/01 21:00 2025英锦赛32进16：丁俊晖6 4徐思 赵心童6 1龙泽煌 [柏林],https://tv.iill.top/HuiK/qQMJRh
+「斯诺克」12/01 21:00 2025英锦赛32进16：丁俊晖6 4徐思 赵心童6 1龙泽煌 [1号桌],https://tv.iill.top/HuiK/rpswOC
+「斯诺克」12/01 21:00 2025英锦赛32进16：丁俊晖6 4徐思 赵心童6 1龙泽煌 [2号桌],https://tv.iill.top/HuiK/Xsoupm
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
