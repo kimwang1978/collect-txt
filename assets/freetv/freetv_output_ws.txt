@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251229 07:51:25,url
+20251230 07:50:53,url
 
 
 freetv_ws,#genre#
@@ -9,15 +9,12 @@ freetv_ws,#genre#
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-60.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-80.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-102.m3u8
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-22.m3u8
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-34.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-36.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-39.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-85.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-88.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-89.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-92.ctv
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-16.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-32.m3u8
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-46.m3u8
@@ -28,8 +25,8 @@ freetv_ws,#genre#
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-8.m3u8
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8
-凤凰卫视,https://stream1.freetv.fun/feng-huang-wei-shi-9.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-103.m3u8
+北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-105.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-13.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-21.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-28.ctv
@@ -137,7 +134,6 @@ freetv_ws,#genre#
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-79.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-88.m3u8
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-9.ctv
-河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-92.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-107.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-18.m3u8
@@ -177,7 +173,6 @@ freetv_ws,#genre#
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-68.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-102.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-16.ctv
-湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-24.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-38.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-49.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-54.ctv
