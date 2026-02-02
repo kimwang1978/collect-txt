@@ -3905,48 +3905,47 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「調整 •台灣「限制」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
-BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-Discovery,https://hls.iill.top/api/Discovery/playlist.m3u8
-天映頻道,https://tv.iill.top/x/typd
-動物星球,https://tv.iill.top/x/dwxq
-緯來日本,https://tv.iill.top/x/wlrb
-緯來體育,https://tv.iill.top/x/wlty
-緯來電影,https://tv.iill.top/x/wldy
-東森電影,https://tv.iill.top/x/dsdy
-東森洋片,https://tv.iill.top/x/dsyp
-龍翔時代,https://tv.iill.top/x/lxsd
-NBA TV,https://hls.iill.top/api/NBA/playlist.m3u8
-TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
-TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
-TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
-TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-beIN Sports 1,http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-beIN Sports 2,http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
-beIN Sports 3,http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
-beIN Sports 4,http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
-beIN Sports 5,http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
-Hub Premier 1,http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-Hub Premier 2,http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
-Hub Premier 3,http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
-Hub Premier 4,http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
-Hub Premier 5,http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
-Hub Premier 6,http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
-Hub Premier 7,http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
-Hub Premier 8,http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
-Hub Sports 1,http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
-Hub Sports 2,http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
-Hub Sports 3,http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
-Hub Sports 4,http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
-Hub Sports 5,http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
-Hub Sports 6,http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
-Hub Sports 7,http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
-Hub Sports 8,http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
-Fight Sports,http://hls.iill.top/api/Fight-Sports/playlist.m3u8
-Eurosport 1,https://hls.iill.top/api/Eurosport-1/playlist.m3u8
-Eurosport 2,https://hls.iill.top/api/Eurosport-2/playlist.m3u8
-Spotv 1,http://hls.iill.top/api/Spotv-1/playlist.m3u8
-Spotv 2,http://hls.iill.top/api/Spotv-2/playlist.m3u8
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+動物星球,https://hls.iill.top/api/dwxq/index.m3u8
+緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
+緯來體育,https://hls.iill.top/api/wlty/index.m3u8
+緯來電影,https://hls.iill.top/api/wldy/index.m3u8
+東森電影,https://hls.iill.top/api/dsdy/index.m3u8
+東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+龍翔時代,https://hls.iill.top/api/lxsd/index.m3u8
+NBA TV,https://hls.iill.top/api/NBA/index.m3u8
+TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+Hub Premier 1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+Hub Premier 2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+Hub Premier 3,https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+Hub Premier 4,https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+Hub Premier 5,https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+Hub Premier 6,https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+Hub Premier 7,https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+Hub Premier 8,https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+Hub Sports 1,https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+Hub Sports 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+Hub Sports 3,https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+Hub Sports 4,https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+Hub Sports 5,https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+Hub Sports 6,https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+Hub Sports 7,https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
+Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw&token=d69be6caf2bede4d3f6aaaa2b6093d96bd52c9fcaac6841e7bcdfdac12c1947a
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx&token=d69be6caf2bede4d3f6aaaa2b6093d96bd52c9fcaac6841e7bcdfdac12c1947a
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk&token=d69be6caf2bede4d3f6aaaa2b6093d96bd52c9fcaac6841e7bcdfdac12c1947a
