@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260210 09:02:58,url
+20260211 09:01:46,url
 
 
 freetv_other,#genre#
@@ -20,7 +20,6 @@ cgtn,https://t.freetv.fun/live/cgtn-5.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-8.m3u8
 cgtn,https://t.freetv.fun/live/cgtn.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv-1.m3u8
 nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 nba tv,https://t.freetv.fun/live/nba-tv.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
@@ -81,7 +80,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-23.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-1.php
@@ -121,6 +120,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-2.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-5.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-6.php
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
@@ -176,6 +176,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-4.m3u8
+浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
@@ -197,6 +198,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
+环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://t.freetv.fun/live/shao-xing-gong-gong-1-1.m3u8
@@ -216,6 +218,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 翡翠,https://t.freetv.fun/live/fei-cui.m3u8
 苍南新闻综合,https://t.freetv.fun/live/cang-nan-xin-wen-zong-he.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
+苏州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-1.m3u8
