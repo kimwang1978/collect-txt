@@ -3905,6 +3905,7 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「調整 •台灣「限制」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
+春节联欢晚会「bilibili」,http://dxa.yiandrive.com:39191/bilibili/21686237
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
