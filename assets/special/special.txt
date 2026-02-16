@@ -3905,7 +3905,10 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「調整 •台灣「限制」"」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
-春节联欢晚会「bilibili」,http://dxa.yiandrive.com:39191/bilibili/21686237
+2026春节联欢晚会「YouTube」,https://snap.iill.top/youtube/@CCTVGala/index.m3u8
+2026春节联欢晚会「bilibili」,http://dxa.yiandrive.com:39191/bilibili/1922214722
+2026春节联欢晚会「bilibili」,https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
+2026春节联欢晚会「抖音」,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
@@ -3956,11 +3959,11 @@ Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 鳳凰衛視·香港「回看」,http://dxa.yiandrive.com:39191/phenix/fhhk
 雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
 叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
-Now新聞台,https://yang-1989.eu.org/live/now-332
-Now財經台,https://yang-1989.eu.org/live/now-333
-Now Sports 精選,https://yang-1989.eu.org/live/now-630
-ViuTV,https://yang-1989.eu.org/live/ViuTV
-ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
+Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
+Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
+ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
