@@ -3925,10 +3925,6 @@ HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
 Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
 Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
-TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
-TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
-TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
@@ -3951,7 +3947,6 @@ Hub Sports 6,https://hls.iill.top/api/Hub-Sports-6/index.m3u8
 Hub Sports 7,https://hls.iill.top/api/Hub-Sports-7/index.m3u8
 Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
-NBA TV,https://hls.iill.top/api/NBA/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 鳳凰衛視·中文「回看」,http://dxa.yiandrive.com:39191/phenix/fhzw
@@ -3984,15 +3979,15 @@ RTHK 36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u
 澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+中天新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv009
+中視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv040
+中視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv074
 東森新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv152
 東森財經「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv153
 TVBS「4gTV」,https://tv.iill.top/4gtv/media-live073
 TVBS 新聞「4gTV」,https://tv.iill.top/4gtv/media-live072
 TVBS 歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv068
 TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
-中天新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv009
-中視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv040
-中視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv074
 靖天國際「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv063
 靖天歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv054
 靖天映畫「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv055
