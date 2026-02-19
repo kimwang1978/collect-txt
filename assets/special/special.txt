@@ -3901,12 +3901,13 @@ bang派,https://live.metshop.top/huya/11336719
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
 免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
-維護時間：2026-2-2 #佛系維護...,https://epg.iill.top/v/301.mp4
-維護内容：維護 Gather「調整 •台灣「限制」"」,https://epg.iill.top/v/302.mp4
+維護時間：2026-2-19 #佛系維護...,https://epg.iill.top/v/301.mp4
+維護内容：維護 Gather「調整限制 / 維護資源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
@@ -4015,7 +4016,7 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 寰宇財經「ofiii」,https://tv.iill.top/ofiii/4gtv-4gtv158
 華視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv041
 華視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv052
-民視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv155
+民視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv002
 民視台灣「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv001
 民視影劇「4gTV」,https://tv.iill.top/4gtv/litv-ftv09
 民視新聞「4gTV」,https://tv.iill.top/4gtv/litv-ftv13
@@ -4101,44 +4102,55 @@ TV5MONDE STYLE 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 東森購物 三「4gTV」,https://tv.iill.top/4gtv/4gtv-live048
 東森購物 四「4gTV」,https://tv.iill.top/4gtv/4gtv-live0499
 新唐人亞太「4gTV」,https://tv.iill.top/4gtv/4gtv-live050
-鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
-鳳凰衛視·資訊,http://r.jdshipin.com/0Rp07
-鳳凰衛視·香港,http://r.jdshipin.com/yDoTN
-翡翠台 4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,http://r.jdshipin.com/ndGgS
-無綫新聞台,http://r.jdshipin.com/CkuBd
+鳳凰衛視·中文,https://cdn6.163189.xyz/163189/fhzw
+鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
+鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
+翡翠台 4K「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/mzt/
+TVB Plus「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
+無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
 Now新聞台,https://cdn.163189.xyz/163189/now
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-iQIYI,http://php.jdshipin.com/smt.php?id=Qiyi
+千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映經典,https://o11.163189.xyz/stream/live/ccm/
+亞洲武俠,https://cdn6.163189.xyz/163189/yzwx
+TVB 星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
+Astro AOD「多音轨字幕」,https://o11.163189.xyz/stream/live/aod/
+Astro AEC「多音轨字幕」,https://o11.163189.xyz/stream/live/aec/
+Astro QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+Astro 欢喜台,https://o11.163189.xyz/stream/live/hxt/
+iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 八度空間,http://cdn6.163189.xyz/163189/8tv
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
-Channel U,http://cdn6.163189.xyz/163189/chu
-五星体育,https://cdn3.163189.xyz/163189/wxty
-第一财经,https://cdn3.163189.xyz/163189/dycj
+Channel U,http://cdn6.163189.xyz/163189/ch
+鳳凰衛視·資訊「YouTube」,https://ytb.178.indevs.in/?id=fN9uYWCjQaw
+CCTV4「YouTube」,https://ytb.178.indevs.in/?id=7j92Myu2wzg
+CCTV4 美洲「YouTube」,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
+CGTN「YouTube」,https://ytb.178.indevs.in/?id=BOy2xDU1LC8
+中天新聞「YouTube」,https://ytb.178.indevs.in/?id=vr3XyVCR4T0
+TVBS「YouTube」,https://ytb.178.indevs.in/?id=o_-hSMgpAzs
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://dxa.yiandrive.com:39191/gztv/zhonghe
 广州新闻,http://dxa.yiandrive.com:39191/gztv/xinwen
 广州法治,http://dxa.yiandrive.com:39191/gztv/fazhi
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
-东方卫视,http://dxa.yiandrive.com:39191/sh/dfws
-五星体育,http://dxa.yiandrive.com:39191/sh/wxty
-第一财经,http://dxa.yiandrive.com:39191/sh/dycj
-上海新闻综合,http://dxa.yiandrive.com:39191/sh/xwzh
-上海都市频道,http://dxa.yiandrive.com:39191/sh/dspd
-新纪实,http://dxa.yiandrive.com:39191/sh/xjs
-魔都眼,http://dxa.yiandrive.com:39191/sh/mdy
-爱上海,http://dxa.yiandrive.com:39191/sh/ash
+浙江卫视,https://tv.iill.top/migu/zjws
+湖南卫视「回看」,https://tv.iill.top/migu/hnws
+辽宁卫视「回看」,https://tv.iill.top/migu/lnws
+CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
+CGTN「回看」,https://tv.iill.top/CGTN/cgtn
+CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
+CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
+CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
+CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
+CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
@@ -4454,3 +4466,4 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 「电视伴音」CETV3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 「电视伴音」CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 ---------------,https://epg.iill.top/v/302.mp4
+仅支持安卓·不懂问 Ai,https://epg.iill.top/v/301.mp4
