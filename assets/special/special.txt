@@ -3948,9 +3948,9 @@ Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
-鳳凰衛視·中文「回看」,http://dxa.yiandrive.com:39191/phenix/fhzw
-鳳凰衛視·資訊「回看」,http://dxa.yiandrive.com:39191/phenix/fhzx
-鳳凰衛視·香港「回看」,http://dxa.yiandrive.com:39191/phenix/fhhk
+鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
+鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
+鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
 雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
 叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
@@ -4106,12 +4106,12 @@ TV5MONDE STYLE 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
 翡翠台 4K「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct/
 明珠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/mzt/
 TVB Plus「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
 無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
 Now新聞台,https://cdn.163189.xyz/163189/now
-娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
 千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映經典,https://o11.163189.xyz/stream/live/ccm/
@@ -4139,7 +4139,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 广州新闻,http://dxa.yiandrive.com:39191/gztv/xinwen
 广州法治,http://dxa.yiandrive.com:39191/gztv/fazhi
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
-浙江卫视,https://tv.iill.top/migu/zjws
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
 CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
