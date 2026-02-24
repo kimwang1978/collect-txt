@@ -3924,6 +3924,10 @@ HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
 Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
 Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+TNT Sport 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+TNT Sport 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+TNT Sport 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+TNT Sport 4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
@@ -4139,14 +4143,14 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 广州新闻,http://dxa.yiandrive.com:39191/gztv/xinwen
 广州法治,http://dxa.yiandrive.com:39191/gztv/fazhi
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
-东方卫视 4K,https://tv.iill.top/kdf/dfws
-五星体育,https://tv.iill.top/kdf/wxty
-第一财经,https://tv.iill.top/kdf/dycj
-上海新闻综合,https://tv.iill.top/kdf/xwzh
-上海都市频道,https://tv.iill.top/kdf/dspd
-新纪实,https://tv.iill.top/kdf/xjs
-魔都眼,https://tv.iill.top/kdf/mdy
-爱上海,https://tv.iill.top/kdf/ash
+东方卫视 4K「回看」,https://tv.iill.top/kdf/2030
+五星体育「回看」,https://tv.iill.top/kdf/1605
+第一财经「回看」,https://tv.iill.top/kdf/21
+上海新闻综合「回看」,https://tv.iill.top/kdf/20
+上海都市频道「回看」,https://tv.iill.top/kdf/18
+魔都眼「回看」,https://tv.iill.top/kdf/1601
+新纪实,https://tv.iill.top/kdf/1600
+爱上海,https://tv.iill.top/kdf/2029
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视 4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
