@@ -3974,8 +3974,6 @@ RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/st
 RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-RTHK 36,https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-澳門蓮花,https://tv.iill.top/mo/lotustv
 澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
