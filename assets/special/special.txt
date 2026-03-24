@@ -3929,10 +3929,9 @@ CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
 CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
 CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
 CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
-翡翠台,https://test.tvbjack.de5.net/proxy/282e188ba6928331
-TVB Plus,https://test.tvbjack.de5.net/proxy/a8587523ddf2f847
-無綫新聞台,https://test.tvbjack.de5.net/proxy/7138a9dbc960df99
-明珠台,https://test.tvbjack.de5.net/proxy/52c770320d636c50
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
@@ -4034,6 +4033,7 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 動物星球「Relay」,https://tv.iill.top/api/Animal-Planet/index.m3u8
 好萊塢電影「Relay」,https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 龍祥時代「Relay」,https://tv.iill.top/api/LSTIME-Movie/index.m3u8
+Catchplay「Relay」,https://tv.iill.top/api/Catchplay/index.m3u8
 CINEMAX「Relay」,https://tv.iill.top/api/Cinemax/index.m3u8
 MTV Live「Relay」,https://tv.iill.top/api/MTV-Live/index.m3u8
 愛爾達娛樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv070
