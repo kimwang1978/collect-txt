@@ -4186,12 +4186,9 @@ iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
 Channel U,http://cdn6.163189.xyz/163189/ch
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://r.jdshipin.com/sE5vO
-广州综合,http://dxa.yiandrive.com:27385/gztv/zhonghe
-广州新闻,http://dxa.yiandrive.com:27385/gztv/xinwen
-广州法治,http://dxa.yiandrive.com:27385/gztv/fazhi
-广州南国都市,http://dxa.yiandrive.com:27385/gztv/shenghuo
 东方卫视 4K「回看」,https://tv.iill.top/kdf/2030
 五星体育「回看」,https://tv.iill.top/kdf/1605
 第一财经「回看」,https://tv.iill.top/kdf/21
@@ -4200,13 +4197,6 @@ Channel U,http://cdn6.163189.xyz/163189/ch
 魔都眼「回看」,https://tv.iill.top/kdf/1601
 新纪实,https://tv.iill.top/kdf/1600
 爱上海,https://tv.iill.top/kdf/2029
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视 4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
-湖南卫视「回看」,https://tv.iill.top/migu/hnws
-辽宁卫视「回看」,https://tv.iill.top/migu/lnws
-CHC 影迷电影「回看」,https://tv.iill.top/migu/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 「B站」热门赛事,https://live.iill.top/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
 「虎牙」CS 2,https://live.iill.top/huya/483917
