@@ -3921,8 +3921,6 @@ CCTV 12 社會與法「Relay」,https://tv.iill.top/api/CCTV12/index.m3u8
 CCTV 13 新聞「Relay」,https://tv.iill.top/api/CCTV13/index.m3u8
 CCTV 14 少兒「Relay」,https://tv.iill.top/api/CCTV14/index.m3u8
 CCTV 15 音樂「Relay」,https://tv.iill.top/api/CCTV15/index.m3u8
-CCTV 16 奥林匹克「Relay」,https://tv.iill.top/api/CCTV16/index.m3u8
-CCTV 17 農業農村「Relay」,https://tv.iill.top/api/CCTV17/index.m3u8
 CGTN「回看」,https://tv.iill.top/CGTN/cgtn
 CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
 CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
@@ -4034,7 +4032,6 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 動物星球「Relay」,https://tv.iill.top/api/Animal-Planet/index.m3u8
 好萊塢電影「Relay」,https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 龍祥時代「Relay」,https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-CATCHPLAY 電影「Relay」,https://tv.iill.top/api/Catchplay/index.m3u8
 CINEMAX「Relay」,https://tv.iill.top/api/Cinemax/index.m3u8
 MTV Live「Relay」,https://tv.iill.top/api/MTV-Live/index.m3u8
 愛爾達娛樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv070
