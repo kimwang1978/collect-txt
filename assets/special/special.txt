@@ -3927,9 +3927,6 @@ CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
 CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
 CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
 CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
-TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
-無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
@@ -3973,7 +3970,7 @@ RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/s
 緯來戲劇「Relay」,https://tv.iill.top/api/VL-Drama/index.m3u8
 緯來育樂「Relay」,https://tv.iill.top/api/VL-E/index.m3u8
 年代新聞「Relay」,https://tv.iill.top/api/Era-News/index.m3u8
-中天亞洲「FainTV」,https://tv.iill.top/FainTV/121
+中天亞洲「Relay」,https://tv.iill.top/api/Cti-I/index.m3u8
 中天綜合「Relay」,https://tv.iill.top/api/Cti-K/index.m3u8
 中天娛樂「Relay」,https://tv.iill.top/api/Cti-E/index.m3u8
 中天新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv009
