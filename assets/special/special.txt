@@ -3905,22 +3905,22 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 維護内容：維護 Gather「調整限制 / 維護資源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
-CCTV 1 綜合「Relay」,https://tv.iill.top/api/CCTV1/index.m3u8
-CCTV 2 財經「Relay」,https://tv.iill.top/api/CCTV2/index.m3u8
-CCTV 3 綜藝「Relay」,https://tv.iill.top/api/CCTV3/index.m3u8
+CCTV 1 綜合「Relay」,https://smt.iill.top/smt/710
+CCTV 2 財經「Relay」,https://smt.iill.top/smt/711
+CCTV 3 綜藝「Relay」,https://smt.iill.top/smt/712
 CCTV 4 中文國際「Relay」,https://snap.iill.top/youtube/@LiveNow24H/index.m3u8
-CCTV 5 體育「Relay」,https://tv.iill.top/api/CCTV5/index.m3u8
-CCTV 5+ 體育賽事「Relay」,https://tv.iill.top/api/CCTV5+/index.m3u8
-CCTV 6 電影「Relay」,https://tv.iill.top/api/CCTV6/index.m3u8
-CCTV 7 國防軍事「Relay」,https://tv.iill.top/api/CCTV7/index.m3u8
-CCTV 8 電視劇「Relay」,https://tv.iill.top/api/CCTV8/index.m3u8
-CCTV 9 記錄「Relay」,https://tv.iill.top/api/CCTV9/index.m3u8
-CCTV 10 科教「Relay」,https://tv.iill.top/api/CCTV10/index.m3u8
-CCTV 11 戲曲「Relay」,https://tv.iill.top/api/CCTV11/index.m3u8
-CCTV 12 社會與法「Relay」,https://tv.iill.top/api/CCTV12/index.m3u8
-CCTV 13 新聞「Relay」,https://tv.iill.top/api/CCTV13/index.m3u8
-CCTV 14 少兒「Relay」,https://tv.iill.top/api/CCTV14/index.m3u8
-CCTV 15 音樂「Relay」,https://tv.iill.top/api/CCTV15/index.m3u8
+CCTV 5 體育「Relay」,https://smt.iill.top/smt/1631
+CCTV 5+ 體育賽事「Relay」,https://smt.iill.top/smt/890
+CCTV 6 電影「Relay」,https://smt.iill.top/smt/501
+CCTV 7 國防軍事「Relay」,https://smt.iill.top/smt/717
+CCTV 8 電視劇「Relay」,https://smt.iill.top/smt/718
+CCTV 9 記錄「Relay」,https://smt.iill.top/smt/719
+CCTV 10 科教「Relay」,https://smt.iill.top/smt/720
+CCTV 11 戲曲「Relay」,https://smt.iill.top/smt/721
+CCTV 12 社會與法「Relay」,https://smt.iill.top/smt/722
+CCTV 13 新聞「Relay」,https://smt.iill.top/smt/723
+CCTV 14 少兒「Relay」,https://smt.iill.top/smt/2013
+CCTV 15 音樂「Relay」,https://smt.iill.top/smt/726
 CGTN「回看」,https://tv.iill.top/CGTN/cgtn
 CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
 CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
@@ -3963,26 +3963,26 @@ RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/s
 博斯高球 二「FainTV」,https://tv.iill.top/FainTV/125
 博斯網球「FainTV」,https://tv.iill.top/FainTV/53
 博斯魅力「FainTV」,https://tv.iill.top/FainTV/135
-緯來日本「Relay」,https://tv.iill.top/api/VL-Japan/index.m3u8
-緯來體育「Relay」,https://tv.iill.top/api/VL-Sports/index.m3u8
-緯來電影「Relay」,https://tv.iill.top/api/VL-Movies/index.m3u8
-緯來綜合「Relay」,https://tv.iill.top/api/VL-ONTV/index.m3u8
-緯來戲劇「Relay」,https://tv.iill.top/api/VL-Drama/index.m3u8
-緯來育樂「Relay」,https://tv.iill.top/api/VL-E/index.m3u8
-年代新聞「Relay」,https://tv.iill.top/api/Era-News/index.m3u8
-中天亞洲「Relay」,https://tv.iill.top/api/Cti-I/index.m3u8
-中天綜合「Relay」,https://tv.iill.top/api/Cti-K/index.m3u8
-中天娛樂「Relay」,https://tv.iill.top/api/Cti-E/index.m3u8
+緯來日本「Relay」,https://smt.iill.top/smt/2048
+緯來體育「Relay」,https://smt.iill.top/smt/2051
+緯來電影「Relay」,https://smt.iill.top/smt/2049
+緯來綜合「Relay」,https://smt.iill.top/smt/2053
+緯來戲劇「Relay」,https://smt.iill.top/smt/2472
+緯來育樂「Relay」,https://smt.iill.top/smt/2470
+年代新聞「Relay」,https://smt.iill.top/smt/825
+中天亞洲「Relay」,https://smt.iill.top/smt/1967
+中天綜合「Relay」,https://smt.iill.top/smt/741
+中天娛樂「Relay」,https://smt.iill.top/smt/529
 中天新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv009
 中視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv040
 中視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv074
 東森新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv152
 東森財經「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv153
-東森電影「Relay」,https://tv.iill.top/api/ET-Movie/index.m3u8
-東森洋片「Relay」,https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
-東森綜合「Relay」,https://tv.iill.top/api/ET-Variety-Channel/index.m3u8
-東森戲劇「Relay」,https://tv.iill.top/api/ET-Drama-Channel/index.m3u8
-東森幼幼「Relay」,https://tv.iill.top/api/YoYo-TV/index.m3u8
+東森電影「Relay」,https://smt.iill.top/smt/924
+東森洋片「Relay」,https://smt.iill.top/smt/763
+東森綜合「Relay」,https://smt.iill.top/smt/118
+東森戲劇「Relay」,https://smt.iill.top/smt/546
+東森幼幼「Relay」,https://smt.iill.top/smt/969
 TVBS「4gTV」,https://tv.iill.top/4gtv/media-live073
 TVBS 新聞「4gTV」,https://tv.iill.top/4gtv/media-live072
 TVBS 歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv068
@@ -4008,7 +4008,7 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 龍華電影「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang03
 八大精彩「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv034
 八大綜藝「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv039
-台視「Relay」,https://tv.iill.top/api/TTV/index.m3u8
+台視「Relay」,https://smt.iill.top/smt/744
 台視新聞「ofiii」,https://tv.iill.top/ofiii/4gtv-4gtv051
 公視戲劇「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv042
 台灣戲劇「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang22
@@ -4026,11 +4026,9 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 民視綜藝「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv004
 三立綜合「4gTV」,https://tv.iill.top/4gtv/4gtv-live207
 三立新聞iNEWS「4gTV」,https://tv.iill.top/4gtv/4gtv-live089
-動物星球「Relay」,https://tv.iill.top/api/Animal-Planet/index.m3u8
-好萊塢電影「Relay」,https://tv.iill.top/api/Hollywood-Movie/index.m3u8
-龍祥時代「Relay」,https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-CINEMAX「Relay」,https://tv.iill.top/api/Cinemax/index.m3u8
-MTV Live「Relay」,https://tv.iill.top/api/MTV-Live/index.m3u8
+好萊塢電影「Relay」,https://smt.iill.top/smt/278
+龍祥時代「Relay」,https://smt.iill.top/smt/2024
+MTV Live「Relay」,https://smt.iill.top/smt/2046
 愛爾達娛樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv070
 愛爾達生活旅遊「4gTV」,https://tv.iill.top/4gtv/4gtv-live120
 鏡電視新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv075
@@ -4142,12 +4140,11 @@ Hub Sports 7,https://hls.iill.top/api/Hub-Sports-7/index.m3u8
 Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
-Sky Sports Cricket,https://tv.iill.top/api/Sky-Sports-Cricket/index.m3u8
-Sky Sports Premier League,https://tv.iill.top/api/Sky-Sports-EPL/index.m3u8
-Sky Sports F1,https://tv.iill.top/api/Sky-Sports-F1/index.m3u8
-Sky Sports Mix,https://tv.iill.top/api/Sky-Sports-Mix/index.m3u8
-Sky Sports Racing,https://tv.iill.top/api/Sky-Sports-Racing/index.m3u8
-Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
+Sky Sports Cricket,https://smt.iill.top/smt/2861
+Sky Sports Premier League,https://smt.iill.top/smt/2862
+Sky Sports F1,https://smt.iill.top/smt/2863
+Sky Sports Mix,https://smt.iill.top/smt/2866
+Sky Sports Racing,https://smt.iill.top/smt/2867
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
