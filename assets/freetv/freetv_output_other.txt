@@ -1,9 +1,11 @@
 更新时间,#genre#
-20260518 09:49:17,url
+20260519 09:34:37,url
 
 
 freetv_other,#genre#
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 中视,rtmp://f13h.mine.nu/sat/tv091
+浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721

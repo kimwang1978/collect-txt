@@ -1,9 +1,26 @@
 更新时间,#genre#
-20260518 09:49:17,url
+20260519 09:34:37,url
 
 
 freetv,#genre#
+CCTV2,https://t.freetv.fun/live/cctv2.m3u8$[BD]cctv2
 东森超视,rtmp://f13h.mine.nu/sat/tv331$[HD]东森超视
 中视,rtmp://f13h.mine.nu/sat/tv091$[HD]中视
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi.m3u8$[BD]四川卫视
+天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi.m3u8$[BD]天津卫视
+安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8$[BD]安徽卫视
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi.m3u8$[BD]山西卫视
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi.m3u8$[HD]新疆卫视
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi.m3u8$[BD]江苏卫视
+江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi.m3u8$[BD]江西卫视
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-1.m3u8$[BD]河北卫视
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8$[HD]河北卫视
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.m3u8$[BD]河南卫视
+浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8$[BD]浙江国际
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen.m3u8$[BD]浙江新闻
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi.m3u8$[BD]深圳卫视
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.m3u8$[BD]甘肃卫视
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$[HD]纬来体育
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$[HD]纬来体育
+辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi.m3u8$[BD]辽宁卫视
+重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi.m3u8$[BD]重庆卫视
