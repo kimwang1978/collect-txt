@@ -13,7 +13,6 @@
 电影_喜乐影院,http://cdn.jdshipin.com:8880/huya.php?id=21059580
 电影_喜乐影院,http://124.248.69.76:26781/huya/21059580
 电影_喜剧专场,https://lbds.us.ci/11602044
-电影_喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
 电影_喜剧专场,http://live.nctv.top/huya.php?id=11602044
 电影_喜剧专场,http://cdn.jdshipin.com:8880/huya.php?id=11602044
 电影_救援,https://live.iill.top/huya/21059594
@@ -70,12 +69,10 @@
 电影_谍战,http://live.nctv.top/huya.php?id=21059585
 电影_谍战,https://live.iill.top/huya/21059585
 电影_谍战,http://124.248.69.76:26781/huya/21059585
-电影_谍战片,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影_谍战片,http://live.nctv.top/huya.php?id=21059587
 电影_贺岁,https://lbds.us.ci/11601971
 电影_贺岁,http://live.nctv.top/huya.php?id=11601971
 电影_贺岁,https://live.iill.top/huya/11601971
 电影_贺岁,http://124.248.69.76:26781/huya/11601971
 电影_贺岁片,https://lbds.us.ci/11601986
-电影_贺岁片,https://live.metshop.top/huya/11601986
 电影_贺岁片,http://live.nctv.top/huya.php?id=11601986
