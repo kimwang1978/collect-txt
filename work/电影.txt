@@ -67,6 +67,7 @@ CHC动作电影,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 CHC动作电影,http://69.30.245.50/live/chcdz.m3u8
 CHC动作电影,http://42.94.209.140:7788/644368714
 CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
+CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://live.nctv.top/huya.php?id=11602077
 CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -147,9 +148,10 @@ CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC影迷电影,http://116.52.173.39:1234/952383261
 CHC影迷电影,http://119.119.63.189:8095/952383261
-CHC影迷电影,http://123.53.42.5:5678/952383261
-CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202611050803008a652518fc6c4d0b979052d24b1b6c54&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261105080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261105080300&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=24837c7368778476ca9514e0ba4b68fe
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202611051122383256e60e2aee4a2987da95afaa644e47&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261105112238&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=2409:8a00:6040:4f61:356b:2cf8:7a09:3744&SecurityKey=20261105112238&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f70a1afb012d5ff5f38d4aba939c0965&ddCalcu=5f67e9000a2c109a3f9ba0b1a24dd58f3ff5
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20261106080300da6562bc51db4347b31d0891ae79e1f9&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261106080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261106080300&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5cfb136981e350c1c9973787e4fe6e50
+CHC影迷电影,http://42.94.209.203:7788/952383261
+CHC影迷电影,http://123.53.42.41:5678/952383261
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202611061122381088a34d3d314f01ac789d1b6442b51d&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261106112238&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=2409:8a00:6040:4f61:e96d:280:5b2a:f51&SecurityKey=20261106112238&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a61b4ad0dde0e7fe06b5c66eda2880f2&ddCalcu=2af6e0108b28402aadd0ed6d6ec05eb76f0e
 CHC影迷电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 CHC影迷电影,https://stream1.freetv.fun/ipv6-chcying-mi-dian-ying-10.m3u8
@@ -270,13 +272,13 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 经典电影,https://goodiptv.club/douyu/6091425
+经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,rtp://239.3.1.195:9024
 经典电影,http://114.252.238.87:8000/udp/239.3.1.195:9024
 经典电影,http://61.163.181.78:9901/tsfile/live/1059_1.m3u8
 经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
-经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
-经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
