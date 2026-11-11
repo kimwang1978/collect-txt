@@ -54,6 +54,7 @@
 凤凰中文,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052575.ts
 凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -200,11 +201,11 @@
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -270,11 +271,11 @@ TVB明珠,https://cdn6.cc.cd/163189/mzt
 TVB明珠,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB明珠,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052638.ts
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://r.jdshipin.com/jUx8K
 TVB明珠,http://r.jdshipin.com/ZQ4kN
 TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -407,7 +408,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新闻,https://www.youtube.com/watch?v=nwA45bxgs8Y
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://74.91.26.218:82/live/tvbsxw.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
