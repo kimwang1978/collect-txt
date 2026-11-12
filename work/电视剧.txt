@@ -16,8 +16,8 @@
 神雕侠侣,http://live.nctv.top/huya.php?id=11352964
 神雕侠侣,http://live.ottiptv.cc/yy/1351762426
 神雕侠侣,https://live.iill.top/huya/11352964
-倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://lbds.us.ci/23734246
+倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.iill.top/huya/23734246
 倚天屠龙记,http://124.248.69.76:26781/huya/23734246
 天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382881708
@@ -46,8 +46,8 @@
 封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,https://lbds.us.ci/29465849
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
-父母爱情,https://live.ottiptv.cc/yy/1354926650
 父母爱情,http://live.nctv.top/huya.php?id=11602071
+父母爱情,https://live.ottiptv.cc/yy/1354926650
 父母爱情,http://cdn.jdshipin.com:8880/huya.php?id=11602071
 红楼梦,http://live.nctv.top/huya.php?id=30080221
 三国演义,https://live.iill.top/huya/11602081
@@ -92,6 +92,7 @@
 新水浒传,https://live.iill.top/huya/11342384
 新水浒传,http://124.248.69.76:26781/huya/11342384
 爱情公寓,https://live.ottiptv.cc/huya/11336726
+爱情公寓,https://live.ottiptv.cc/douyu/4105989
 爱情公寓,http://74.91.26.218:82/live/vlaqgy.m3u8
 爱情公寓,https://live.iill.top/huya/11336726
 爱情公寓,http://zzy789.xyz/douyu1.php?id=7495810
