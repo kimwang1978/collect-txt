@@ -1,6 +1,5 @@
 周星星,https://live.ottiptv.cc/huya/11342412
 周星星,http://live.nctv.top/huya.php?id=11342412
-周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
 周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 周星驰,https://live.iill.top/huya/11342412
 周星驰,http://124.248.69.76:26781/huya/11342412
@@ -24,7 +23,6 @@
 王晶,http://live.nctv.top/huya.php?id=11602058
 黄渤,http://1.94.31.214:35455/huya/11352876
 林正英,http://live.nctv.top/huya.php?id=11342421
-林正英,http://74.91.26.218:82/live/vllzy.m3u8
 林正英,https://stream1.freetv.fun/lin-zheng-ying-4.ctv
 林正英,https://stream1.freetv.fun/lin-zheng-ying-2.ctv
 林正英,https://stream1.freetv.fun/lin-zheng-ying-8.ctv
@@ -48,7 +46,6 @@
 电影_李连杰,https://lbds.us.ci/11342390
 电影_李连杰,http://live.nctv.top/huya.php?id=11342390
 电影_梁家辉,https://lbds.us.ci/11342429
-电影_梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影_梁家辉,http://live.nctv.top/huya.php?id=11342429
 电影_梁家辉,https://live.iill.top/huya/11342429
 电影_梁家辉,http://124.248.69.76:26781/huya/11342429
