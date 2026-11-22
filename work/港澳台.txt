@@ -268,11 +268,11 @@ TVB明珠,https://cdn6.cc.cd/163189/mzt
 TVB明珠,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB明珠,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052638.ts
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-TVB明珠,http://r.jdshipin.com/jUx8K
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://r.jdshipin.com/ZQ4kN
+TVB明珠,http://r.jdshipin.com/jUx8K
 TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -377,8 +377,8 @@ TVB黄金翡翠,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1509&tk=97475bb89d45
 TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVBPLUS,http://cdn5.1678520.xyz/live/?id=tvbp
 Now新闻,http://173.208.234.146/live/nowxw.m3u8
-VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIU,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 VIU,http://r.jdshipin.com/vSJvl
 VIU,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
@@ -395,7 +395,6 @@ NOW新闻,http://app.kds666.top:5566/api.php?id=16&s=2
 NOW新闻,https://fast.hidns.vip/163189/now
 NOW新闻,https://cdn.123.rr.kg/163189/now
 NOW新闻,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
-NOW新闻,http://45.192.97.170:8880/play/622.m3u8
 NOW财经,http://app.kds666.top:5566/api.php?id=17&s=2
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -755,8 +754,8 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
