@@ -5,6 +5,24 @@ JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ESPN,http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+NFL·CBS,http://85.237.89.160:9590/usa-s/CBS/index.m3u8
+NFL·NBC,http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+ESPN,http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+Tennis Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+Tennis Channel 2,https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+CCTV高尔夫·网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+体育综合,#genre#
+ESPN,http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+CBS,http://85.237.89.160:9590/usa-s/CBS/index.m3u8
+NBC,http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+F1·Formula,https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+F1·TeleFormula,https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+CCTV高尔夫·网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+Tennis Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+Tennis Channel 2,https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 skysports,https://stream1.freetv.fun/skysports-3.ctv
 skysports,https://stream1.freetv.fun/skysports-2.ctv
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
