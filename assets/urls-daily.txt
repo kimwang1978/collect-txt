@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/iptv/out
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 https://raw.githubusercontent.com/wnhhh/iptv-list/refs/heads/main/iptv.txt
 https://raw.githubusercontent.com/ly36143614-byte/iptv-pub/refs/heads/main/sports.m3u
+https://raw.githubusercontent.com/ly36143614-byte/iptv-pub/refs/heads/main/tv.m3u
 --https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 --https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 --http://bxtv.3a.ink/live.txt
@@ -28,7 +29,6 @@ http://www.52top.com.cn:678/downloads/migu.txt
 --https://chuxinya.top/f/XooOhO/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
 --https://chuxinya.top/f/VPk3ig/Rig1Ie5B_%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
 --https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
-
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/tx.txt
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg2.m3u

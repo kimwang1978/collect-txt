@@ -1,5 +1,6 @@
 import urllib.request
 from urllib.parse import urlparse
+import ipaddress
 import re #正则
 import os
 import json
@@ -332,6 +333,28 @@ def normalize_failure_cache_url(url):
         normalized_url = normalized_url[len('video://'):]
     return normalized_url
 
+def is_public_stream_address(url):
+    """仅接受公网地址，过滤只在来源作者本地网络可访问的直播源。"""
+    normalized_url = normalize_failure_cache_url(url)
+    try:
+        host = urlparse(normalized_url).hostname
+    except (TypeError, ValueError):
+        return False
+
+    if not host:
+        return False
+
+    host = host.rstrip('.').lower()
+    if host == 'localhost' or host.endswith('.local'):
+        return False
+
+    try:
+        # 非全局 IP 包含私网、回环、链路本地、保留、组播及 CGNAT 地址。
+        return ipaddress.ip_address(host).is_global
+    except ValueError:
+        # 普通域名不在本地静态过滤范围内，交由后续黑名单与播放检测处理。
+        return True
+
 # 添加channel_name前剔除部分特定字符
 removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","AKtv","「IPV4」","「IPV6」",
                 "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","标清","斯特",
@@ -362,7 +385,7 @@ def process_channel_line(line):
 
         cache_lookup_address = normalize_failure_cache_url(channel_address)
         host_key = get_stream_host_key(cache_lookup_address)
-        if channel_address not in combined_blacklist and cache_lookup_address not in active_failure_blacklist and host_key not in active_host_blacklist: # 判断当前源是否在永久黑名单、失效库或主机临时过滤中
+        if is_public_stream_address(channel_address) and channel_address not in combined_blacklist and cache_lookup_address not in active_failure_blacklist and host_key not in active_host_blacklist: # 只保留公网源，并判断当前源是否在永久黑名单、失效库或主机临时过滤中
             # 根据行内容判断存入哪个对象，开始分发
             if "CCTV" in channel_name and check_url_existence(ys_lines, channel_address) : #央视频道
                 ys_lines.append(process_name_string(line.strip()))
