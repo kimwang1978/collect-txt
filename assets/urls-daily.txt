@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_s
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TvSources/iptv_speed.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
+https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/iptv/output/ipv4/tv.txt
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
+https://raw.githubusercontent.com/wnhhh/iptv-list/refs/heads/main/iptv.txt
+https://raw.githubusercontent.com/ly36143614-byte/iptv-pub/refs/heads/main/sports.m3u
 --https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 --https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 --http://bxtv.3a.ink/live.txt
