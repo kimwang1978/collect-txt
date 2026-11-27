@@ -18,7 +18,6 @@
 刘德华,http://124.248.69.76:26781/huya/11342424
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 星爷,http://1.94.31.214:35455/huya/11342412
-成龙,https://yahu.445569.xyz/live/11342386
 成龙,http://live.nctv.top/huya.php?id=11342386
 成龙,http://74.91.26.218:82/live/vlcl.m3u8
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
@@ -28,7 +27,6 @@
 林正英,https://stream1.freetv.fun/lin-zheng-ying-4.ctv
 林正英,https://stream1.freetv.fun/lin-zheng-ying-2.ctv
 林正英,https://stream1.freetv.fun/lin-zheng-ying-8.ctv
-甄子丹,https://yahu.445569.xyz/live/11352935
 甄子丹,https://live.iill.top/huya/11352935
 甄子丹,http://124.248.69.76:26781/huya/11352935
 电影_黄渤,https://lbds.us.ci/11352876
@@ -38,10 +36,8 @@
 电影_成龙,https://lbds.us.ci/11342386
 电影_成龙,http://107.150.60.122/live/lbcl.m3u8
 电影_成龙,http://192.151.150.154/live/lbcl.m3u8
-电影_成龙,https://mursor.ottiptv.cc/yy/1354888751
 电影_洪金宝,https://lbds.us.ci/11279251
 电影_洪金宝,http://footyun.top:35455/huya/11279251
-电影_洪金宝,https://mursor.ottiptv.cc/yy/1354924839
 电影_洪金宝,http://live.nctv.top/huya.php?id=11279251
 电影_洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
 电影_强森,https://lbds.us.ci/21059581
