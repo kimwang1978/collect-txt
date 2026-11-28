@@ -1,8 +1,8 @@
 功夫片,http://124.248.69.76:26781/huya/11352941
-灾难片,https://live.metshop.top/huya/11602075
 灾难片,https://live.iill.top/huya/11602075
 灾难片,http://124.248.69.76:26781/huya/11602075
-国外科幻,https://mursor.ottiptv.cc/yy/1382736800
+灾难片,https://live.metshop.top/huya/11602075
+外国科幻大片,https://mursor.ottiptv.cc/yy/1382747628
 电影_怪兽,https://lbds.us.ci/21059577
 电影_怪兽,http://live.nctv.top/huya.php?id=21059577
 电影_怪兽,https://live.iill.top/huya/21059577
@@ -21,6 +21,7 @@
 电影_救援,http://124.248.69.76:26781/huya/21059594
 电影_救援,http://cdn.jdshipin.com:8880/huya.php?id=21059594
 电影_玄幻,https://lbds.us.ci/11342414
+电影_玄幻,http://footyun.top:35455/huya/11342414
 电影_玄幻,http://live.nctv.top/huya.php?id=11342414
 电影_玄幻,https://live.iill.top/huya/11342414
 电影_玄幻,http://124.248.69.76:26781/huya/11342414
@@ -28,6 +29,7 @@
 电影_古墓系列,https://lbds.us.ci/11352913
 电影_古墓系列,http://live.nctv.top/huya.php?id=11352913
 电影_功夫片,https://lbds.us.ci/11352941
+电影_功夫片,http://footyun.top:35455/huya/11352941
 电影_功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影_功夫片,http://live.nctv.top/huya.php?id=11352941
 电影_罪犯,https://lbds.us.ci/11352962
@@ -58,7 +60,6 @@
 电影_动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 电影_动作电影,http://live.nctv.top/huya.php?id=11602077
 电影_战争片,https://lbds.us.ci/21059574
-电影_战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
 电影_战争片,http://live.nctv.top/huya.php?id=21059574
 电影_战争片,https://live.iill.top/huya/21059574
 电影_战争片,http://124.248.69.76:26781/huya/21059574
@@ -74,12 +75,14 @@
 电影_经典女神,https://lbds.us.ci/11352909
 电影_经典女神,http://live.nctv.top/huya.php?id=11352909
 电影_许氏三杰,https://lbds.us.ci/11602033
+电影_许氏三杰,http://footyun.top:35455/huya/11602033
 电影_许氏三杰,http://live.nctv.top/huya.php?id=11602033
 电影_谍战,https://lbds.us.ci/21059585
 电影_谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影_谍战,http://live.nctv.top/huya.php?id=21059585
 电影_谍战,https://live.iill.top/huya/21059585
 电影_谍战,http://124.248.69.76:26781/huya/21059585
+电影_谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影_谍战片,http://live.nctv.top/huya.php?id=21059587
 电影_贺岁,https://lbds.us.ci/11601971
 电影_贺岁,https://live.metshop.top/huya/11601986

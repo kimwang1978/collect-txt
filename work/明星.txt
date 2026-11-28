@@ -11,13 +11,13 @@
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-5.ctv
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.ctv
 刘德华,https://vd2.bdstatic.com/mda-pjkfx92jybywmm4j/720p/h264/1697888378863819752/mda-pjkfx92jybywmm4j.mp4
-刘德华,http://footyun.top:35455/huya/11342424
 刘德华,http://live.nctv.top/huya.php?id=11342424
 刘德华,http://74.91.26.218:82/live/vlldh.m3u8
 刘德华,https://live.iill.top/huya/11342424
 刘德华,http://124.248.69.76:26781/huya/11342424
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 星爷,http://1.94.31.214:35455/huya/11342412
+成龙,https://epg.pw/stream/399ead0247211727dbc10805df54fbc29e4298fdde428567fc6abcea3cde059f.ctv
 成龙,http://live.nctv.top/huya.php?id=11342386
 成龙,http://74.91.26.218:82/live/vlcl.m3u8
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
@@ -34,8 +34,9 @@
 电影_周星星,https://lbds.us.ci/11336587
 电影_周星星,http://live.nctv.top/huya.php?id=11336587
 电影_成龙,https://lbds.us.ci/11342386
-电影_成龙,http://107.150.60.122/live/lbcl.m3u8
 电影_成龙,http://192.151.150.154/live/lbcl.m3u8
+电影_成龙,http://107.150.60.122/live/lbcl.m3u8
+电影_成龙,https://mursor.ottiptv.cc/yy/1354888751
 电影_洪金宝,https://lbds.us.ci/11279251
 电影_洪金宝,http://footyun.top:35455/huya/11279251
 电影_洪金宝,http://live.nctv.top/huya.php?id=11279251
@@ -56,4 +57,3 @@
 电影_梁家辉,http://124.248.69.76:26781/huya/11342429
 电影_梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
 电影_刘德华,https://lbds.us.ci/11342424
-电影_刘德华,https://mursor.ottiptv.cc/yy/1354888726
